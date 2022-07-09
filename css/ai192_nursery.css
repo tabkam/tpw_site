@@ -1,0 +1,159 @@
+/* CSS Document */
+
+.psGrid {
+    display: grid;
+    grid-template-areas:
+        'title     title    title title'
+        'pimg      pimg     descr descr'
+        'pimg      pimg     descr descr'
+        'btnGrid   btnGrid  descr descr'
+        'nav1      nav2     nav3  nav4';
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: pimg;
+	grid-area: btnGrid;
+    grid-area: descr;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+}
+
+.arcimBtn {
+    display: grid;
+    grid-template-areas:
+        'btn1 btn2 btn3 btn4 btn5 btn6';
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 40px;
+    background-color: deepskyblue;
+    grid-area: btn1;
+    grid-area: btn2;
+    grid-area: btn3;
+    grid-area: btn4;
+    grid-area: btn5;
+    grid-area: btn6;
+}
+
+.psGrid > div {
+    /* background-color: lightskyblue; */
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 45px;
+}
+
+
+#pimg, #descr {
+    justify-self: center;
+    align-self: center;
+}
+
+div > #descr {
+    font-size: 25px;
+}
+
+#pimg, #descr, #btnGrid, #nav1, #nav2, #nav3, #nav4 {
+    margin: auto;
+}
+
+#title {
+    grid-area: title;
+}
+
+#btnGrid {
+    grid-area: btnGrid;
+}
+
+#pimg {
+    grid-area: pimg;
+}
+
+#pimg > img {
+    width: 350px;
+}
+
+#descr {
+    grid-area: descr;
+}
+
+#btn1 {
+    grid-area: btn1;
+}
+
+#btn2 {
+    grid-area: btn2;
+}
+
+#btn3 {
+    grid-area: btn3;
+}
+
+#btn4 {
+    grid-area: btn4;
+}
+
+#btn5 {
+    grid-area: btn5;
+}
+
+#btn6 {
+    grid-area: btn6;
+}
+
+#nav1 {
+    grid-area: nav1;
+}
+
+#nav2 {
+    grid-area: nav2;
+}
+
+#nav3 {
+    grid-area: nav3;
+}
+
+#nav4 {
+    grid-area: nav4;
+}
+
+.textAlign {
+    text-align: right;
+}
+
+@media (max-width: 1200px) {
+	    #title { font-size: 45px; }
+	    #descr { font-size: 30px; }
+}
+
+@media (max-width: 992px) {
+	    #title { font-size: 30px; }
+	    #descr { font-size: 25px; }
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; }
+}
+
+@media (max-width: 576px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title'
+            'pimg pimg'
+            'btnGrid btnGrid'
+            'descr descr'
+            'nav1 nav2'
+            'nav3 nav4';
+        grid-template-columns: 1fr 1fr;
+    }
+        #title { font-size: 20px; }
+        #descr > p { font-size: 17.5px; }    
+}

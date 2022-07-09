@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI192 Nursery Rhymes</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link href="css/tpwcss.css" rel="stylesheet">
+    <link href="css/ai192_nursery.css" rel="stylesheet">
+  </head>
+  <body class="bodyColor">
+    <!-- Bootstrap Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light navColor"> <a class="navbar-brand" href="#">TPW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="portfolio.html">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="pokemon.html">Pok&eacute;mon</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+          </ul>
+        </div>
+    </nav>
+    <!-- End of Bootstrap Navigation -->
+      
+  	<!-- body code goes here -->
+    <div class="psGrid gridPadding">
+        <div id="title">
+            <strong>Nursery Rhymes</strong>
+        </div>
+        <div id="pimg">
+            <img class="img-fluid" src="images/ai192_images/nursery_scn1.gif" alt="Nursery Rhyme">
+        </div>
+         <div id="descr">
+            <p>This is my Nursery Rhyme project of the Humpty Dumpty rhyme. We were supposed to design some scenes of the Humpty Dumpty nursery rhyme that were created unusually.</p><p>I've worked on my project with my sister Becky. Becky and her boyfriend &#40;later husband&#41; Aaron made a design of six scenes. We've taken some pictures of our Lego pieces and board and we've traced the photos of them.</p><p>To view the scenes, click on the number buttons.</p>
+        </div>
+		<div id='btnGrid'>
+			<div class="arcimBtn">
+				<div id="btn1">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln1_btn.gif">
+				</div>
+				<div id="btn2">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln2_btn.gif">
+				</div>
+				<div id="btn3">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln3_btn.gif">
+				</div>
+				<div id="btn4">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln4_btn.gif">
+				</div>
+				<div id="btn5">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln5_btn.gif">
+				</div>
+				<div id="btn6">
+					<img class="img-fluid" src="images/ai192_images/nursery_ln6_btn.gif">
+				</div>
+			</div>
+		</div>
+        <div id="nav1">
+            <a href="ai192_postcard.html"><img class="img-fluid" src="./images/ai192_images/postcard_button.gif" alt="Alliterative Alphabetical Postcard"></a>
+        </div>
+        <div id="nav2">
+            <a href="ai192_tech.html"><img class="img-fluid" src="./images/ai192_images/tech_button.gif" alt="Technical Drawing"></a>
+        </div>
+        <div id="nav3">
+            <a href="ai192_graffiti.html"><img class="img-fluid" src="./images/ai192_images/graffiti_button.gif" alt="Graffiti Name"></a>
+        </div>
+        <div id="nav4">
+            <a href="ai192_self.html"><img class="img-fluid" src="./images/ai192_images/self_button.gif" alt="Self Portrait"></a>
+        </div>
+    </div>
+	  
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+    <script type="text/javascript">
+       
+        $('#btn1').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn1.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn2').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn2.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn3').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn3.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+       
+        $('#btn4').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn4.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn5').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn5.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn6').click(function() {
+            var imgSrc = './images/ai192_images/nursery_scn6.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+     </script>
+  </body>
+</html>

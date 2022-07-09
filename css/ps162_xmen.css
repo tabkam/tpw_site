@@ -1,0 +1,149 @@
+/* CSS Document */
+
+.psGrid {
+    display: grid;
+    grid-template-areas:
+        'title title title title title'
+        'ximg ximg empty1 descr descr'
+        'ximg ximg btn1 descr descr'
+        'ximg ximg btn2 descr descr'
+        'ximg ximg btn3 descr descr'
+        'ximg ximg empty2 descr descr'
+        'nav1 nav2 nav3 nav4 nav5';
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: ximg;
+    grid-area: empty1;
+    grid-area: empty2;
+    grid-area: descr;
+    grid-area: btn1;
+    grid-area: btn2;
+    grid-area: btn3;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+    grid-area: nav5;
+}
+
+
+.psGrid > div {
+    /* background-color: lightskyblue; */
+    padding: 20px;
+    font-size: 25px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#ximg, #btn1, #btn2, #btn3, #descr {
+    justify-self: center;
+    align-self: center;
+}
+
+
+#ximg, #btn1, #btn2, #btn3, #descr, #nav1, #nav2, #nav3, #nav4, #nav5 {
+    margin: auto;
+}
+
+#title {
+    grid-area: title;
+}
+
+#ximg {
+    grid-area: ximg;
+}
+
+#empty1 {
+    grid-area: empty1;
+}
+
+#empty2 {
+    grid-area: empty2;
+}
+
+#descr {
+    grid-area: descr;
+}
+
+#btn1 {
+    grid-area: btn1;
+}
+
+#btn2 {
+    grid-area: btn2;
+}
+
+#btn3 {
+    grid-area: btn3;
+}
+
+#nav1 {
+    grid-area: nav1;
+}
+
+#nav2 {
+    grid-area: nav2;
+}
+
+#nav3 {
+    grid-area: nav3;
+}
+
+#nav4 {
+    grid-area: nav4;
+}
+
+#nav5 {
+    grid-area: nav5;
+}
+
+.textAlign {
+    text-align: right;
+}
+
+@media (max-width: 992px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title title title title'
+            'ximg ximg btn1 descr descr'
+            'ximg ximg btn2 descr descr'
+            'ximg ximg btn3 descr descr'
+            'nav1 nav2 nav3 nav4 nav5';
+        /* grid-auto-columns: 1fr 1fr 1fr 1fr 1fr; */
+    }
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; }
+    #empty1, #empty2 { display: none; }
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 20px; }
+    #descr { font-size: 15px; }
+}
+
+@media (max-width: 576px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title'
+            'ximg ximg'
+            'btn1 btn2'
+            'btn3 btn3'
+            'descr descr'
+            'nav1 nav2'
+            'nav3 nav4'
+            'nav5 nav5';
+        grid-template-columns: 1fr 1fr;
+    }
+        #title { font-size: 20px; }
+        #descr > p { font-size: 17.5px; }
+}

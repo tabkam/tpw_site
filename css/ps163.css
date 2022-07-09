@@ -1,0 +1,74 @@
+/* CSS Document */
+
+.ps163Grid {
+    display: grid;
+    grid-template-areas:
+        'title      title'
+        'marvel     signs'
+        'arcimboldo pisces';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+}
+
+.ps163Grid > div {
+    background-color: deepskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#marvel, #pisces, #signs, #arcimboldo {
+    justify-self: center;
+    align-self: center;
+}
+
+#marvel > a > img, #pisces > a > img, #signs > a > img, #arcimboldo > a > img {
+     width: 344px;
+}
+
+#marvel{
+    grid-area: marvel;
+}
+
+#pisces{
+    grid-area: pisces;
+}
+
+#signs {
+    grid-area: signs;
+}
+
+#arcimboldo {
+    grid-area: arcimboldo;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 25px; }
+        #marvel > a > img, #pisces > a > img, #signs > a > img, #arcimboldo > a > img {
+         width: 200px;
+    }
+}
+
+@media (max-width: 576px) {
+    .ps163Grid {
+        grid-template-areas:
+            'title'
+            'marvel'
+            'pisces'
+            'signs'
+            'arcimboldo';
+    }
+    #title { font-size: 20px; }
+}

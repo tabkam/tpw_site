@@ -1,0 +1,56 @@
+/* CSS Document */
+
+.folioGrid {
+    display: grid;
+    grid-template-areas:
+        'title'
+        'intro'
+        'ps162'
+        'ps163'
+        'ai192'
+        'fl164'
+        'as198'
+        'pf168';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: ps162;
+    grid-area: ps163;
+    grid-area: ai192;
+    grid-area: fl164;
+    grid-area: as198;
+    grid-area: pf168;
+}
+
+.folioGrid > div {
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#intro, #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #intro, #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #intro, #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}

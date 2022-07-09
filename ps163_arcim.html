@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PS163 Arcimboldo-Styled Self Portrait</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link href="css/tpwcss.css" rel="stylesheet">
+    <link href="css/ps163_arcim.css" rel="stylesheet">
+  </head>
+  <body class="bodyColor">
+    <!-- Bootstrap Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light navColor"> <a class="navbar-brand" href="#">TPW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="portfolio.html">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="pokemon.html">Pok&eacute;mon</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+          </ul>
+        </div>
+    </nav>
+    <!-- End of Bootstrap Navigation -->
+      
+  	<!-- body code goes here -->
+    <div class="psGrid gridPadding">
+        <div id="title">
+            <strong>Arcimboldo-Styled Self Portrait</strong>
+        </div>
+        <div id="pimg">
+            <img class="img-fluid" src="images/ps163_images/arcim_photo.gif" alt="Arcimboldo-Styled Self Portrait">
+        </div>
+         <div id="descr">
+            <p>This is a Self-Portrait project. For this project, the assignment was to express myself. Since I Like vegatables and fruits, I decided to do my Arcimboldo style self portrait. The first button is Photograph. The Image Portrait button is a self portrait that I created using pictures of fruits and vegetables that I downloaded from the Internet. The Digi-Paint button is a self portrait where I used the brush and eyedropper tools to paint the images.</p>
+        </div>
+		<div id='btnGrid'>
+			<div class="arcimBtn">
+				<div id="btn1">
+					<img class="img-fluid" src="images/ps163_images/arcim_photo_btn.gif" alt="Photo Button">
+				</div>
+				<div id="btn2">
+					<img class="img-fluid" src="images/ps163_images/arcim_bef_dp_btn.gif" alt="Image Portrait">
+				</div>
+				<div id="btn3">
+					<img class="img-fluid" src="images/ps163_images/arcim_aft_dp_btn.gif" alt="Digi-Paint">
+				</div>
+			</div>
+		</div>
+        <div id="nav1">
+            <a href="ps163_marvel.html"><img class="img-fluid" src="./images/ps163_images/marvel_btn.gif" alt="Marvel Saga Comic Book Pages"></a>
+        </div>
+        <div id="nav2">
+            <a href="ps163_pisces.html"><img class="img-fluid" src="./images/ps163_images/pisces_btn.gif" alt="Astrological Sign"></a>
+        </div>
+        <div id="nav3">
+            <a href="ps163_signs.html"><img class="img-fluid" src="./images/ps163_images/signs_btn.gif" alt="Neighborhood Signs"></a>
+        </div>
+        <div id="nav4">
+            <a href="index.html"><img class="img-fluid" src="./images/ps162_menu_aboutme_button.gif" alt="Home"></a>
+        </div>
+    </div>
+	  
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+    <script type="text/javascript">
+       
+        $('#btn1').click(function() {
+            var imgSrc = './images/ps163_images/arcim_photo.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn2').click(function() {
+            var imgSrc = './images/ps163_images/arcim_bef_dp.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+        
+        $('#btn3').click(function() {
+            var imgSrc = './images/ps163_images/arcim_aft_dp.gif';
+            $("#pimg img").attr('src', imgSrc);
+        });
+     </script>
+  </body>
+</html>

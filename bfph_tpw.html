@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Billy's Food Playing Habit</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link href="css/tpwcss.css" rel="stylesheet">
+    <link href="css/bfph_tpw.css" rel="stylesheet">
+  </head>
+    <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+    <script src="js/bfph.js"></script>
+    <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+            canvas = document.getElementById("canvas");
+            anim_container = document.getElementById("animation_container");
+            dom_overlay_container = document.getElementById("dom_overlay_container");
+            var comp=AdobeAn.getComposition("87577F7D11B24D5C819B1F17A412A40C");
+            var lib=comp.getLibrary();
+            var loader = new createjs.LoadQueue(false);
+            loader.installPlugin(createjs.Sound);
+            loader.addEventListener("fileload", function(evt){handleFileLoad(evt,comp)});
+            loader.addEventListener("complete", function(evt){handleComplete(evt,comp)});
+            var lib=comp.getLibrary();
+            loader.loadManifest(lib.properties.manifest);
+        }
+        function handleFileLoad(evt, comp) {
+            var images=comp.getImages();	
+            if (evt && (evt.item.type == "image")) { images[evt.item.id] = evt.result; }	
+        }
+        function handleComplete(evt,comp) {
+            //This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+            var lib=comp.getLibrary();
+            var ss=comp.getSpriteSheet();
+            var queue = evt.target;
+            var ssMetadata = lib.ssMetadata;
+            for(i=0; i<ssMetadata.length; i++) {
+                ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+            }
+            exportRoot = new lib.bfph();
+            stage = new lib.Stage(canvas);	
+            //Registers the "tick" event listener.
+            fnStartAnimation = function() {
+                stage.addChild(exportRoot);
+                createjs.Ticker.framerate = lib.properties.fps;
+                createjs.Ticker.addEventListener("tick", stage);
+            }	    
+            //Code to support hidpi screens and responsive scaling.
+            AdobeAn.makeResponsive(true,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+            AdobeAn.compositionLoaded(lib.properties.id);
+            fnStartAnimation();
+        }
+        function playSound(id, loop, offset) {
+            return createjs.Sound.play(id, {'interrupt':createjs.Sound.INTERRUPT_EARLY, 'loop': loop, 'offset': offset});}
+        </script>
+  <body class="bodyColor">
+    <!-- Bootstrap Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light navColor"> <a class="navbar-brand" href="#">TPW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="portfolio.html">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="pokemon.html">Pok&eacute;mon</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+          </ul>
+        </div>
+    </nav>
+    <!-- End of Bootstrap Navigation -->
+      
+  	<!-- body code goes here -->
+    <div class="bfphGrid gridPadding">
+        <div id="title">
+            <strong>Billy's Food Playing Habit</strong>
+        </div>
+        <div id="anim">
+            <div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:760px; height:420px">
+                <canvas id="canvas" width="760" height="420" style="position: absolute; display: block; background-color:lightskyblue;"></canvas>
+                <div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:760px; height:420px; position: absolute; left: 0px; top: 0px; display: block;">
+                </div>
+	        </div>
+        </div>
+         <div id="descr">
+            <p>This animated short shows Billy Patrick Muddington showing his mother, a mother Swampert, his mashed potatoes that he made into a head, causing her to yell at him in anger. I drew it in Illustrator, and I imported them into Animate. Then I animated the characters, speech balloons and mashed potatoes using motion tweens. I animated Billy's arm with using the Bone Tool. Between animated sequences, I added narration card for this story.</p>
+        </div>
+    </div>
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            init();
+        });
+    </script>
+  </body>
+</html>

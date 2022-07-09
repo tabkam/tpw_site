@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.homeGrid {
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'image intro'
+        'image bio'
+        'image job';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+}
+
+.homeGrid > div {
+    padding: 20px;
+    font-size: 27.5px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#portrait {
+    grid-area: image;
+}
+
+#intro {
+    grid-area: intro;
+}
+
+#aboutMe {
+    grid-area: bio;
+}
+
+#job {
+    grid-area: job;
+}
+
+@media (max-width: 768px) {
+    .homeGrid {
+        display: grid;
+        grid-template-areas:
+            'title'
+            'image'
+            'intro'
+            'bio'
+            'job';
+    }
+    #title { font-size: 30px; }
+    #intro { font-size: 20px; }
+    #aboutMe { font-size: 20px; }
+    #job { font-size: 20px; }
+}
+
+@media (max-width: 576px) {
+    .homeGrid {
+        display: grid;
+        grid-template-areas:
+            'title'
+            'image'
+            'intro'
+            'bio'
+            'job';
+    grid-gap: 5px;
+    }
+    #title { font-size: 20px; }
+    #intro { font-size: 15px; }
+    #aboutMe { font-size: 15px; }
+    #job { font-size: 15px; }
+}

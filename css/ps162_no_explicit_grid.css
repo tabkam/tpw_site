@@ -1,0 +1,350 @@
+/* CSS Document */
+
+.ps162Grid {
+    display: grid;
+    grid-template-areas: auto auto auto;
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    text-align: center;
+    font-size: 40px;
+}
+
+#turtle {
+    grid-column-start: 2; /* grid-column-start and end refer to grid lines, so 1 is the first and 4 is the last line in a 3 column grid  */
+    grid-column-end: 4;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}/* CSS Document */
+
+.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}/* CSS Document */
+
+.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}/* CSS Document */
+
+.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'x-men brendan becky'
+        'giJoe empty turtle';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: x-men;
+    grid-area: brendan;
+    grid-area: becky;
+    grid-area: giJoe;
+    grid-area: empty;
+    grid-area: turtle;
+}
+
+.ps162Grid > div {
+    background-color: lightskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#x-men, #brendan, #becky, #turtle, #empty, #giJoe {
+    /*background-color: red;*/
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 30px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 20px; 
+        padding: 10px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #ps162, #ps163, #ai192, #fl164, #as198, #pf168 {
+        font-size: 15px;
+        grid-gap: 5px;
+        padding: 5px; }
+}/* CSS Document */
+

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PS162 Brendan Collage</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link href="css/tpwcss.css" rel="stylesheet">
+    <link href="css/ps162_grid.css" rel="stylesheet">
+  </head>
+  <body class="bodyColor">
+    <!-- Bootstrap Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light navColor"> <a class="navbar-brand" href="#">TPW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="portfolio.html">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="pokemon.html">Pok&eacute;mon</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+          </ul>
+        </div>
+    </nav>
+    <!-- End of Bootstrap Navigation -->
+      
+  	<!-- body code goes here -->
+    <div class="psGrid gridPadding">
+        <div id="title">
+            <strong>Brendan Collage</strong>
+        </div>
+        <div id="cimg">
+            <img class="img-fluid" src="images/ps162_images/brendan_photo.gif" alt="Brendan Collage">
+        </div>
+         <div id="descr">
+            <p>This is my project of my cousin Brendan Hoolihan drinking with his straw. I tore a paper into pieces, and I scanned it in. I used the "Posterize" to sketch the lines on the image following the colors. I numbered the colors. I used the Magic Wand Tool on the piece of paper and I cut and paste it in different piece to fill in the colors.</p><p>To see my final project that I did, move the mouse on the photo of my cousin Brendan.</p>
+        </div>
+        <div id="nav1">
+             <a href="index.html"><img class="img-fluid" src="./images/ps162_menu_aboutme_button.gif" alt="Home Page"></a>
+        </div>
+        <div id="nav2">
+            <a href="ps162_xmen.html"><img class="img-fluid" src="./images/ps162_menu_cover_button.gif" alt="X-Men Comic Book Pages"></a>
+        </div>
+        <div id="nav3">
+            <a href="ps162_becky.html"><img class="img-fluid" src="./images/ps162_menu_digipaint_button.gif" alt="Becky DigiPaint"></a>
+        </div>
+        <div id="nav4">
+            <a href="ps162_thomas.html"><img class="img-fluid" src="./images/ps162_menu_ad_button.gif" alt="Turtle Ad"></a>
+        </div>
+        <div id="nav5">
+            <a href="ps162_gijoe.html"><img class="img-fluid" src="./images/ps162_menu_gijoe_button.gif" alt="G.I. Joe Movie Posters"></a>
+        </div>
+        <div id="empty1">
+            &nbsp;
+        </div>
+        <div id="empty2">
+            &nbsp;
+        </div>
+    </div>
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+    <script type="text/javascript">
+        /*$(function() {
+            $('#descr').hover(changeAlign,changeAlign);
+        });
+        
+        function changeAlign() {
+            $("#descr").toggleClass("textAlign");
+        }*/
+        
+        $(function() {
+            $('#cimg').hover(hoverOn,hoverOff);
+        });
+        
+        function hoverOn() {
+            //var imgSrc = $('#ximg img').attr('src');
+            var imgSrc = './images/ps162_images/brendan_collage.gif';
+            //$("#descr p").append(imgSrc + ".");
+            $("#cimg img").attr('src', imgSrc);
+        }
+        
+        function hoverOff() {
+            var imgSrc = $('#cimg img').attr('src');
+            //console.log(' hoverOff imgSrc = ' + imgSrc);
+            var imgSrc = './images/ps162_images/brendan_photo.gif';
+            //$("#descr p").append(imgSrc + ".");
+            $("#cimg img").attr('src', imgSrc);
+        }
+    </script>
+  </body>
+</html>

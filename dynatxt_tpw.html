@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dynamic Text</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link href="css/tpwcss.css" rel="stylesheet">
+    <link href="css/dynatxt_tpw.css" rel="stylesheet">
+  </head>
+    <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+    <script src="js/dynamic_text.js"></script>
+    <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+            canvas = document.getElementById("canvas");
+            anim_container = document.getElementById("animation_container");
+            dom_overlay_container = document.getElementById("dom_overlay_container");
+            var comp=AdobeAn.getComposition("3B551D9EE9794076B3100571E3565261");
+            var lib=comp.getLibrary();
+            handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+            //This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+            var lib=comp.getLibrary();
+            var ss=comp.getSpriteSheet();
+            exportRoot = new lib.dynamic_text();
+            stage = new lib.Stage(canvas);	
+            //Registers the "tick" event listener.
+            fnStartAnimation = function() {
+                stage.addChild(exportRoot);
+                createjs.Ticker.framerate = lib.properties.fps;
+                createjs.Ticker.addEventListener("tick", stage);
+            }	    
+            //Code to support hidpi screens and responsive scaling.
+            AdobeAn.makeResponsive(true,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+            AdobeAn.compositionLoaded(lib.properties.id);
+            fnStartAnimation();
+        }
+    </script>
+  <body class="bodyColor">
+    <!-- Bootstrap Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light navColor"> <a class="navbar-brand" href="#">TPW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="portfolio.html">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="pokemon.html">Pok&eacute;mon</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+          </ul>
+        </div>
+    </nav>
+    <!-- End of Bootstrap Navigation -->
+      
+  	<!-- body code goes here -->
+    <div class="dynaGrid gridPadding">
+        <div id="title">
+            <strong>Dynamic Text</strong>
+        </div>
+        <div id="anim">
+            <div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:800px; height:600px">
+                <canvas id="canvas" width="800" height="600" style="position: absolute; display: block; background-color:lightskyblue;"></canvas>
+                <div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:800px; height:600px; position: absolute; left: 0px; top: 0px; display: block;">
+                </div>
+	        </div>
+        </div>
+         <div id="descr">
+            <p>This animated project shows Billy Patrick Muddington sitting on a chair watching the airplane with a banner fly by through the window. I drew it in Illustrator, and I imported them into Animate. Then I animated the airplane with a motion tween. I've added the dynamic text onto the banner of the airplane. I've movie clip buttons to change the language into English, Spanish and French, and to restart the animation.</p>
+        </div>
+    </div>
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            init();
+        });
+    </script>
+  </body>
+</html>

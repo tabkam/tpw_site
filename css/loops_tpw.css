@@ -1,0 +1,74 @@
+/* CSS Document */
+
+.loopsGrid {
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'descr anim';
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: descr;
+    grid-area: anim;
+}
+
+.loopsGrid > div {
+    background-color: deepskyblue;
+    /*padding: 10px;*/
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.gridPadding {
+    /* background-color: lightskyblue; */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#anim {
+    grid-area: anim;
+    justify-self: center;
+    align-self: center;
+}
+
+#descr {
+    grid-area: descr;
+    justify-self: center;
+    align-self: center;
+}
+
+@media (max-width: 1200px) {
+    .loopsGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    } 
+    /* #descr { font-size: 18px; } */
+}
+
+@media (max-width: 992px) {
+    #title { font-size: 25px; }
+    #descr { font-size: 16px;
+     padding: 20px; }
+}
+
+@media (max-width: 768px) {
+    #descr { font-size: 14px;
+             padding: 30px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #descr { font-size: 15px; padding: 10px; }
+}

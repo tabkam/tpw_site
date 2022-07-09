@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navColor {
+    background-color: lightskyblue;
+}
+
+.bodyColor {
+    background-color: deepskyblue;
+}
+
+/*.gridPadding {
+    	padding-left: 10px;
+    	padding-right: 10px;
+	}*/
+
+@media (min-width: 1200px) {
+	.gridPadding {
+    	/* background-color: lightskyblue; */
+    	padding-left: 10%;
+    	padding-right: 10%;
+	}
+}

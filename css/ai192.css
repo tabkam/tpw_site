@@ -1,0 +1,90 @@
+/* CSS Document */
+
+.ps162Grid {
+    display: grid;
+    grid-template-areas:
+        'title title title'
+        'nursery postcard tech'
+        'graffiti graffiti self';
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: nursery;
+    grid-area: postcard;
+    grid-area: tech;
+    grid-area: graffiti;
+    grid-area: self;
+}
+
+.ps162Grid > div {
+    background-color: deepskyblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#nursery, #postcard, #tech, #graffiti, #self {
+    justify-self: center;
+    align-self: center;
+}
+
+#nursery > a > img, #postcard > a > img, #tech > a > img, #graffiti > a > img, #self > a > img {
+     width: 344px;
+}
+
+#graffiti > a > img {
+     width: 600px;
+}
+
+#nursery {
+    grid-area: nursery;
+}
+
+#postcard {
+    grid-area: postcard;
+}
+
+#tech {
+    grid-area: tech;
+}
+
+#graffiti {
+    grid-area: graffiti;
+}
+
+#self {
+    grid-area: self;
+}
+
+@media (max-width: 768px) {
+    .ps162Grid {
+        grid-template-areas:
+            'title title'
+            'nursery postcard'
+            'tech self'
+            'graffiti graffiti';
+    }
+    #title { font-size: 25px; }
+    #nursery > img, #postcard > img, #tech > img, #self > img, #graffiti > img {
+    margin-top: 10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .ps162Grid {
+        grid-template-areas:
+            'title'
+            'nursery'
+            'postcard'
+            'tech'
+            'self'
+            'graffiti';
+    }
+    #title { font-size: 20px; }
+}
