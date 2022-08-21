@@ -1,0 +1,10 @@
+﻿Level, Move , Type , Pwr. , Acc. , PP
+1,Tackle,Normal,35,95%,35
+1,Growl,Normal,—,100%,40
+7,Leech Seed,Grass,—,90%,10
+13,Vine Whip,Grass,35,100%,10
+20,PoisonPowder,Poison,—,75%,35
+27,Razor Leaf,Grass,55,95%,25
+34,Growth,Normal,—,—%,40
+41,Sleep Powder,Grass,—,75%,15
+48,SolarBeam,Grass,120,100%,10

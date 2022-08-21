@@ -1,0 +1,76 @@
+/* CSS Document */
+
+.mainBody {
+    background-color: deepskyblue;
+    margin: 56px 0 90px 0;
+}
+
+.nav-background-color {
+    background-color: lightskyblue;
+}
+
+#heroHeading {
+    position: absolute;
+    color: white;
+    text-shadow: 2px 1px 0 black;
+    padding-top: 28%;
+    padding-left: 1%;
+}
+
+p a {
+    color: blue;
+    font-size: 15px;
+}
+
+
+footer {
+    background-color: lightskyblue;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 15px;
+}
+
+@media (max-width: 1200px) {
+    #heroHeading {
+        font-size: 36px;
+        padding-top: 28%;
+    }
+    
+    footer {
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 992px) {
+    #heroHeading {
+        font-size: 30px;
+        padding-top: 28%;
+    }
+    
+    footer {
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    #heroHeading {
+        font-size: 24px;
+        padding-top: 28%;
+    }
+    
+    footer {
+        padding-top: 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    #heroHeading {
+        font-size: 18px;
+        padding-top: 28%;
+    }
+    
+    footer {
+        padding-top: 15px;
+    }
+}

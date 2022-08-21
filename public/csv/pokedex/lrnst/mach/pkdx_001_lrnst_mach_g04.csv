@@ -1,0 +1,29 @@
+﻿Sprite, TM , Move , Type , Cat. , Pwr. , Acc. , PP ,Super Contest,Appeal
+,TM06,Toxic,Poison,Status,—,85%,10,Smart,2 ♥♥
+,TM09,Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥
+,TM10,Hidden Power,Normal,Special,—,100%,15,Smart,1 ♥
+,TM11,Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥
+,TM17,Protect,Normal,Status,—,—%,10,Cute,0
+,TM19,Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥
+,TM21,Frustration,Normal,Physical,—,100%,20,Cute,2 ♥♥
+,TM22,SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥
+,TM27,Return,Normal,Physical,—,100%,20,Cute,2 ♥♥
+,TM32,Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥
+,TM36,Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥
+,TM42,Facade,Normal,Physical,70,100%,20,Cute,2 ♥♥
+,TM43,Secret Power,Normal,Physical,70,100%,20,Smart,2 ♥♥
+,TM44,Rest,Psychic,Status,—,—%,10,Cute,0
+,TM45,Attract,Normal,Status,—,100%,15,Cute,2 ♥♥
+,TM53,Energy Ball,Grass,Special,80,100%,10,Beauty,2 ♥♥
+,TM58,Endure,Normal,Status,—,—%,10,Tough,2 ♥♥
+,TM70,Flash,Normal,Status,—,100%,20,Beauty,2 ♥♥
+,TM75,Swords Dance,Normal,Status,—,—%,30,Beauty,0
+,TM78,Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥
+,TM82,Sleep Talk,Normal,Status,—,—%,10,Cute,3 ♥♥♥
+,TM83,Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥
+,TM86,Grass Knot,Grass,Special,—,100%,20,Smart,2 ♥♥
+,TM87,Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥
+,TM90,Substitute,Normal,Status,—,—%,10,Smart,1 ♥
+,HM01,Cut,Normal,Physical,50,95%,30,Cool,3 ♥♥♥
+,HM04,Strength,Normal,Physical,80,100%,15,Tough,3 ♥♥♥
+,HM06,Rock Smash,Fighting,Physical,40,100%,15,Tough,2 ♥♥

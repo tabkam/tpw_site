@@ -1,0 +1,98 @@
+/* CSS Document */
+
+.jtGrid {
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'descr anim';
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: descr;
+    grid-area: anim;
+}
+
+.jtGrid > div {
+    background-color: deepskyblue;
+    /*padding: 10px;*/
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.jtGrid > div > #anim {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.gridPadding {
+    /* background-color: lightskyblue; */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#anim {
+    grid-area: anim;
+    justify-self: center;
+    align-self: center;
+}
+
+#descr {
+    grid-area: descr;
+    justify-self: center;
+    align-self: center;
+}
+
+@media (max-width: 1200px) {
+    .jtGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    }
+    #descr { font-size: 16px; }
+}
+
+@media (max-width: 992px) {
+    .jtGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    }
+    #title { font-size: 25px; }
+    #descr { font-size: 16px; }
+}
+
+@media (max-width: 768px) {
+    .jtGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    }
+    #descr { font-size: 16px; }
+}
+
+@media (max-width: 576px) {
+    .jtGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    }
+    #title { font-size: 20px; }
+    #descr { font-size: 16px; }
+}

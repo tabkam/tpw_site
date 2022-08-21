@@ -1,0 +1,931 @@
+﻿#,Menu Sprite,Name,English category,"Japanese category
+(kana)","Japanese category
+(translated)"
+1,,Bulbasaur,Seed Pokémon,たねポケモン,Seed Pokémon
+2,,Ivysaur,Seed Pokémon,たねポケモン,Seed Pokémon
+3,,Venusaur,Seed Pokémon,たねポケモン,Seed Pokémon
+4,,Charmander,Lizard Pokémon,とかげポケモン,Lizard Pokémon
+5,,Charmeleon,Flame Pokémon,かえんポケモン,Flame Pokémon
+6,,Charizard,Flame Pokémon,かえんポケモン,Flame Pokémon
+7,,Squirtle,Tiny Turtle Pokémon,かめのこポケモン,Young Turtle Pokémon
+8,,Wartortle,Turtle Pokémon,かめポケモン,Turtle Pokémon
+9,,Blastoise,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+10,,Caterpie,Worm Pokémon,いもむしポケモン,Caterpillar Pokémon
+11,,Metapod,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+12,,Butterfree,Butterfly Pokémon,ちょうちょポケモン,Butterfly Pokémon
+13,,Weedle,Hairy Bug Pokémon,けむしポケモン,Hairy Caterpillar Pokémon
+14,,Kakuna,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+15,,Beedrill,Poison Bee Pokémon,どくばちポケモン,Poison Bee Pokémon
+16,,Pidgey,Tiny Bird Pokémon,ことりポケモン,Tiny Bird Pokémon
+17,,Pidgeotto,Bird Pokémon,とりポケモン,Bird Pokémon
+18,,Pidgeot,Bird Pokémon,とりポケモン,Bird Pokémon
+19,,Rattata,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+20,,Raticate,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+21,,Spearow,Tiny Bird Pokémon,ことりポケモン,Tiny Bird Pokémon
+22,,Fearow,Beak Pokémon,くちばしポケモン,Beak Pokémon
+23,,Ekans,Snake Pokémon,へびポケモン,Snake Pokémon
+24,,Arbok,Cobra Pokémon,コブラポケモン,Cobra Pokémon
+25,,Pikachu,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+26,,Raichu,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+27,,Sandshrew,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+28,,Sandslash,Mouse Pokémon,ねずみポケモン,Mouse Pokémon
+29,,Nidoran♀,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+30,,Nidorina,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+31,,Nidoqueen,Drill Pokémon,ドリルポケモン,Drill Pokémon
+32,,Nidoran♂,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+33,,Nidorino,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+34,,Nidoking,Drill Pokémon,ドリルポケモン,Drill Pokémon
+35,,Clefairy,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+36,,Clefable,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+37,,Vulpix,Fox Pokémon,きつねポケモン,Fox Pokémon
+38,,Ninetales,Fox Pokémon,きつねポケモン,Fox Pokémon
+39,,Jigglypuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+40,,Wigglytuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+41,,Zubat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+42,,Golbat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+43,,Oddish,Weed Pokémon,ざっそうポケモン,Weed Pokémon
+44,,Gloom,Weed Pokémon,ざっそうポケモン,Weed Pokémon
+45,,Vileplume,Flower Pokémon,フラワーポケモン,Flower Pokémon
+46,,Paras,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+47,,Parasect,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+48,,Venonat,Insect Pokémon,こんちゅうポケモン,Insect Pokémon
+49,,Venomoth,Poison Moth Pokémon,どくがポケモン,Poison Moth Pokémon
+50,,Diglett,Mole Pokémon,もぐらポケモン,Mole Pokémon
+51,,Dugtrio,Mole Pokémon,もぐらポケモン,Mole Pokémon
+52,,Meowth,Scratch Cat Pokémon,ばけねこポケモン,Bakeneko Pokémon
+53,,Persian,Classy Cat Pokémon,シャムネコポケモン,Siamese Cat Pokémon
+54,,Psyduck,Duck Pokémon,あひるポケモン,Duck Pokémon
+55,,Golduck,Duck Pokémon,あひるポケモン,Duck Pokémon
+56,,Mankey,Pig Monkey Pokémon,ぶたざるポケモン,Pig Monkey Pokémon
+57,,Primeape,Pig Monkey Pokémon,ぶたざるポケモン,Pig Monkey Pokémon
+58,,Growlithe,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+58,,Growlithe (Hisuian Form),Scout Pokémon,みはりポケモン,Lookout Pokémon
+59,,Arcanine,Legendary Pokémon,でんせつポケモン,Legend Pokémon
+60,,Poliwag,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+61,,Poliwhirl,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+62,,Poliwrath,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+63,,Abra,Psi Pokémon,ねんりきポケモン,Psychic Power Pokémon
+64,,Kadabra,Psi Pokémon,ねんりきポケモン,Psychic Power Pokémon
+65,,Alakazam,Psi Pokémon,ねんりきポケモン,Psychic Power Pokémon
+66,,Machop,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+67,,Machoke,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+68,,Machamp,Superpower Pokémon,かいりきポケモン,Superhuman Strength Pokémon
+69,,Bellsprout,Flower Pokémon,フラワーポケモン,Flower Pokémon
+70,,Weepinbell,Flycatcher Pokémon,ハエとりポケモン,Flycatcher Pokémon
+71,,Victreebel,Flycatcher Pokémon,ハエとりポケモン,Flycatcher Pokémon
+72,,Tentacool,Jellyfish Pokémon,くらげポケモン,Jellyfish Pokémon
+73,,Tentacruel,Jellyfish Pokémon,くらげポケモン,Jellyfish Pokémon
+74,,Geodude,Rock Pokémon,がんせきポケモン,Rock Pokémon
+75,,Graveler,Rock Pokémon,がんせきポケモン,Rock Pokémon
+76,,Golem,Megaton Pokémon,メガトンポケモン,Megaton Pokémon
+77,,Ponyta,Fire Horse Pokémon,ひのうまポケモン,Fire Horse Pokémon
+77,,Ponyta (Galarian Form),Unique Horn Pokémon,いっかくポケモン,One Horn Pokémon
+78,,Rapidash,Fire Horse Pokémon,ひのうまポケモン,Fire Horse Pokémon
+78,,Rapidash (Galarian Form),Unique Horn Pokémon,いっかくポケモン,One Horn Pokémon
+79,,Slowpoke,Dopey Pokémon,まぬけポケモン,Stupid Pokémon
+80,,Slowbro,Hermit Crab Pokémon,やどかりポケモン,Hermit Crab Pokémon
+81,,Magnemite,Magnet Pokémon,じしゃくポケモン,Magnet Pokémon
+82,,Magneton,Magnet Pokémon,じしゃくポケモン,Magnet Pokémon
+83,,Farfetch'd,Wild Duck Pokémon,かるがもポケモン,Spot-Billed Duck Pokémon
+84,,Doduo,Twin Bird Pokémon,ふたごどりポケモン,Twin Bird Pokémon
+85,,Dodrio,Triple Bird Pokémon,みつごどりポケモン,Triplet Bird Pokémon
+86,,Seel,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+87,,Dewgong,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+88,,Grimer,Sludge Pokémon,ヘドロポケモン,Sludge Pokémon
+89,,Muk,Sludge Pokémon,ヘドロポケモン,Sludge Pokémon
+90,,Shellder,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+91,,Cloyster,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+92,,Gastly,Gas Pokémon,ガスじょうポケモン,Gaseous Pokémon
+93,,Haunter,Gas Pokémon,ガスじょうポケモン,Gaseous Pokémon
+94,,Gengar,Shadow Pokémon,シャドーポケモン,Shadow Pokémon
+95,,Onix,Rock Snake Pokémon,いわへびポケモン,Rock Snake Pokémon
+96,,Drowzee,Hypnosis Pokémon,さいみんポケモン,Hypnosis Pokémon
+97,,Hypno,Hypnosis Pokémon,さいみんポケモン,Hypnosis Pokémon
+98,,Krabby,River Crab Pokémon,さわがにポケモン,Freshwater Crab Pokémon
+99,,Kingler,Pincer Pokémon,はさみポケモン,Pincer Pokémon
+100,,Voltorb,Ball Pokémon,ボールポケモン,Ball Pokémon
+100,,Voltorb (Hisuian Form),Sphere Pokémon,きゅうたいポケモン,Sphere Pokémon
+101,,Electrode,Ball Pokémon,ボールポケモン,Ball Pokémon
+101,,Electrode (Hisuian Form),Sphere Pokémon,きゅうたいポケモン,Sphere Pokémon
+102,,Exeggcute,Egg Pokémon,たまごポケモン,Egg Pokémon
+103,,Exeggutor,Coconut Pokémon,やしのみポケモン,Coconut Pokémon
+104,,Cubone,Lonely Pokémon,こどくポケモン,Lonely Pokémon
+105,,Marowak,Bone Keeper Pokémon,ほねずきポケモン,Bone Lover Pokémon
+106,,Hitmonlee,Kicking Pokémon,キックポケモン,Kick Pokémon
+107,,Hitmonchan,Punching Pokémon,パンチポケモン,Punch Pokémon
+108,,Lickitung,Licking Pokémon,なめまわしポケモン,Licking Pokémon
+109,,Koffing,Poison Gas Pokémon,どくガスポケモン,Poison Gas Pokémon
+110,,Weezing,Poison Gas Pokémon,どくガスポケモン,Poison Gas Pokémon
+111,,Rhyhorn,Spikes Pokémon,とげとげポケモン,Spiky Pokémon
+112,,Rhydon,Drill Pokémon,ドリルポケモン,Drill Pokémon
+113,,Chansey,Egg Pokémon,たまごポケモン,Egg Pokémon
+114,,Tangela,Vine Pokémon,ツルじょうポケモン,Vine Pokémon
+115,,Kangaskhan,Parent Pokémon,おやこポケモン,Parent and Child Pokémon
+116,,Horsea,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+117,,Seadra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+118,,Goldeen,Goldfish Pokémon,きんぎょポケモン,Goldfish Pokémon
+119,,Seaking,Goldfish Pokémon,きんぎょポケモン,Goldfish Pokémon
+120,,Staryu,Star Shape Pokémon,ほしがたポケモン,Star Shape Pokémon
+121,,Starmie,Mysterious Pokémon,なぞのポケモン,Mysterious Pokémon
+122,,Mr. Mime,Barrier Pokémon,バリアーポケモン,Barrier Pokémon
+122,,Mr. Mime (Galarian Form),Dancing Pokémon,ダンスポケモン,Dance Pokémon
+123,,Scyther,Mantis Pokémon,かまきりポケモン,Mantis Pokémon
+124,,Jynx,Human Shape Pokémon,ひとがたポケモン,Humanoid Pokémon
+125,,Electabuzz,Electric Pokémon,でんげきポケモン,Electric Shock Pokémon
+126,,Magmar,Spitfire Pokémon,ひふきポケモン,Spitfire Pokémon
+127,,Pinsir,Stag Beetle Pokémon,くわがたポケモン,Stag Beetle Pokémon
+128,,Tauros,Wild Bull Pokémon,あばれうしポケモン,Wild Bull Pokémon
+129,,Magikarp,Fish Pokémon,さかなポケモン,Fish Pokémon
+130,,Gyarados,Atrocious Pokémon,きょうあくポケモン,Atrocious Pokémon
+131,,Lapras,Transport Pokémon,のりものポケモン,Transport Pokémon
+132,,Ditto,Transform Pokémon,へんしんポケモン,Transformation Pokémon
+133,,Eevee,Evolution Pokémon,しんかポケモン,Evolution Pokémon
+134,,Vaporeon,Bubble Jet Pokémon,あわはきポケモン,Foam-Spitting Pokémon
+135,,Jolteon,Lightning Pokémon,かみなりポケモン,Lightning Pokémon
+136,,Flareon,Flame Pokémon,ほのおポケモン,Flame Pokémon
+137,,Porygon,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+138,,Omanyte,Spiral Pokémon,うずまきポケモン,Spiral Pokémon
+139,,Omastar,Spiral Pokémon,うずまきポケモン,Spiral Pokémon
+140,,Kabuto,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+141,,Kabutops,Shellfish Pokémon,こうらポケモン,Shell Pokémon
+142,,Aerodactyl,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+143,,Snorlax,Sleeping Pokémon,いねむりポケモン,Dozing Pokémon
+144,,Articuno,Freeze Pokémon,れいとうポケモン,Freezing Pokémon
+144,,Articuno (Galarian Form),Cruel Pokémon,れいこくポケモン,Cruel Pokémon
+145,,Zapdos,Electric Pokémon,でんげきポケモン,Electric Shock Pokémon
+145,,Zapdos (Galarian Form),Strong Legs Pokémon,けんきゃくポケモン,Good Walker Pokémon
+146,,Moltres,Flame Pokémon,かえんポケモン,Flame Pokémon
+146,,Moltres (Galarian Form),Malevolent Pokémon,じゃあくポケモン,Evil Pokémon
+147,,Dratini,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+148,,Dragonair,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+149,,Dragonite,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+150,,Mewtwo,Genetic Pokémon,いでんしポケモン,Genetic Pokémon
+151,,Mew,New Species Pokémon,しんしゅポケモン,New Species Pokémon
+152,,Chikorita,Leaf Pokémon,はっぱポケモン,Leaf Pokémon
+153,,Bayleef,Leaf Pokémon,はっぱポケモン,Leaf Pokémon
+154,,Meganium,Herb Pokémon,ハーブポケモン,Herb Pokémon
+155,,Cyndaquil,Fire Mouse Pokémon,ひねずみポケモン,Fire Mouse Pokémon
+156,,Quilava,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+157,,Typhlosion,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+157,,Typhlosion (Hisuian Form),Ghost Flame Pokémon,おにびポケモン,Ghost Flame Pokémon
+158,,Totodile,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+159,,Croconaw,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+160,,Feraligatr,Big Jaw Pokémon,おおあごポケモン,Big Jaw Pokémon
+161,,Sentret,Scout Pokémon,みはりポケモン,Lookout Pokémon
+162,,Furret,Long Body Pokémon,どうながポケモン,Long Torso Pokémon
+163,,Hoothoot,Owl Pokémon,ふくろうポケモン,Owl Pokémon
+164,,Noctowl,Owl Pokémon,ふくろうポケモン,Owl Pokémon
+165,,Ledyba,Five Star Pokémon,いつつぼしポケモン,Five Star Pokémon
+166,,Ledian,Five Star Pokémon,いつつぼしポケモン,Five Star Pokémon
+167,,Spinarak,String Spit Pokémon,いとはきポケモン,String-Spitting Pokémon
+168,,Ariados,Long Leg Pokémon,あしながポケモン,Long Leg Pokémon
+169,,Crobat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+170,,Chinchou,Angler Pokémon,あんこうポケモン,Anglerfish Pokémon
+171,,Lanturn,Light Pokémon,ライトポケモン,Light Pokémon
+172,,Pichu,Tiny Mouse Pokémon,こねずみポケモン,Small Mouse Pokémon
+173,,Cleffa,Star Shape Pokémon,ほしがたポケモン,Star Shape Pokémon
+174,,Igglybuff,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+175,,Togepi,Spike Ball Pokémon,はりたまポケモン,Spike Ball Pokémon
+176,,Togetic,Happiness Pokémon,しあわせポケモン,Happiness Pokémon
+177,,Natu,Tiny Bird Pokémon,ことりポケモン,Tiny Bird Pokémon
+178,,Xatu,Mystic Pokémon,せいれいポケモン,Spirit Pokémon
+179,,Mareep,Wool Pokémon,わたげポケモン,Fluff Pokémon
+180,,Flaaffy,Wool Pokémon,わたげポケモン,Fluff Pokémon
+181,,Ampharos,Light Pokémon,ライトポケモン,Light Pokémon
+182,,Bellossom,Flower Pokémon,フラワーポケモン,Flower Pokémon
+183,,Marill,Aqua Mouse Pokémon,みずねずみポケモン,Water Mouse Pokémon
+184,,Azumarill,Aqua Rabbit Pokémon,みずうさぎポケモン,Water Rabbit Pokémon
+185,,Sudowoodo,Imitation Pokémon,まねポケモン,Imitation Pokémon
+186,,Politoed,Frog Pokémon,かえるポケモン,Frog Pokémon
+187,,Hoppip,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+188,,Skiploom,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+189,,Jumpluff,Cottonweed Pokémon,わたくさポケモン,Cottonweed Pokémon
+190,,Aipom,Long Tail Pokémon,おながポケモン,Long Tail Pokémon
+191,,Sunkern,Seed Pokémon,たねポケモン,Seed Pokémon
+192,,Sunflora,Sun Pokémon,たいようポケモン,Sun Pokémon
+193,,Yanma,Clear Wing Pokémon,うすばねポケモン,Thin Wing Pokémon
+194,,Wooper,Water Fish Pokémon,みずうおポケモン,Water Fish Pokémon
+195,,Quagsire,Water Fish Pokémon,みずうおポケモン,Water Fish Pokémon
+196,,Espeon,Sun Pokémon,たいようポケモン,Sun Pokémon
+197,,Umbreon,Moonlight Pokémon,げっこうポケモン,Moonlight Pokémon
+198,,Murkrow,Darkness Pokémon,くらやみポケモン,Darkness Pokémon
+199,,Slowking,Royal Pokémon,おうじゃポケモン,Monarch Pokémon
+199,,Slowking (Galarian Form),Hexpert Pokémon,じゅじゅつしポケモン,Shaman Pokémon
+200,,Misdreavus,Screech Pokémon,よなきポケモン,Night Cry Pokémon
+201,,Unown,Symbol Pokémon,シンボルポケモン,Symbol Pokémon
+202,,Wobbuffet,Patient Pokémon,がまんポケモン,Endurance Pokémon
+203,,Girafarig,Long Neck Pokémon,くびながポケモン,Long Neck Pokémon
+204,,Pineco,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+205,,Forretress,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+206,,Dunsparce,Land Snake Pokémon,つちへびポケモン,Land Snake Pokémon
+207,,Gligar,Fly Scorpion Pokémon,とびさそりポケモン,Flying Scorpion Pokémon
+208,,Steelix,Iron Snake Pokémon,てつへびポケモン,Iron Snake Pokémon
+209,,Snubbull,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+210,,Granbull,Fairy Pokémon,ようせいポケモン,Fairy Pokémon
+211,,Qwilfish,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+212,,Scizor,Pincer Pokémon,はさみポケモン,Pincer Pokémon
+213,,Shuckle,Mold Pokémon,はっこうポケモン,Fermentation Pokémon
+214,,Heracross,Single Horn Pokémon,1ぽんヅノポケモン,Single Horn Pokémon
+215,,Sneasel,Sharp Claw Pokémon,かぎづめポケモン,Claw Pokémon
+216,,Teddiursa,Little Bear Pokémon,こぐまポケモン,Small Bear Pokémon
+217,,Ursaring,Hibernator Pokémon,とうみんポケモン,Hibernation Pokémon
+218,,Slugma,Lava Pokémon,ようがんポケモン,Lava Pokémon
+219,,Magcargo,Lava Pokémon,ようがんポケモン,Lava Pokémon
+220,,Swinub,Pig Pokémon,いのぶたポケモン,Pig Boar Pokémon
+221,,Piloswine,Swine Pokémon,いのししポケモン,Wild Boar Pokémon
+222,,Corsola,Coral Pokémon,さんごポケモン,Coral Pokémon
+223,,Remoraid,Jet Pokémon,ふんしゃポケモン,Jet Pokémon
+224,,Octillery,Jet Pokémon,ふんしゃポケモン,Jet Pokémon
+225,,Delibird,Delivery Pokémon,はこびやポケモン,Courier Pokémon
+226,,Mantine,Kite Pokémon,カイトポケモン,Kite Pokémon
+227,,Skarmory,Armor Bird Pokémon,よろいどりポケモン,Armor Bird Pokémon
+228,,Houndour,Dark Pokémon,ダークポケモン,Dark Pokémon
+229,,Houndoom,Dark Pokémon,ダークポケモン,Dark Pokémon
+230,,Kingdra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+231,,Phanpy,Long Nose Pokémon,ながはなポケモン,Long Nose Pokémon
+232,,Donphan,Armor Pokémon,よろいポケモン,Armor Pokémon
+233,,Porygon2,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+234,,Stantler,Big Horn Pokémon,おおツノポケモン,Big Horn Pokémon
+235,,Smeargle,Painter Pokémon,えかきポケモン,Painter Pokémon
+236,,Tyrogue,Scuffle Pokémon,けんかポケモン,Scuffle Pokémon
+237,,Hitmontop,Handstand Pokémon,さかだちポケモン,Headstand Pokémon
+238,,Smoochum,Kiss Pokémon,くちづけポケモン,Kiss Pokémon
+239,,Elekid,Electric Pokémon,でんきポケモン,Electric Pokémon
+240,,Magby,Live Coal Pokémon,ひだねポケモン,Live Coal Pokémon
+241,,Miltank,Milk Cow Pokémon,ちちうしポケモン,Dairy Cow Pokémon
+242,,Blissey,Happiness Pokémon,しあわせポケモン,Happiness Pokémon
+243,,Raikou,Thunder Pokémon,いかずちポケモン,Thunder Pokémon
+244,,Entei,Volcano Pokémon,かざんポケモン,Volcano Pokémon
+245,,Suicune,Aurora Pokémon,オーロラポケモン,Aurora Pokémon
+246,,Larvitar,Rock Skin Pokémon,いわはだポケモン,Rock Skin Pokémon
+247,,Pupitar,Hard Shell Pokémon,だんがんポケモン,Bullet Pokémon
+248,,Tyranitar,Armor Pokémon,よろいポケモン,Armor Pokémon
+249,,Lugia,Diving Pokémon,せんすいポケモン,Diving Pokémon
+250,,Ho-Oh,Rainbow Pokémon,にじいろポケモン,Rainbow-Colored Pokémon
+251,,Celebi,Time Travel Pokémon,ときわたりポケモン,Time Traveling Pokémon
+252,,Treecko,Wood Gecko Pokémon,もりトカゲポケモン,Forest Lizard Pokémon
+253,,Grovyle,Wood Gecko Pokémon,もりトカゲポケモン,Forest Lizard Pokémon
+254,,Sceptile,Forest Pokémon,みつりんポケモン,Jungle Pokémon
+255,,Torchic,Chick Pokémon,ひよこポケモン,Chick Pokémon
+256,,Combusken,Young Fowl Pokémon,わかどりポケモン,Chicken Pokémon
+257,,Blaziken,Blaze Pokémon,もうかポケモン,Raging Flames Pokémon
+258,,Mudkip,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+259,,Marshtomp,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+260,,Swampert,Mud Fish Pokémon,ぬまうおポケモン,Swamp Fish Pokémon
+261,,Poochyena,Bite Pokémon,かみつきポケモン,Bite Pokémon
+262,,Mightyena,Bite Pokémon,かみつきポケモン,Bite Pokémon
+263,,Zigzagoon,Tiny Raccoon Pokémon,まめだぬきポケモン,Tiny Raccoon Dog Pokémon
+264,,Linoone,Rushing Pokémon,とっしんポケモン,Rushing Pokémon
+265,,Wurmple,Worm Pokémon,いもむしポケモン,Caterpillar Pokémon
+266,,Silcoon,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+267,,Beautifly,Butterfly Pokémon,ちょうちょポケモン,Butterfly Pokémon
+268,,Cascoon,Cocoon Pokémon,さなぎポケモン,Chrysalis Pokémon
+269,,Dustox,Poison Moth Pokémon,どくがポケモン,Poison Moth Pokémon
+270,,Lotad,Water Weed Pokémon,うきくさポケモン,Floating Weed Pokémon
+271,,Lombre,Jolly Pokémon,ようきポケモン,Cheerful Pokémon
+272,,Ludicolo,Carefree Pokémon,のうてんきポケモン,Optimistic Pokémon
+273,,Seedot,Acorn Pokémon,どんぐりポケモン,Acorn Pokémon
+274,,Nuzleaf,Wily Pokémon,いじわるポケモン,Malicious Pokémon
+275,,Shiftry,Wicked Pokémon,よこしまポケモン,Wicked Pokémon
+276,,Taillow,Tiny Swallow Pokémon,こツバメポケモン,Small Swallow Pokémon
+277,,Swellow,Swallow Pokémon,ツバメポケモン,Swallow Pokémon
+278,,Wingull,Seagull Pokémon,うみねこポケモン,Black-Tailed Gull Pokémon
+279,,Pelipper,Water Bird Pokémon,みずどりポケモン,Waterfowl Pokémon
+280,,Ralts,Feeling Pokémon,きもちポケモン,Feeling Pokémon
+281,,Kirlia,Emotion Pokémon,かんじょうポケモン,Emotion Pokémon
+282,,Gardevoir,Embrace Pokémon,ほうようポケモン,Embrace Pokémon
+283,,Surskit,Pond Skater Pokémon,あめんぼポケモン,Water Strider Pokémon
+284,,Masquerain,Eyeball Pokémon,めだまポケモン,Eyeball Pokémon
+285,,Shroomish,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+286,,Breloom,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+287,,Slakoth,Slacker Pokémon,なまけものポケモン,Sloth Pokémon
+288,,Vigoroth,Wild Monkey Pokémon,あばれザルポケモン,Rampaging Monkey Pokémon
+289,,Slaking,Lazy Pokémon,ものぐさポケモン,Lazy Pokémon
+290,,Nincada,Trainee Pokémon,したづみポケモン,Lowest-Class Pokémon
+291,,Ninjask,Ninja Pokémon,しのびポケモン,Ninja Pokémon
+292,,Shedinja,Shed Pokémon,ぬけがらポケモン,Husk Pokémon
+293,,Whismur,Whisper Pokémon,ささやきポケモン,Whisper Pokémon
+294,,Loudred,Big Voice Pokémon,おおごえポケモン,Large Voice Pokémon
+295,,Exploud,Loud Noise Pokémon,そうおんポケモン,Noise Pokémon
+296,,Makuhita,Guts Pokémon,こんじょうポケモン,Guts Pokémon
+297,,Hariyama,Arm Thrust Pokémon,つっぱりポケモン,Palm Thrust Pokémon
+298,,Azurill,Polka Dot Pokémon,みずたまポケモン,Polka Dot Pokémon
+299,,Nosepass,Compass Pokémon,コンパスポケモン,Compass Pokémon
+300,,Skitty,Kitten Pokémon,こねこポケモン,Kitten Pokémon
+301,,Delcatty,Prim Pokémon,おすましポケモン,Prim and Proper Pokémon
+302,,Sableye,Darkness Pokémon,くらやみポケモン,Darkness Pokémon
+303,,Mawile,Deceiver Pokémon,あざむきポケモン,Deceiver Pokémon
+304,,Aron,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+305,,Lairon,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+306,,Aggron,Iron Armor Pokémon,てつヨロイポケモン,Iron Armor Pokémon
+307,,Meditite,Meditate Pokémon,めいそうポケモン,Meditation Pokémon
+308,,Medicham,Meditate Pokémon,めいそうポケモン,Meditation Pokémon
+309,,Electrike,Lightning Pokémon,いなずまポケモン,Lightning Pokémon
+310,,Manectric,Discharge Pokémon,ほうでんポケモン,Discharge Pokémon
+311,,Plusle,Cheering Pokémon,おうえんポケモン,Cheering Pokémon
+312,,Minun,Cheering Pokémon,おうえんポケモン,Cheering Pokémon
+313,,Volbeat,Firefly Pokémon,ほたるポケモン,Firefly Pokémon
+314,,Illumise,Firefly Pokémon,ほたるポケモン,Firefly Pokémon
+315,,Roselia,Thorn Pokémon,いばらポケモン,Thorn Pokémon
+316,,Gulpin,Stomach Pokémon,いぶくろポケモン,Stomach Pokémon
+317,,Swalot,Poison Bag Pokémon,どくぶくろポケモン,Poison Bag Pokémon
+318,,Carvanha,Savage Pokémon,どうもうポケモン,Ferocious Pokémon
+319,,Sharpedo,Brutal Pokémon,きょうぼうポケモン,Brutal Pokémon
+320,,Wailmer,Ball Whale Pokémon,たまくじらポケモン,Ball Whale Pokémon
+321,,Wailord,Float Whale Pokémon,うきくじらポケモン,Float Whale Pokémon
+322,,Numel,Numb Pokémon,どんかんポケモン,Thickheaded Pokémon
+323,,Camerupt,Eruption Pokémon,ふんかポケモン,Eruption Pokémon
+324,,Torkoal,Coal Pokémon,せきたんポケモン,Coal Pokémon
+325,,Spoink,Bounce Pokémon,とびはねポケモン,Hopping Pokémon
+326,,Grumpig,Manipulate Pokémon,あやつりポケモン,Manipulation Pokémon
+327,,Spinda,Spot Panda Pokémon,ぶちパンダポケモン,Spot Panda Pokémon
+328,,Trapinch,Ant Pit Pokémon,ありじごくポケモン,Antlion Larva Pokémon
+329,,Vibrava,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+330,,Flygon,Mystic Pokémon,せいれいポケモン,Spirit Pokémon
+331,,Cacnea,Cactus Pokémon,サボテンポケモン,Cactus Pokémon
+332,,Cacturne,Scarecrow Pokémon,カカシぐさポケモン,Scarecrow Plant Pokémon
+333,,Swablu,Cotton Bird Pokémon,わたどりポケモン,Cotton Bird Pokémon
+334,,Altaria,Humming Pokémon,ハミングポケモン,Humming Pokémon
+335,,Zangoose,Cat Ferret Pokémon,ネコイタチポケモン,Mongoose Pokémon
+336,,Seviper,Fang Snake Pokémon,キバへびポケモン,Fang Snake Pokémon
+337,,Lunatone,Meteorite Pokémon,いんせきポケモン,Meteorite Pokémon
+338,,Solrock,Meteorite Pokémon,いんせきポケモン,Meteorite Pokémon
+339,,Barboach,Whiskers Pokémon,ひげうおポケモン,Whisker Fish Pokémon
+340,,Whiscash,Whiskers Pokémon,ひげうおポケモン,Whisker Fish Pokémon
+341,,Corphish,Ruffian Pokémon,ごろつきポケモン,Rogue Pokémon
+342,,Crawdaunt,Rogue Pokémon,ならずものポケモン,Ruffian Pokémon
+343,,Baltoy,Clay Doll Pokémon,どぐうポケモン,Clay Figure Pokémon
+344,,Claydol,Clay Doll Pokémon,どぐうポケモン,Clay Figure Pokémon
+345,,Lileep,Sea Lily Pokémon,ウミユリポケモン,Sea Lily Pokémon
+346,,Cradily,Barnacle Pokémon,いわつぼポケモン,Stone Cup Pokémon
+347,,Anorith,Old Shrimp Pokémon,むかしエビポケモン,Ancient Shrimp Pokémon
+348,,Armaldo,Plate Pokémon,かっちゅうポケモン,Armor Pokémon
+349,,Feebas,Fish Pokémon,さかなポケモン,Fish Pokémon
+350,,Milotic,Tender Pokémon,いつくしみポケモン,Affection Pokémon
+351,,Castform,Weather Pokémon,てんきポケモン,Weather Pokémon
+352,,Kecleon,Color Swap Pokémon,いろへんげポケモン,Color Change Pokémon
+353,,Shuppet,Puppet Pokémon,にんぎょうポケモン,Doll Pokémon
+354,,Banette,Marionette Pokémon,ぬいぐるみポケモン,Stuffed Toy Pokémon
+355,,Duskull,Requiem Pokémon,おむかえポケモン,Approaching Death Pokémon
+356,,Dusclops,Beckon Pokémon,てまねきポケモン,Beckoning Pokémon
+357,,Tropius,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+358,,Chimecho,Wind Chime Pokémon,ふうりんポケモン,Wind Chime Pokémon
+359,,Absol,Disaster Pokémon,わざわいポケモン,Calamity Pokémon
+360,,Wynaut,Bright Pokémon,ほがらかポケモン,Merry Pokémon
+361,,Snorunt,Snow Hat Pokémon,ゆきかさポケモン,Snow Umbrella Pokémon
+362,,Glalie,Face Pokémon,がんめんポケモン,Face Pokémon
+363,,Spheal,Clap Pokémon,てたたきポケモン,Clap Pokémon
+364,,Sealeo,Ball Roll Pokémon,たままわしポケモン,Ball Roll Pokémon
+365,,Walrein,Ice Break Pokémon,こおりわりポケモン,Ice Breaker Pokémon
+366,,Clamperl,Bivalve Pokémon,2まいがいポケモン,Bivalve Pokémon
+367,,Huntail,Deep Sea Pokémon,しんかいポケモン,Deep Sea Pokémon
+368,,Gorebyss,South Sea Pokémon,なんかいポケモン,South Sea Pokémon
+369,,Relicanth,Longevity Pokémon,ちょうじゅポケモン,Longevity Pokémon
+370,,Luvdisc,Rendezvous Pokémon,ランデブーポケモン,Rendezvous Pokémon
+371,,Bagon,Rock Head Pokémon,いしあたまポケモン,Hard-Headed Pokémon
+372,,Shelgon,Endurance Pokémon,にんたいポケモン,Patient Pokémon
+373,,Salamence,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+374,,Beldum,Iron Ball Pokémon,てっきゅうポケモン,Iron Ball Pokémon
+375,,Metang,Iron Claw Pokémon,てつツメポケモン,Iron Claw Pokémon
+376,,Metagross,Iron Leg Pokémon,てつあしポケモン,Iron Leg Pokémon
+377,,Regirock,Rock Peak Pokémon,いわやまポケモン,Rocky Mountain Pokémon
+378,,Regice,Iceberg Pokémon,ひょうざんポケモン,Iceberg Pokémon
+379,,Registeel,Iron Pokémon,くろがねポケモン,Iron Pokémon
+380,,Latias,Eon Pokémon,むげんポケモン,Infinity Pokémon
+381,,Latios,Eon Pokémon,むげんポケモン,Infinity Pokémon
+382,,Kyogre,Sea Basin Pokémon,かいていポケモン,Seabed Pokémon
+383,,Groudon,Continent Pokémon,たいりくポケモン,Continent Pokémon
+384,,Rayquaza,Sky High Pokémon,てんくうポケモン,Sky Pokémon
+385,,Jirachi,Wish Pokémon,ねがいごとポケモン,Wish Pokémon
+386,,Deoxys,DNA Pokémon,DNAポケモン,DNA Pokémon
+387,,Turtwig,Tiny Leaf Pokémon,わかばポケモン,New Leaf Pokémon
+388,,Grotle,Grove Pokémon,こだちポケモン,Grove Pokémon
+389,,Torterra,Continent Pokémon,たいりくポケモン,Continent Pokémon
+390,,Chimchar,Chimp Pokémon,こざるポケモン,Small Monkey Pokémon
+391,,Monferno,Playful Pokémon,やんちゃポケモン,Mischievous Pokémon
+392,,Infernape,Flame Pokémon,かえんポケモン,Flame Pokémon
+393,,Piplup,Penguin Pokémon,ペンギンポケモン,Penguin Pokémon
+394,,Prinplup,Penguin Pokémon,ペンギンポケモン,Penguin Pokémon
+395,,Empoleon,Emperor Pokémon,こうていポケモン,Emperor Pokémon
+396,,Starly,Starling Pokémon,むくどりポケモン,Starling Pokémon
+397,,Staravia,Starling Pokémon,むくどりポケモン,Starling Pokémon
+398,,Staraptor,Predator Pokémon,もうきんポケモン,Bird of Prey Pokémon
+399,,Bidoof,Plump Mouse Pokémon,まるねずみポケモン,Round Mouse Pokémon
+400,,Bibarel,Beaver Pokémon,ビーバーポケモン,Beaver Pokémon
+401,,Kricketot,Cricket Pokémon,こおろぎポケモン,Cricket Pokémon
+402,,Kricketune,Cricket Pokémon,こおろぎポケモン,Cricket Pokémon
+403,,Shinx,Flash Pokémon,せんこうポケモン,Flash Pokémon
+404,,Luxio,Spark Pokémon,でんこうポケモン,Lightning Pokémon
+405,,Luxray,Gleam Eyes Pokémon,がんこうポケモン,Glinting Eyes Pokémon
+406,,Budew,Bud Pokémon,つぼみポケモン,Bud Pokémon
+407,,Roserade,Bouquet Pokémon,ブーケポケモン,Bouquet Pokémon
+408,,Cranidos,Head Butt Pokémon,ずつきポケモン,Head Butt Pokémon
+409,,Rampardos,Head Butt Pokémon,ずつきポケモン,Head Butt Pokémon
+410,,Shieldon,Shield Pokémon,シールドポケモン,Shield Pokémon
+411,,Bastiodon,Shield Pokémon,シールドポケモン,Shield Pokémon
+412,,Burmy,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+413,,Wormadam,Bagworm Pokémon,みのむしポケモン,Bagworm Pokémon
+414,,Mothim,Moth Pokémon,ミノガポケモン,Bagworm Moth Pokémon
+415,,Combee,Tiny Bee Pokémon,はちのこポケモン,Bee Larva Pokémon
+416,,Vespiquen,Beehive Pokémon,はちのすポケモン,Beehive Pokémon
+417,,Pachirisu,EleSquirrel Pokémon,でんきリスポケモン,Electric Squirrel Pokémon
+418,,Buizel,Sea Weasel Pokémon,うみイタチポケモン,Sea Weasel Pokémon
+419,,Floatzel,Sea Weasel Pokémon,うみイタチポケモン,Sea Weasel Pokémon
+420,,Cherubi,Cherry Pokémon,さくらんぼポケモン,Cherry Pokémon
+421,,Cherrim,Blossom Pokémon,サクラポケモン,Cherry Blossom Pokémon
+422,,Shellos,Sea Slug Pokémon,ウミウシポケモン,Sea Slug Pokémon
+423,,Gastrodon,Sea Slug Pokémon,ウミウシポケモン,Sea Slug Pokémon
+424,,Ambipom,Long Tail Pokémon,おながポケモン,Long Tail Pokémon
+425,,Drifloon,Balloon Pokémon,ふうせんポケモン,Balloon Pokémon
+426,,Drifblim,Blimp Pokémon,ききゅうポケモン,Blimp Pokémon
+427,,Buneary,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+428,,Lopunny,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+429,,Mismagius,Magical Pokémon,マジカルポケモン,Magical Pokémon
+430,,Honchkrow,Big Boss Pokémon,おおボスポケモン,Big Boss Pokémon
+431,,Glameow,Catty Pokémon,ねこかぶりポケモン,Beguiling Pokémon
+432,,Purugly,Tiger Cat Pokémon,とらねこポケモン,Tiger Cat Pokémon
+433,,Chingling,Bell Pokémon,すずポケモン,Bell Pokémon
+434,,Stunky,Skunk Pokémon,スカンクポケモン,Skunk Pokémon
+435,,Skuntank,Skunk Pokémon,スカンクポケモン,Skunk Pokémon
+436,,Bronzor,Bronze Pokémon,せいどうポケモン,Bronze Pokémon
+437,,Bronzong,Bronze Bell Pokémon,どうたくポケモン,Bronze Bell Pokémon
+438,,Bonsly,Bonsai Pokémon,ぼんさいポケモン,Bonsai Pokémon
+439,,Mime Jr.,Mime Pokémon,マイムポケモン,Mime Pokémon
+440,,Happiny,Playhouse Pokémon,ままごとポケモン,Playing House Pokémon
+441,,Chatot,Music Note Pokémon,おんぷポケモン,Music Note Pokémon
+442,,Spiritomb,Forbidden Pokémon,ふういんポケモン,Sealed Pokémon
+443,,Gible,Land Shark Pokémon,りくザメポケモン,Land Shark Pokémon
+444,,Gabite,Cave Pokémon,ほらあなポケモン,Cave Pokémon
+445,,Garchomp,Mach Pokémon,マッハポケモン,Mach Pokémon
+446,,Munchlax,Big Eater Pokémon,おおぐいポケモン,Gluttonous Pokémon
+447,,Riolu,Emanation Pokémon,はもんポケモン,Ripple Pokémon
+448,,Lucario,Aura Pokémon,はどうポケモン,Wave Pokémon
+449,,Hippopotas,Hippo Pokémon,カバポケモン,Hippo Pokémon
+450,,Hippowdon,Heavyweight Pokémon,じゅうりょうポケモン,Heavyweight Pokémon
+451,,Skorupi,Scorpion Pokémon,さそりポケモン,Scorpion Pokémon
+452,,Drapion,Ogre Scorpion Pokémon,ばけさそりポケモン,Monster Scorpion Pokémon
+453,,Croagunk,Toxic Mouth Pokémon,どくづきポケモン,Poison Stab Pokémon
+454,,Toxicroak,Toxic Mouth Pokémon,どくづきポケモン,Poison Stab Pokémon
+455,,Carnivine,Bug Catcher Pokémon,むしとりポケモン,Bug Catcher Pokémon
+456,,Finneon,Wing Fish Pokémon,はねうおポケモン,Wing Fish Pokémon
+457,,Lumineon,Neon Pokémon,ネオンポケモン,Neon Pokémon
+458,,Mantyke,Kite Pokémon,カイトポケモン,Kite Pokémon
+459,,Snover,Frost Tree Pokémon,じゅひょうポケモン,Frost-Covered Tree Pokémon
+460,,Abomasnow,Frost Tree Pokémon,じゅひょうポケモン,Frost-Covered Tree Pokémon
+461,,Weavile,Sharp Claw Pokémon,かぎづめポケモン,Claw Pokémon
+462,,Magnezone,Magnet Area Pokémon,じばポケモン,Magnetic Field Pokémon
+463,,Lickilicky,Licking Pokémon,なめまわしポケモン,Licking Pokémon
+464,,Rhyperior,Drill Pokémon,ドリルポケモン,Drill Pokémon
+465,,Tangrowth,Vine Pokémon,ツルじょうポケモン,Vine Pokémon
+466,,Electivire,Thunderbolt Pokémon,らいでんポケモン,Thunder and Lightning Pokémon
+467,,Magmortar,Blast Pokémon,ばくえんポケモン,Explosion Fume Pokémon
+468,,Togekiss,Jubilee Pokémon,しゅくふくポケモン,Blessing Pokémon
+469,,Yanmega,Ogre Darner Pokémon,オニトンボポケモン,Ogre Dragonfly Pokémon
+470,,Leafeon,Verdant Pokémon,しんりょくポケモン,Fresh Verdure Pokémon
+471,,Glaceon,Fresh Snow Pokémon,しんせつポケモン,Fresh Snow Pokémon
+472,,Gliscor,Fang Scorpion Pokémon,キバさそりポケモン,Fang Scorpion Pokémon
+473,,Mamoswine,Twin Tusk Pokémon,2ほんキバポケモン,Twin Tusk Pokémon
+474,,Porygon-Z,Virtual Pokémon,バーチャルポケモン,Virtual Pokémon
+475,,Gallade,Blade Pokémon,やいばポケモン,Blade Pokémon
+476,,Probopass,Compass Pokémon,コンパスポケモン,Compass Pokémon
+477,,Dusknoir,Gripper Pokémon,てづかみポケモン,Grasping Pokémon
+478,,Froslass,Snow Land Pokémon,ゆきぐにポケモン,Snow Country Pokémon
+479,,Rotom,Plasma Pokémon,プラズマポケモン,Plasma Pokémon
+480,,Uxie,Knowledge Pokémon,ちしきポケモン,Knowledge Pokémon
+481,,Mesprit,Emotion Pokémon,かんじょうポケモン,Emotion Pokémon
+482,,Azelf,Willpower Pokémon,いしポケモン,Will Pokémon
+483,,Dialga,Temporal Pokémon,じかんポケモン,Time Pokémon
+484,,Palkia,Spatial Pokémon,くうかんポケモン,Space Pokémon
+485,,Heatran,Lava Dome Pokémon,かこうポケモン,Caldera Pokémon
+486,,Regigigas,Colossal Pokémon,きょだいポケモン,Gigantic Pokémon
+487,,Giratina,Renegade Pokémon,はんこつポケモン,Rebellious Pokémon
+488,,Cresselia,Lunar Pokémon,みかづきポケモン,Crescent Moon Pokémon
+489,,Phione,Sea Drifter Pokémon,かいようポケモン,Ocean Pokémon
+490,,Manaphy,Seafaring Pokémon,かいゆうポケモン,Migration Pokémon
+491,,Darkrai,Pitch-Black Pokémon,あんこくポケモン,Darkness Pokémon
+492,,Shaymin,Gratitude Pokémon,かんしゃポケモン,Gratitude Pokémon
+493,,Arceus,Alpha Pokémon,そうぞうポケモン,Creation Pokémon
+494,,Victini,Victory Pokémon,しょうりポケモン,Victory Pokémon
+495,,Snivy,Grass Snake Pokémon,くさへびポケモン,Grass Snake Pokémon
+496,,Servine,Grass Snake Pokémon,くさへびポケモン,Grass Snake Pokémon
+497,,Serperior,Regal Pokémon,ロイヤルポケモン,Royal Pokémon
+498,,Tepig,Fire Pig Pokémon,ひぶたポケモン,Fire Pig Pokémon
+499,,Pignite,Fire Pig Pokémon,ひぶたポケモン,Fire Pig Pokémon
+500,,Emboar,Mega Fire Pig Pokémon,おおひぶたポケモン,Big Fire Pig Pokémon
+501,,Oshawott,Sea Otter Pokémon,ラッコポケモン,Sea Otter Pokémon
+502,,Dewott,Discipline Pokémon,しゅぎょうポケモン,Training Pokémon
+503,,Samurott,Formidable Pokémon,かんろくポケモン,Dignified Pokémon
+504,,Patrat,Scout Pokémon,みはりポケモン,Lookout Pokémon
+505,,Watchog,Lookout Pokémon,けいかいポケモン,Vigilant Pokémon
+506,,Lillipup,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+507,,Herdier,Loyal Dog Pokémon,ちゅうけんポケモン,Faithful Dog Pokémon
+508,,Stoutland,Big-Hearted Pokémon,かんだいポケモン,Tolerant Pokémon
+509,,Purrloin,Devious Pokémon,しょうわるポケモン,Ill-Natured Pokémon
+510,,Liepard,Cruel Pokémon,れいこくポケモン,Cruel Pokémon
+511,,Pansage,Grass Monkey Pokémon,くさざるポケモン,Grass Monkey Pokémon
+512,,Simisage,Thorn Monkey Pokémon,とげざるポケモン,Thorn Monkey Pokémon
+513,,Pansear,High Temp Pokémon,こうおんポケモン,High Temperature Pokémon
+514,,Simisear,Ember Pokémon,ひのこポケモン,Sparks Pokémon
+515,,Panpour,Spray Pokémon,みずかけポケモン,Water Splash Pokémon
+516,,Simipour,Geyser Pokémon,ほうすいポケモン,High Water Pokémon
+517,,Munna,Dream Eater Pokémon,ゆめくいポケモン,Dream Eater Pokémon
+518,,Musharna,Drowsing Pokémon,ゆめうつつポケモン,Trance Pokémon
+519,,Pidove,Tiny Pigeon Pokémon,こばとポケモン,Small Pigeon Pokémon
+520,,Tranquill,Wild Pigeon Pokémon,のばとポケモン,Wild Pigeon Pokémon
+521,,Unfezant,Proud Pokémon,プライドポケモン,Pride Pokémon
+522,,Blitzle,Electrified Pokémon,たいでんポケモン,Electrified Pokémon
+523,,Zebstrika,Thunderbolt Pokémon,らいでんポケモン,Thunder and Lightning Pokémon
+524,,Roggenrola,Mantle Pokémon,マントルポケモン,Mantle Pokémon
+525,,Boldore,Ore Pokémon,こうせきポケモン,Ore Pokémon
+526,,Gigalith,Compressed Pokémon,こうあつポケモン,High Pressure Pokémon
+527,,Woobat,Bat Pokémon,こうもりポケモン,Bat Pokémon
+528,,Swoobat,Courting Pokémon,きゅうあいポケモン,Courting Pokémon
+529,,Drilbur,Mole Pokémon,もぐらポケモン,Mole Pokémon
+530,,Excadrill,Subterrene Pokémon,ちていポケモン,Deep Earth Pokémon
+531,,Audino,Hearing Pokémon,ヒヤリングポケモン,Hearing Pokémon
+532,,Timburr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+533,,Gurdurr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+534,,Conkeldurr,Muscular Pokémon,きんこつポケモン,Muscle Pokémon
+535,,Tympole,Tadpole Pokémon,おたまポケモン,Tadpole Pokémon
+536,,Palpitoad,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+537,,Seismitoad,Vibration Pokémon,しんどうポケモン,Vibration Pokémon
+538,,Throh,Judo Pokémon,じゅうどうポケモン,Judo Pokémon
+539,,Sawk,Karate Pokémon,からてポケモン,Karate Pokémon
+540,,Sewaddle,Sewing Pokémon,さいほうポケモン,Sewing Pokémon
+541,,Swadloon,Leaf-Wrapped Pokémon,はごもりポケモン,Forest Cloak Pokémon
+542,,Leavanny,Nurturing Pokémon,こそだてポケモン,Child-Raising Pokémon
+543,,Venipede,Centipede Pokémon,ムカデポケモン,Centipede Pokémon
+544,,Whirlipede,Curlipede Pokémon,まゆムカデポケモン,Cocoon Centipede Pokémon
+545,,Scolipede,Megapede Pokémon,メガムカデポケモン,Mega Centipede Pokémon
+546,,Cottonee,Cotton Puff Pokémon,わたたまポケモン,Cotton Ball Pokémon
+547,,Whimsicott,Windveiled Pokémon,かぜかくれポケモン,Wind-Hidden Pokémon
+548,,Petilil,Bulb Pokémon,ねっこポケモン,Root Pokémon
+549,,Lilligant,Flowering Pokémon,はなかざりポケモン,Flower Decoration Pokémon
+549,,Lilligant (Hisuian Form),Spinning Pokémon,スピンポケモン,Spin Pokémon
+550,,Basculin,Hostile Pokémon,らんぼうポケモン,Violent Pokémon
+550,,Basculin (White-Striped Form),Mellow Pokémon,おんこうポケモン,Gentle Pokémon
+551,,Sandile,Desert Croc Pokémon,さばくワニポケモン,Desert Crocodile Pokémon
+552,,Krokorok,Desert Croc Pokémon,さばくワニポケモン,Desert Crocodile Pokémon
+553,,Krookodile,Intimidation Pokémon,いかくポケモン,Menacing Pokémon
+554,,Darumaka,Zen Charm Pokémon,だるまポケモン,Daruma Pokémon
+555,,Darmanitan,Blazing Pokémon,えんじょうポケモン,Blazing Pokémon
+555,,Darmanitan (Galarian Form),Zen Charm Pokémon,だるまポケモン,Daruma Pokémon
+555,,Darmanitan (Galarian Form/Zen Mode),Blazing Pokémon,えんじょうポケモン,Blazing Pokémon
+556,,Maractus,Cactus Pokémon,サボテンポケモン,Cactus Pokémon
+557,,Dwebble,Rock Inn Pokémon,いしやどポケモン,Stone Hermit Pokémon
+558,,Crustle,Stone Home Pokémon,いわやどポケモン,Rock Hermit Pokémon
+559,,Scraggy,Shedding Pokémon,だっぴポケモン,Shedding Pokémon
+560,,Scrafty,Hoodlum Pokémon,あくとうポケモン,Scoundrel Pokémon
+561,,Sigilyph,Avianoid Pokémon,とりもどきポケモン,Pseudo-Bird Pokémon
+562,,Yamask,Spirit Pokémon,たましいポケモン,Spirit Pokémon
+563,,Cofagrigus,Coffin Pokémon,かんおけポケモン,Coffin Pokémon
+564,,Tirtouga,Prototurtle Pokémon,こだいがめポケモン,Ancient Turtle Pokémon
+565,,Carracosta,Prototurtle Pokémon,こだいがめポケモン,Ancient Turtle Pokémon
+566,,Archen,First Bird Pokémon,さいこどりポケモン,Oldest Bird Pokémon
+567,,Archeops,First Bird Pokémon,さいこどりポケモン,Oldest Bird Pokémon
+568,,Trubbish,Trash Bag Pokémon,ゴミぶくろポケモン,Garbage Bag Pokémon
+569,,Garbodor,Trash Heap Pokémon,ゴミすてばポケモン,Garbage Dump Pokémon
+570,,Zorua,Tricky Fox Pokémon,わるぎつねポケモン,Evil Fox Pokémon
+570,,Zorua (Hisuian Form),Spiteful Fox Pokémon,うらみぎつねポケモン,Grudge Fox Pokémon
+571,,Zoroark,Illusion Fox Pokémon,ばけぎつねポケモン,Illusory Fox Pokémon
+571,,Zoroark (Hisuian Form),Baneful Fox Pokémon,のろいぎつねポケモン,Curse Fox Pokémon
+572,,Minccino,Chinchilla Pokémon,チンチラポケモン,Chinchilla Pokémon
+573,,Cinccino,Scarf Pokémon,スカーフポケモン,Scarf Pokémon
+574,,Gothita,Fixation Pokémon,ぎょうしポケモン,Stare Pokémon
+575,,Gothorita,Manipulate Pokémon,あやつりポケモン,Manipulation Pokémon
+576,,Gothitelle,Astral Body Pokémon,てんたいポケモン,Heavenly Body Pokémon
+577,,Solosis,Cell Pokémon,さいぼうポケモン,Cell Pokémon
+578,,Duosion,Mitosis Pokémon,ぶんかつポケモン,Mitosis Pokémon
+579,,Reuniclus,Multiplying Pokémon,ぞうふくポケモン,Amplification Pokémon
+580,,Ducklett,Water Bird Pokémon,みずどりポケモン,Waterfowl Pokémon
+581,,Swanna,White Bird Pokémon,しらとりポケモン,Swan Pokémon
+582,,Vanillite,Fresh Snow Pokémon,しんせつポケモン,Fresh Snow Pokémon
+583,,Vanillish,Icy Snow Pokémon,ひょうせつポケモン,Ice and Snow Pokémon
+584,,Vanilluxe,Snowstorm Pokémon,ブリザードポケモン,Blizzard Pokémon
+585,,Deerling,Season Pokémon,きせつポケモン,Seasonal Pokémon
+586,,Sawsbuck,Season Pokémon,きせつポケモン,Seasonal Pokémon
+587,,Emolga,Sky Squirrel Pokémon,モモンガポケモン,Flying Squirrel Pokémon
+588,,Karrablast,Clamping Pokémon,かぶりつきポケモン,Bite Down Pokémon
+589,,Escavalier,Cavalry Pokémon,きへいポケモン,Cavalry Pokémon
+590,,Foongus,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+591,,Amoonguss,Mushroom Pokémon,きのこポケモン,Mushroom Pokémon
+592,,Frillish,Floating Pokémon,ふゆうポケモン,Floating Pokémon
+593,,Jellicent,Floating Pokémon,ふゆうポケモン,Floating Pokémon
+594,,Alomomola,Caring Pokémon,かいほうポケモン,Nursing Pokémon
+595,,Joltik,Attaching Pokémon,くっつきポケモン,Clinging Pokémon
+596,,Galvantula,EleSpider Pokémon,でんきグモポケモン,Electric Spider Pokémon
+597,,Ferroseed,Thorn Seed Pokémon,とげのみポケモン,Spike Seed Pokémon
+598,,Ferrothorn,Thorn Pod Pokémon,とげだまポケモン,Spike Ball Pokémon
+599,,Klink,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+600,,Klang,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+601,,Klinklang,Gear Pokémon,はぐるまポケモン,Gear Pokémon
+602,,Tynamo,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+603,,Eelektrik,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+604,,Eelektross,EleFish Pokémon,でんきうおポケモン,Electric Fish Pokémon
+605,,Elgyem,Cerebral Pokémon,ブレインポケモン,Brain Pokémon
+606,,Beheeyem,Cerebral Pokémon,ブレインポケモン,Brain Pokémon
+607,,Litwick,Candle Pokémon,ろうそくポケモン,Candle Pokémon
+608,,Lampent,Lamp Pokémon,ランプポケモン,Lamp Pokémon
+609,,Chandelure,Luring Pokémon,いざないポケモン,Temptation Pokémon
+610,,Axew,Tusk Pokémon,キバポケモン,Tusk Pokémon
+611,,Fraxure,Axe Jaw Pokémon,あごオノポケモン,Jaw Ax Pokémon
+612,,Haxorus,Axe Jaw Pokémon,あごオノポケモン,Jaw Ax Pokémon
+613,,Cubchoo,Chill Pokémon,ひょうけつポケモン,Freezing Pokémon
+614,,Beartic,Freezing Pokémon,とうけつポケモン,Frozen Pokémon
+615,,Cryogonal,Crystallizing Pokémon,けっしょうポケモン,Crystal Pokémon
+616,,Shelmet,Snail Pokémon,マイマイポケモン,Snail Pokémon
+617,,Accelgor,Shell Out Pokémon,からぬけポケモン,Deshelled Pokémon
+618,,Stunfisk,Trap Pokémon,トラップポケモン,Trap Pokémon
+619,,Mienfoo,Martial Arts Pokémon,ぶじゅつポケモン,Martial Arts Pokémon
+620,,Mienshao,Martial Arts Pokémon,ぶじゅつポケモン,Martial Arts Pokémon
+621,,Druddigon,Cave Pokémon,ほらあなポケモン,Cave Pokémon
+622,,Golett,Automaton Pokémon,ゴーレムポケモン,Golem Pokémon
+623,,Golurk,Automaton Pokémon,ゴーレムポケモン,Golem Pokémon
+624,,Pawniard,Sharp Blade Pokémon,はものポケモン,Sharp Edge Pokémon
+625,,Bisharp,Sword Blade Pokémon,とうじんポケモン,Sword Blade Pokémon
+626,,Bouffalant,Bash Buffalo Pokémon,ずつきうしポケモン,Headbutt Bull Pokémon
+627,,Rufflet,Eaglet Pokémon,ヒナわしポケモン,Eaglet Pokémon
+628,,Braviary,Valiant Pokémon,ゆうもうポケモン,Daring Pokémon
+628,,Braviary (Hisuian Form),Battle Cry Pokémon,おたけびポケモン,War Cry Pokémon
+629,,Vullaby,Diapered Pokémon,おむつポケモン,Diaper Pokémon
+630,,Mandibuzz,Bone Vulture Pokémon,ほねわしポケモン,Bone Eagle Pokémon
+631,,Heatmor,Anteater Pokémon,アリクイポケモン,Anteater Pokémon
+632,,Durant,Iron Ant Pokémon,てつアリポケモン,Iron Ant Pokémon
+633,,Deino,Irate Pokémon,そぼうポケモン,Wild Pokémon
+634,,Zweilous,Hostile Pokémon,らんぼうポケモン,Violent Pokémon
+635,,Hydreigon,Brutal Pokémon,きょうぼうポケモン,Brutal Pokémon
+636,,Larvesta,Torch Pokémon,たいまつポケモン,Torch Pokémon
+637,,Volcarona,Sun Pokémon,たいようポケモン,Sun Pokémon
+638,,Cobalion,Iron Will Pokémon,てっしんポケモン,Iron Will Pokémon
+639,,Terrakion,Cavern Pokémon,がんくつポケモン,Cavern Pokémon
+640,,Virizion,Grassland Pokémon,そうげんポケモン,Grassland Pokémon
+641,,Tornadus,Cyclone Pokémon,せんぷうポケモン,Whirlwind Pokémon
+642,,Thundurus,Bolt Strike Pokémon,らいげきポケモン,Lightning Strike Pokémon
+643,,Reshiram,Vast White Pokémon,はくようポケモン,White Yang Pokémon
+644,,Zekrom,Deep Black Pokémon,こくいんポケモン,Black Yin Pokémon
+645,,Landorus,Abundance Pokémon,ほうじょうポケモン,Fertility Pokémon
+646,,Kyurem,Boundary Pokémon,きょうかいポケモン,Boundary Pokémon
+647,,Keldeo,Colt Pokémon,わかごまポケモン,Young Colt Pokémon
+648,,Meloetta,Melody Pokémon,せんりつポケモン,Melody Pokémon
+649,,Genesect,Paleozoic Pokémon,こせいだいポケモン,Paleozoic Pokémon
+650,,Chespin,Spiny Nut Pokémon,いがぐりポケモン,Shelled Chestnut Pokémon
+651,,Quilladin,Spiny Armor Pokémon,とげよろいポケモン,Spiky Armor Pokémon
+652,,Chesnaught,Spiny Armor Pokémon,とげよろいポケモン,Spiky Armor Pokémon
+653,,Fennekin,Fox Pokémon,キツネポケモン,Fox Pokémon
+654,,Braixen,Fox Pokémon,キツネポケモン,Fox Pokémon
+655,,Delphox,Fox Pokémon,キツネポケモン,Fox Pokémon
+656,,Froakie,Bubble Frog Pokémon,あわがえるポケモン,Foam Frog Pokémon
+657,,Frogadier,Bubble Frog Pokémon,あわがえるポケモン,Foam Frog Pokémon
+658,,Greninja,Ninja Pokémon,しのびポケモン,Ninja Pokémon
+659,,Bunnelby,Digging Pokémon,あなほりポケモン,Burrowing Pokémon
+660,,Diggersby,Digging Pokémon,あなほりポケモン,Burrowing Pokémon
+661,,Fletchling,Tiny Robin Pokémon,コマドリポケモン,Japanese Robin Pokémon
+662,,Fletchinder,Ember Pokémon,ひのこポケモン,Sparks Pokémon
+663,,Talonflame,Scorching Pokémon,れっかポケモン,Raging Fire Pokémon
+664,,Scatterbug,Scatterdust Pokémon,こなふきポケモン,Powder Blowing Pokémon
+665,,Spewpa,Scatterdust Pokémon,こなふきポケモン,Powder Blowing Pokémon
+666,,Vivillon,Scale Pokémon,りんぷんポケモン,Scale Pokémon
+667,,Litleo,Lion Cub Pokémon,わかししポケモン,Young Lion Pokémon
+668,,Pyroar,Royal Pokémon,おうじゃポケモン,Monarch Pokémon
+669,,Flabébé,Single Bloom Pokémon,いちりんポケモン,Single Flower Pokémon
+670,,Floette,Single Bloom Pokémon,いちりんポケモン,Single Flower Pokémon
+671,,Florges,Garden Pokémon,ガーデンポケモン,Garden Pokémon
+672,,Skiddo,Mount Pokémon,ライドポケモン,Ride Pokémon
+673,,Gogoat,Mount Pokémon,ライドポケモン,Ride Pokémon
+674,,Pancham,Playful Pokémon,やんちゃポケモン,Naughty Pokémon
+675,,Pangoro,Daunting Pokémon,こわもてポケモン,Aggressive Pokémon
+676,,Furfrou,Poodle Pokémon,プードルポケモン,Poodle Pokémon
+677,,Espurr,Restraint Pokémon,じせいポケモン,Self-control Pokémon
+678,,Meowstic,Constraint Pokémon,よくせいポケモン,Restraint Pokémon
+679,,Honedge,Sword Pokémon,とうけんポケモン,Sword Pokémon
+680,,Doublade,Sword Pokémon,とうけんポケモン,Sword Pokémon
+681,,Aegislash,Royal Sword Pokémon,おうけんポケモン,Royal Sword Pokémon
+682,,Spritzee,Perfume Pokémon,こうすいポケモン,Perfume Pokémon
+683,,Aromatisse,Fragrance Pokémon,ほうこうポケモン,Fragrance Pokémon
+684,,Swirlix,Cotton Candy Pokémon,わたあめポケモン,Cotton Candy Pokémon
+685,,Slurpuff,Meringue Pokémon,ホイップポケモン,Whipped Cream Pokémon
+686,,Inkay,Revolving Pokémon,かいてんポケモン,Rotation Pokémon
+687,,Malamar,Overturning Pokémon,ぎゃくてんポケモン,Reversal Pokémon
+688,,Binacle,Two-Handed Pokémon,ふたてポケモン,Two Groups Pokémon
+689,,Barbaracle,Collective Pokémon,しゅうごうポケモン,Gathering Pokémon
+690,,Skrelp,Mock Kelp Pokémon,クサモドキポケモン,Pseudo Grass Pokémon
+691,,Dragalge,Mock Kelp Pokémon,クサモドキポケモン,Pseudo Grass Pokémon
+692,,Clauncher,Water Gun Pokémon,みずでっぽうポケモン,Water Gun Pokémon
+693,,Clawitzer,Howitzer Pokémon,ランチャーポケモン,Launcher Pokémon
+694,,Helioptile,Generator Pokémon,はつでんポケモン,Generator Pokémon
+695,,Heliolisk,Generator Pokémon,はつでんポケモン,Generator Pokémon
+696,,Tyrunt,Royal Heir Pokémon,ようくんポケモン,Young Lord Pokémon
+697,,Tyrantrum,Despot Pokémon,ぼうくんポケモン,Tyrant Pokémon
+698,,Amaura,Tundra Pokémon,ツンドラポケモン,Tundra Pokémon
+699,,Aurorus,Tundra Pokémon,ツンドラポケモン,Tundra Pokémon
+700,,Sylveon,Intertwining Pokémon,むすびつきポケモン,Association Pokémon
+701,,Hawlucha,Wrestling Pokémon,レスリングポケモン,Wrestling Pokémon
+702,,Dedenne,Antenna Pokémon,アンテナポケモン,Antenna Pokémon
+703,,Carbink,Jewel Pokémon,ほうせきポケモン,Jewel Pokémon
+704,,Goomy,Soft Tissue Pokémon,なんたいポケモン,Soft Body Pokémon
+705,,Sliggoo,Soft Tissue Pokémon,なんたいポケモン,Soft Body Pokémon
+705,,Sliggoo (Hisuian Form),Snail Pokémon,マイマイポケモン,Snail Pokémon
+706,,Goodra,Dragon Pokémon,ドラゴンポケモン,Dragon Pokémon
+706,,Goodra (Hisuian Form),Shell Bunker Pokémon,からこもりポケモン,Shelled Pokémon
+707,,Klefki,Key Ring Pokémon,かぎたばポケモン,Key Ring Pokémon
+708,,Phantump,Stump Pokémon,きりかぶポケモン,Stump Pokémon
+709,,Trevenant,Elder Tree Pokémon,ろうぼくポケモン,Old Tree Pokémon
+710,,Pumpkaboo,Pumpkin Pokémon,かぼちゃポケモン,Pumpkin Pokémon
+711,,Gourgeist,Pumpkin Pokémon,かぼちゃポケモン,Pumpkin Pokémon
+712,,Bergmite,Ice Chunk Pokémon,ひょうかいポケモン,Ice Floe Pokémon
+713,,Avalugg,Iceberg Pokémon,ひょうざんポケモン,Iceberg Pokémon
+714,,Noibat,Sound Wave Pokémon,おんぱポケモン,Sound Wave Pokémon
+715,,Noivern,Sound Wave Pokémon,おんぱポケモン,Sound Wave Pokémon
+716,,Xerneas,Life Pokémon,せいめいポケモン,Life Pokémon
+717,,Yveltal,Destruction Pokémon,はかいポケモン,Destruction Pokémon
+718,,Zygarde,Order Pokémon,ちつじょポケモン,Order Pokémon
+719,,Diancie,Jewel Pokémon,ほうせきポケモン,Jewel Pokémon
+720,,Hoopa (Hoopa Confined),Mischief Pokémon,いたずらポケモン,Mischief Pokémon
+720,,Hoopa (Hoopa Unbound),Djinn Pokémon,まじんポケモン,Majin Pokémon
+721,,Volcanion,Steam Pokémon,スチームポケモン,Steam Pokémon
+722,,Rowlet,Grass Quill Pokémon,くさばねポケモン,Grass Feather Pokémon
+723,,Dartrix,Blade Quill Pokémon,はばねポケモン,Blade Feather Pokémon
+724,,Decidueye,Arrow Quill Pokémon,やばねポケモン,Arrow Feather Pokémon
+725,,Litten,Fire Cat Pokémon,ひねこポケモン,Fire Cat Pokémon
+726,,Torracat,Fire Cat Pokémon,ひねこポケモン,Fire Cat Pokémon
+727,,Incineroar,Heel Pokémon,ヒールポケモン,Heel Pokémon
+728,,Popplio,Sea Lion Pokémon,あしかポケモン,Sea Lion Pokémon
+729,,Brionne,Pop Star Pokémon,アイドルポケモン,Idol Pokémon
+730,,Primarina,Soloist Pokémon,ソリストポケモン,Soloist Pokémon
+731,,Pikipek,Woodpecker Pokémon,きつつきポケモン,Woodpecker Pokémon
+732,,Trumbeak,Bugle Beak Pokémon,ラッパぐちポケモン,Bugle Beak Pokémon
+733,,Toucannon,Cannon Pokémon,おおづつポケモン,Cannon Pokémon
+734,,Yungoos,Loitering Pokémon,うろつきポケモン,Prowling Pokémon
+735,,Gumshoos,Stakeout Pokémon,はりこみポケモン,Stakeout Pokémon
+736,,Grubbin,Larva Pokémon,ようちゅうポケモン,Larva Pokémon
+737,,Charjabug,Battery Pokémon,バッテリーポケモン,Battery Pokémon
+738,,Vikavolt,Stag Beetle Pokémon,くわがたポケモン,Stag Beetle Pokémon
+739,,Crabrawler,Boxing Pokémon,けんとうポケモン,Boxing Pokémon
+740,,Crabominable,Woolly Crab Pokémon,けがにポケモン,Horsehair Crab Pokémon
+741,,Oricorio,Dancing Pokémon,ダンスポケモン,Dance Pokémon
+742,,Cutiefly,Bee Fly Pokémon,ツリアブポケモン,Bee Fly Pokémon
+743,,Ribombee,Bee Fly Pokémon,ツリアブポケモン,Bee Fly Pokémon
+744,,Rockruff,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+745,,Lycanroc,Wolf Pokémon,オオカミポケモン,Wolf Pokémon
+746,,Wishiwashi,Small Fry Pokémon,こざかなポケモン,Small Fish Pokémon
+747,,Mareanie,Brutal Star Pokémon,ヒトデナシポケモン,Brute Pokémon
+748,,Toxapex,Brutal Star Pokémon,ヒトデナシポケモン,Brute Pokémon
+749,,Mudbray,Donkey Pokémon,うさぎうまポケモン,Donkey Pokémon
+750,,Mudsdale,Draft Horse Pokémon,ばんばポケモン,Draft Horse Pokémon
+751,,Dewpider,Water Bubble Pokémon,すいほうポケモン,Water Bubble Pokémon
+752,,Araquanid,Water Bubble Pokémon,すいほうポケモン,Water Bubble Pokémon
+753,,Fomantis,Sickle Grass Pokémon,かまくさポケモン,Sickle Grass Pokémon
+754,,Lurantis,Bloom Sickle Pokémon,はなかまポケモン,Flower Sickle Pokémon
+755,,Morelull,Illuminating Pokémon,はっこうポケモン,Luminescence Pokémon
+756,,Shiinotic,Illuminating Pokémon,はっこうポケモン,Luminescence Pokémon
+757,,Salandit,Toxic Lizard Pokémon,どくトカゲポケモン,Poison Lizard Pokémon
+758,,Salazzle,Toxic Lizard Pokémon,どくトカゲポケモン,Poison Lizard Pokémon
+759,,Stufful,Flailing Pokémon,じたばたポケモン,Flailing Pokémon
+760,,Bewear,Strong Arm Pokémon,ごうわんポケモン,Strong Arm Pokémon
+761,,Bounsweet,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+762,,Steenee,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+763,,Tsareena,Fruit Pokémon,フルーツポケモン,Fruit Pokémon
+764,,Comfey,Posy Picker Pokémon,はなつみポケモン,Flower Picker Pokémon
+765,,Oranguru,Sage Pokémon,けんじゃポケモン,Sage Pokémon
+766,,Passimian,Teamwork Pokémon,れんけいポケモン,Cooperation Pokémon
+767,,Wimpod,Turn Tail Pokémon,そうこうポケモン,Bustling Pokémon
+768,,Golisopod,Hard Scale Pokémon,そうこうポケモン,Armored Pokémon
+769,,Sandygast,Sand Heap Pokémon,すなやまポケモン,Sand Pile Pokémon
+770,,Palossand,Sand Castle Pokémon,すなのしろポケモン,Sand Castle Pokémon
+771,,Pyukumuku,Sea Cucumber Pokémon,なまこポケモン,Sea Cucumber Pokémon
+772,,Type: Null,Synthetic Pokémon,じんこうポケモン,Man-made Pokémon
+773,,Silvally,Synthetic Pokémon,じんこうポケモン,Man-made Pokémon
+774,,Minior,Meteor Pokémon,ながれぼしポケモン,Meteor Pokémon
+775,,Komala,Drowsing Pokémon,ゆめうつつポケモン,Trance Pokémon
+776,,Turtonator,Blast Turtle Pokémon,ばくはつがめポケモン,Explosion Turtle Pokémon
+777,,Togedemaru,Roly-Poly Pokémon,まるまりポケモン,Circle Ball Pokémon
+778,,Mimikyu,Disguise Pokémon,ばけのかわポケモン,Disguise Pokémon
+779,,Bruxish,Gnash Teeth Pokémon,はぎしりポケモン,Bruxism Pokémon
+780,,Drampa,Placid Pokémon,ゆうゆうポケモン,Calm Pokémon
+781,,Dhelmise,Sea Creeper Pokémon,もくずポケモン,Seaweed Pokémon
+782,,Jangmo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+783,,Hakamo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+784,,Kommo-o,Scaly Pokémon,うろこポケモン,Scale Pokémon
+785,,Tapu Koko,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+786,,Tapu Lele,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+787,,Tapu Bulu,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+788,,Tapu Fini,Land Spirit Pokémon,とちがみポケモン,Land Spirit Pokémon
+789,,Cosmog,Nebula Pokémon,せいうんポケモン,Nebula Pokémon
+790,,Cosmoem,Protostar Pokémon,げんしせいポケモン,Protostar Pokémon
+791,,Solgaleo,Sunne Pokémon,にちりんポケモン,Sun Pokémon
+792,,Lunala,Moone Pokémon,がちりんポケモン,Moon Pokémon
+793,,Nihilego,Parasite Pokémon,きせいポケモン,Parasite Pokémon
+794,,Buzzwole,Swollen Pokémon,ぼうちょうポケモン,Swollen Pokémon
+795,,Pheromosa,Lissome Pokémon,えんびポケモン,Beauty Pokémon
+796,,Xurkitree,Glowing Pokémon,でんしょくポケモン,Glowing Pokémon
+797,,Celesteela,Launch Pokémon,うちあげポケモン,Launch Pokémon
+798,,Kartana,Drawn Sword Pokémon,ばっとうポケモン,Drawn Sword Pokémon
+799,,Guzzlord,Junkivore Pokémon,あくじきポケモン,Allotriophage Pokémon
+800,,Necrozma,Prism Pokémon,プリズムポケモン,Prism Pokémon
+801,,Magearna,Artificial Pokémon,じんぞうポケモン,Artificial Pokémon
+802,,Marshadow,Gloomdweller Pokémon,かげすみポケモン,Shadow Dweller Pokémon
+803,,Poipole,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+804,,Naganadel,Poison Pin Pokémon,どくばりポケモン,Poison Pin Pokémon
+805,,Stakataka,Rampart Pokémon,いしがきポケモン,Stone Wall Pokémon
+806,,Blacephalon,Fireworks Pokémon,はなびポケモン,Fireworks Pokémon
+807,,Zeraora,Thunderclap Pokémon,じんらいポケモン,Thunderclap Pokémon
+808,,Meltan,Hex Nut Pokémon,ナットポケモン,Nut Pokémon
+809,,Melmetal,Hex Nut Pokémon,ナットポケモン,Nut Pokémon
+810,,Grookey,Chimp Pokémon,こざるポケモン,Small Monkey Pokémon
+811,,Thwackey,Beat Pokémon,ビートポケモン,Beat Pokémon
+812,,Rillaboom,Drummer Pokémon,ドラマーポケモン,Drummer Pokémon
+813,,Scorbunny,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+814,,Raboot,Rabbit Pokémon,うさぎポケモン,Rabbit Pokémon
+815,,Cinderace,Striker Pokémon,ストライカーポケモン,Striker Pokémon
+816,,Sobble,Water Lizard Pokémon,みずとかげポケモン,Water Lizard Pokémon
+817,,Drizzile,Water Lizard Pokémon,みずとかげポケモン,Water Lizard Pokémon
+818,,Inteleon,Secret Agent Pokémon,エージェントポケモン,Agent Pokémon
+819,,Skwovet,Cheeky Pokémon,ほおばりポケモン,Stuffed Cheeks Pokémon
+820,,Greedent,Greedy Pokémon,よくばりポケモン,Greedy Pokémon
+821,,Rookidee,Tiny Bird Pokémon,ことりポケモン,Tiny Bird Pokémon
+822,,Corvisquire,Raven Pokémon,カラスポケモン,Raven Pokémon
+823,,Corviknight,Raven Pokémon,カラスポケモン,Raven Pokémon
+824,,Blipbug,Larva Pokémon,ようちゅうポケモン,Larva Pokémon
+825,,Dottler,Radome Pokémon,レドームポケモン,Radome Pokémon
+826,,Orbeetle,Seven Spot Pokémon,ななほしポケモン,Seven Spot Pokémon
+827,,Nickit,Fox Pokémon,きつねポケモン,Fox Pokémon
+828,,Thievul,Fox Pokémon,きつねポケモン,Fox Pokémon
+829,,Gossifleur,Flowering Pokémon,はなかざりポケモン,Flower Decoration Pokémon
+830,,Eldegoss,Cotton Bloom Pokémon,わたかざりポケモン,Cotton Decoration Pokémon
+831,,Wooloo,Sheep Pokémon,ひつじポケモン,Sheep Pokémon
+832,,Dubwool,Sheep Pokémon,ひつじポケモン,Sheep Pokémon
+833,,Chewtle,Snapping Pokémon,くいつきポケモン,Snapping Pokémon
+834,,Drednaw,Bite Pokémon,かみつきポケモン,Bite Pokémon
+835,,Yamper,Puppy Pokémon,こいぬポケモン,Puppy Pokémon
+836,,Boltund,Dog Pokémon,いぬポケモン,Dog Pokémon
+837,,Rolycoly,Coal Pokémon,せきたんポケモン,Coal Pokémon
+838,,Carkol,Coal Pokémon,せきたんポケモン,Coal Pokémon
+839,,Coalossal,Coal Pokémon,せきたんポケモン,Coal Pokémon
+840,,Applin,Apple Core Pokémon,りんごぐらしポケモン,Apple Living Pokémon
+841,,Flapple,Apple Wing Pokémon,りんごはねポケモン,Apple Wing Pokémon
+842,,Appletun,Apple Nectar Pokémon,りんごじるポケモン,Apple Juice Pokémon
+843,,Silicobra,Sand Snake Pokémon,すなへびポケモン,Sand Snake Pokémon
+844,,Sandaconda,Sand Snake Pokémon,すなへびポケモン,Sand Snake Pokémon
+845,,Cramorant,Gulp Pokémon,うのみポケモン,Gulp Pokémon
+846,,Arrokuda,Rush Pokémon,とつげきポケモン,Rush Pokémon
+847,,Barraskewda,Skewer Pokémon,くしざしポケモン,Skewer Pokémon
+848,,Toxel,Baby Pokémon,あかごポケモン,Baby Pokémon
+849,,Toxtricity,Punk Pokémon,パンクポケモン,Punk Pokémon
+850,,Sizzlipede,Radiator Pokémon,はつねつポケモン,Heat Generation Pokémon
+851,,Centiskorch,Radiator Pokémon,はつねつポケモン,Heat Generation Pokémon
+852,,Clobbopus,Tantrum Pokémon,だだっこポケモン,Spoiled Pokémon
+853,,Grapploct,Jujitsu Pokémon,じゅうじゅつポケモン,Jujutsu Pokémon
+854,,Sinistea,Black Tea Pokémon,こうちゃポケモン,Black Tea Pokémon
+855,,Polteageist,Black Tea Pokémon,こうちゃポケモン,Black Tea Pokémon
+856,,Hatenna,Calm Pokémon,おだやかポケモン,Calm Pokémon
+857,,Hattrem,Serene Pokémon,せいしゅくポケモン,Quiet Pokémon
+858,,Hatterene,Silent Pokémon,せいじゃくポケモン,Silent Pokémon
+859,,Impidimp,Wily Pokémon,いじわるポケモン,Malicious Pokémon
+860,,Morgrem,Devious Pokémon,しょうわるポケモン,Ill-Natured Pokémon
+861,,Grimmsnarl,Bulk Up Pokémon,ビルドアップポケモン,Buildup Pokémon
+862,,Obstagoon,Blocking Pokémon,ていしポケモン,Blocking Pokémon
+863,,Perrserker,Viking Pokémon,バイキングポケモン,Viking Pokémon
+864,,Cursola,Coral Pokémon,さんごポケモン,Coral Pokémon
+865,,Sirfetch'd,Wild Duck Pokémon,かるがもポケモン,Spot-Billed Duck Pokémon
+866,,Mr. Rime,Comedian Pokémon,コメディアンポケモン,Comedian Pokémon
+867,,Runerigus,Grudge Pokémon,おんねんポケモン,Grudge Pokémon
+868,,Milcery,Cream Pokémon,クリームポケモン,Cream Pokémon
+869,,Alcremie,Cream Pokémon,クリームポケモン,Cream Pokémon
+870,,Falinks,Formation Pokémon,じんけいポケモン,Battle Formation Pokémon
+871,,Pincurchin,Sea Urchin Pokémon,うにポケモン,Sea Urchin Pokémon
+872,,Snom,Worm Pokémon,いもむしポケモン,Caterpillar Pokémon
+873,,Frosmoth,Frost Moth Pokémon,こおりがポケモン,Ice Moth Pokémon
+874,,Stonjourner,Big Rock Pokémon,きょせきポケモン,Megalith Pokémon
+875,,Eiscue,Penguin Pokémon,ペンギンポケモン,Penguin Pokémon
+876,,Indeedee,Emotion Pokémon,かんじょうポケモン,Emotion Pokémon
+877,,Morpeko,Two-Sided Pokémon,にめんポケモン,Two-Faced Pokémon
+878,,Cufant,Copperderm Pokémon,どうぞうポケモン,Bronze Statue Pokémon
+879,,Copperajah,Copperderm Pokémon,どうぞうポケモン,Bronze Statue Pokémon
+880,,Dracozolt,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+881,,Arctozolt,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+882,,Dracovish,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+883,,Arctovish,Fossil Pokémon,かせきポケモン,Fossil Pokémon
+884,,Duraludon,Alloy Pokémon,ごうきんポケモン,Alloy Pokémon
+885,,Dreepy,Lingering Pokémon,うらめしポケモン,Reproachful Pokémon
+886,,Drakloak,Caretaker Pokémon,せわやくポケモン,Caretaker Pokémon
+887,,Dragapult,Stealth Pokémon,ステルスポケモン,Stealth Pokémon
+888,,Zacian,Warrior Pokémon,つわものポケモン,Warrior Pokémon
+889,,Zamazenta,Warrior Pokémon,つわものポケモン,Warrior Pokémon
+890,,Eternatus,Gigantic Pokémon,キョダイポケモン,Gigantic Pokémon
+891,,Kubfu,Wushu Pokémon,けんぽうポケモン,Kenpo Pokémon
+892,,Urshifu,Wushu Pokémon,けんぽうポケモン,Kenpo Pokémon
+893,,Zarude,Rogue Monkey Pokémon,わるざるポケモン,Bad Monkey Pokémon
+894,,Regieleki,Electron Pokémon,エレクトロンポケモン,Electron Pokémon
+895,,Regidrago,Dragon Orb Pokémon,りゅうぎょくポケモン,Dragon Ball Pokémon
+896,,Glastrier,Wild Horse Pokémon,あばれうまポケモン,Rampage Horse Pokémon
+897,,Spectrier,Swift Horse Pokémon,しゅんばポケモン,Swift Horse Pokémon
+898,,Calyrex,King Pokémon,キングポケモン,King Pokémon
+898,,Calyrex (Ice Rider),High King Pokémon,エンペラーポケモン,Emperor Pokémon
+898,,Calyrex (Shadow Rider),High King Pokémon,エンペラーポケモン,Emperor Pokémon
+899,,Wyrdeer,Big Horn Pokémon,おおツノポケモン,Big Horn Pokémon
+900,,Kleavor,Axe Pokémon,まさかりポケモン,Broadaxe Pokémon
+901,,Ursaluna,Peat Pokémon,でいたんポケモン,Peat Pokémon
+902,,Basculegion,Big Fish Pokémon,おおうおポケモン,Big Fish Pokémon
+903,,Sneasler,Free Climb Pokémon,クライミングポケモン,Climbing Pokémon
+904,,Overqwil,Pin Cluster Pokémon,けんざんポケモン,Kenzan Pokémon
+905,,Enamorus,Love-Hate Pokémon,あいぞうポケモン,Love-Hate Pokémon

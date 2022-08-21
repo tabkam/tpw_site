@@ -1,0 +1,52 @@
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+    vertical-align: baseline;
+    margin-top: 1em;
+    text-decoration: none;
+}
+
+text-right {
+	text-align: right;
+	vertical-align: baseline;
+}
+
+text-center {
+	text-align: center;
+	vertical-align: baseline;
+}
+
+text-left {
+	text-align: left;
+	vertical-align: baseline;
+}
+
+table {
+	background-color: lightskyblue;
+	border: 3px solid;
+	border-width: thin;
+}
+
+.nav-item, nav-link, active {
+	background-color: lightskyblue;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+tr {
+	text-align: center;
+	vertical-align: middle;
+}
+
+th {
+	text-align: center;
+	vertical-align: middle;
+}
+
+ul, li {
+	text-align: left;
+}

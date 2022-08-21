@@ -1,0 +1,163 @@
+﻿###,Menu Sprite,Pokémon,Gender,Group,Area Found,Unlock Method,Level,Number of steps,Rarity,Item Held
+84,,Doduo,♀,A,Refreshing Field,Default,8,2000+ steps,Very Common,None
+115,,Kangaskhan,♀,A,Refreshing Field,Default,8,3000+ steps,Common,None
+29,,Nidoran♀,♀,B,Refreshing Field,Default,5,500+ steps,Very Common,None
+32,,Nidoran♂,♂,B,Refreshing Field,Default,5,500+ steps,Very Common,None
+16,,Pidgey,♂,C,Refreshing Field,Default,5,0+ steps,Very Common,None
+161,,Sentret,♀,C,Refreshing Field,Default,5,0+ steps,Very Common,None
+202,,Wobbuffet,♀,A,Noisy Forest,Default,15,4000+ steps,Rare,None
+69,,Bellsprout,♀,A,Noisy Forest,Default,8,3000+ steps,Very Common,None
+46,,Paras,♀,B,Noisy Forest,Default,6,700+ steps,Very Common,None
+48,,Venonat,♂,B,Noisy Forest,Default,6,700+ steps,Very Common,None
+21,,Spearow,♂,C,Noisy Forest,Default,5,0+ steps,Very Common,None
+43,,Oddish,♀,C,Noisy Forest,Default,5,0+ steps,Very Common,None
+95,,Onix,♂,A,Rugged Road,50 watts,9,4000+ steps,Very Common,None
+240,,Magby,♂,A,Rugged Road,50 watts,9,5000+ steps,Common,None
+66,,Machop,♀,B,Rugged Road,50 watts,7,1000+ steps,Very Common,None
+77,,Ponyta,♀,B,Rugged Road,50 watts,7,1000+ steps,Very Common,None
+74,,Geodude,♀,C,Rugged Road,50 watts,8,0+ steps,Very Common,None
+163,,Hoothoot,♀,C,Rugged Road,50 watts,6,0+ steps,Very Common,None
+54,,Psyduck,♀,A,Beautiful Beach,200 watts,10,4000+ steps,Very Common,None
+120,,Staryu,-,A,Beautiful Beach,200 watts,10,5000+ steps,Very Common,None
+60,,Poliwag,♂,B,Beautiful Beach,200 watts,8,1500+ steps,Very Common,None
+79,,Slowpoke,♂,B,Beautiful Beach,200 watts,8,1000+ steps,Very Common,None
+191,,Sunkern,♀,C,Beautiful Beach,200 watts,6,0+ steps,Very Common,None
+194,,Wooper,♂,C,Beautiful Beach,200 watts,6,0+ steps,Very Common,None
+81,,Magnemite,-,A,Suburban Area,500 watts,11,4000+ steps,Common,None
+239,,Elekid,♂,A,Suburban Area,500 watts,11,5000+ steps,Very Rare,None
+81,,Magnemite,-,B,Suburban Area,500 watts,8,1000+ steps,Very Common,None
+198,,Murkrow,♀,B,Suburban Area,500 watts,11,1000+ steps,Common,None
+19,,Rattata,♀,C,Suburban Area,500 watts,7,0+ steps,Very Common,None
+163,,Hoothoot,♀,C,Suburban Area,500 watts,7,0+ steps,Very Common,None
+92,,Gastly,♀,A,Dim Cave,"1,000 watts",15,5000+ steps,Rare,None
+238,,Smoochum,♀,A,Dim Cave,"1,000 watts",12,5000+ steps,Common,None
+92,,Gastly,♀,B,Dim Cave,"1,000 watts",10,1000+ steps,Very Common,None
+95,,Onix,♂,B,Dim Cave,"1,000 watts",10,1000+ steps,Very Common,None
+41,,Zubat,♂,C,Dim Cave,"1,000 watts",8,0+ steps,Very Common,None
+66,,Machop,♂,C,Dim Cave,"1,000 watts",8,0+ steps,Very Common,None
+60,,Poliwag,♀,A,Blue Lake,"2,000 watts",15,4000+ steps,Very Common,None
+147,,Dratini,♀,A,Blue Lake,"2,000 watts",10,5000+ steps,Rare,None
+90,,Shellder,♀,B,Blue Lake,"2,000 watts",12,500+ steps,Very Common,None
+98,,Krabby,♂,B,Blue Lake,"2,000 watts",12,500+ steps,Very Common,None
+72,,Tentacool,♀,C,Blue Lake,"2,000 watts",9,0+ steps,Very Common,None
+118,,Goldeen,♀,C,Blue Lake,"2,000 watts",9,0+ steps,Very Common,None
+63,,Abra,♀,A,Town Outskirts,"3,000 watts",15,5000+ steps,Common,None
+100,,Voltorb,-,A,Town Outskirts,"3,000 watts",15,3000+ steps,Very Common,None
+88,,Grimer,♂,B,Town Outskirts,"3,000 watts",13,1500+ steps,Very Common,None
+109,,Koffing,♀,B,Town Outskirts,"3,000 watts",13,1500+ steps,Very Common,None
+19,,Rattata,♀,C,Town Outskirts,"3,000 watts",16,0+ steps,Very Common,None
+162,,Furret,♂,C,Town Outskirts,"3,000 watts",15,0+ steps,Very Common,None
+264,,Linoone,♀,A,Hoenn Field,"5,000 watts",30,5000+ steps,Very Common,None
+300,,Skitty,♀,A,Hoenn Field,"5,000 watts",30,7500+ steps,Common,None
+313,,Volbeat,♂,B,Hoenn Field,"5,000 watts",25,2000+ steps,Very Common,None
+314,,Illumise,♀,B,Hoenn Field,"5,000 watts",25,2000+ steps,Very Common,None
+263,,Zigzagoon,♀,C,Hoenn Field,"5,000 watts",17,0+ steps,Very Common,None
+265,,Wurmple,♀,C,Hoenn Field,"5,000 watts",15,0+ steps,Very Common,None
+298,,Azurill,♀,A,Warm Beach,"7,500 watts",20,5000+ steps,Common,None
+320,,Wailmer,♀,A,Warm Beach,"7,500 watts",31,7000+ steps,Common,None
+116,,Horsea,♀,B,Warm Beach,"7,500 watts",20,1500+ steps,Very Common,None
+318,,Carvanha,♀,B,Warm Beach,"7,500 watts",26,1500+ steps,Very Common,None
+118,,Goldeen,♀,C,Warm Beach,"7,500 watts",22,0+ steps,Very Common,None
+129,,Magikarp,♀,C,Warm Beach,"7,500 watts",15,0+ steps,Very Common,None
+218,,Slugma,♀,A,Volcano Path,"10,000 watts",31,5000+ steps,Very Common,None
+307,,Meditite,♂,A,Volcano Path,"10,000 watts",32,5000+ steps,Very Common,None
+111,,Rhyhorn,♂,B,Volcano Path,"10,000 watts",25,2000+ steps,Very Common,None
+228,,Houndour,♂,B,Volcano Path,"10,000 watts",27,2000+ steps,Very Common,None
+74,,Geodude,♂,C,Volcano Path,"10,000 watts",29,0+ steps,Very Common,None
+77,,Ponyta,♀,C,Volcano Path,"10,000 watts",19,0+ steps,Very Common,None
+351,,Castform,♀,A,Treehouse,"15,000 watts",30,5000+ steps,Rare,None
+352,,Kecleon,♂,A,Treehouse,"15,000 watts",30,5000+ steps,Rare,None
+203,,Girafarig,♀,B,Treehouse,"15,000 watts",28,1000+ steps,Very Common,None
+234,,Stantler,♀,B,Treehouse,"15,000 watts",28,1000+ steps,Very Common,None
+44,,Gloom,♀,C,Treehouse,"15,000 watts",14,0+ steps,Very Common,None
+70,,Weepinbell,♂,C,Treehouse,"15,000 watts",13,0+ steps,Very Common,None
+105,,Marowak,♀,A,Scary Cave,"20,000 watts",30,5000+ steps,Common,None
+128,,Tauros,♂,A,Scary Cave,"20,000 watts",30,5000+ steps,Common,None
+42,,Golbat,♂,B,Scary Cave,"20,000 watts",33,500+ steps,Very Common,None
+177,,Natu,♀,B,Scary Cave,"20,000 watts",24,1000+ steps,Very Common,None
+66,,Machop,♂,C,Scary Cave,"20,000 watts",13,0+ steps,Very Common,None
+92,,Gastly,♀,C,Scary Cave,"20,000 watts",15,0+ steps,Very Common,None
+415,,Combee,♂,A,Sinnoh Field,"25,000 watts",30,7000+ steps,Common,None
+439,,Mime Jr.,♂,A,Sinnoh Field,"25,000 watts",29,7000+ steps,Common,None
+403,,Shinx,♀,B,Sinnoh Field,"25,000 watts",33,3000+ steps,Very Common,None
+406,,Budew,♂,B,Sinnoh Field,"25,000 watts",30,3000+ steps,Very Common,None
+399,,Bidoof,♀,C,Sinnoh Field,"25,000 watts",13,0+ steps,Very Common,None
+401,,Kricketot,♂,C,Sinnoh Field,"25,000 watts",15,0+ steps,Very Common,None
+361,,Snorunt,♀,A,Icy Mountain Rd.,"30,000 watts",28,10000+ steps,Common,None
+459,,Snover,♂,A,Icy Mountain Rd.,"30,000 watts",31,10000+ steps,Common,None
+215,,Sneasel,♂,B,Icy Mountain Rd.,"30,000 watts",28,3000+ steps,Very Common,None
+436,,Bronzor,-,B,Icy Mountain Rd.,"30,000 watts",20,3000+ steps,Very Common,None
+179,,Mareep,♀,C,Icy Mountain Rd.,"30,000 watts",15,0+ steps,Very Common,None
+220,,Swinub,♀,C,Icy Mountain Rd.,"30,000 watts",16,0+ steps,Very Common,None
+357,,Tropius,♀,A,Big Forest,"40,000 watts",35,6000+ steps,Common,None
+438,,Bonsly,♂,A,Big Forest,"40,000 watts",30,5000+ steps,Common,None
+114,,Tangela,♀,B,Big Forest,"40,000 watts",30,1000+ steps,Very Common,None
+400,,Bibarel,♀,B,Big Forest,"40,000 watts",30,1000+ steps,Very Common,None
+102,,Exeggcute,♀,C,Big Forest,"40,000 watts",17,0+ steps,Very Common,None
+179,,Mareep,♂,C,Big Forest,"40,000 watts",19,0+ steps,Very Common,None
+200,,Misdreavus,♀,A,White Lake,"50,000 watts",32,6000+ steps,Common,None
+433,,Chingling,♂,A,White Lake,"50,000 watts",22,5000+ steps,Common,None
+93,,Haunter,♂,B,White Lake,"50,000 watts",25,500+ steps,Very Common,None
+418,,Buizel,♂,B,White Lake,"50,000 watts",28,1000+ steps,Very Common,None
+170,,Chinchou,♀,C,White Lake,"50,000 watts",17,0+ steps,Very Common,None
+223,,Remoraid,♀,C,White Lake,"50,000 watts",19,0+ steps,Very Common,None
+422,,Shellos,♀,A,Stormy Beach,"65,000 watts",30,5000+ steps,Very Common,None
+456,,Finneon,♀,A,Stormy Beach,"65,000 watts",26,4000+ steps,Rare,None
+86,,Seel,♀,B,Stormy Beach,"65,000 watts",27,1500+ steps,Very Common,None
+129,,Magikarp,♀,B,Stormy Beach,"65,000 watts",30,500+ steps,Very Common,None
+54,,Psyduck,♀,C,Stormy Beach,"65,000 watts",22,0+ steps,Very Common,None
+90,,Shellder,♂,C,Stormy Beach,"65,000 watts",20,0+ steps,Very Common,None
+25,,Pikachu,♀,A,Resort,"80,000 watts",30,8000+ steps,Common,None
+417,,Pachirisu,♀,A,Resort,"80,000 watts",33,8000+ steps,Common,None
+35,,Clefairy,♀,B,Resort,"80,000 watts",31,4000+ steps,Very Common,None
+39,,Jigglypuff,♀,B,Resort,"80,000 watts",30,4000+ steps,Very Common,None
+183,,Marill,♀,C,Resort,"80,000 watts",25,0+ steps,Very Common,None
+187,,Hoppip,♀,C,Resort,"80,000 watts",25,0+ steps,Very Common,None
+442,,Spiritomb,♂,A,Quiet Cave,"100,000 watts",31,10000+ steps,Very Rare,None
+446,,Munchlax,♂,A,Quiet Cave,"100,000 watts",33,10000+ steps,Very Rare,None
+349,,Feebas,♂,B,Quiet Cave,"100,000 watts",30,500+ steps,Rare,None
+433,,Chingling,♀,B,Quiet Cave,"100,000 watts",26,500+ steps,Common,None
+42,,Golbat,♂,C,Quiet Cave,"100,000 watts",33,0+ steps,Very Common,None
+164,,Noctowl,♀,C,Quiet Cave,"100,000 watts",30,0+ steps,Very Common,None
+120,,Staryu,-,A,Beyond the Sea,Obtain a foreign Pokémon through GTS,18,5000+ steps,Rare,Water Stone
+224,,Octillery,♀,A,Beyond the Sea,Obtain a foreign Pokémon through GTS,19,5000+ steps,Very Rare,Focus Band
+116,,Horsea,♂,B,Beyond the Sea,Obtain a foreign Pokémon through GTS,15,2500+ steps,Common,None
+222,,Corsola,♀,B,Beyond the Sea,Obtain a foreign Pokémon through GTS,16,2500+ steps,Common,None
+170,,Chinchou,♀,C,Beyond the Sea,Obtain a foreign Pokémon through GTS,12,0+ steps,Very Common,None
+223,,Remoraid,♂,C,Beyond the Sea,Obtain a foreign Pokémon through GTS,14,0+ steps,Very Common,None
+35,,Clefairy,♂,A,Night Sky's Edge,Jirachi transfer to HGSS,8,5000+ steps,Common,None
+39,,Jigglypuff,♂,A,Night Sky's Edge,Jirachi transfer to HGSS,10,5000+ steps,Common,None
+41,,Zubat,♂,B,Night Sky's Edge,Jirachi transfer to HGSS,9,2500+ steps,Very Common,None
+163,,Hoothoot,♀,B,Night Sky's Edge,Jirachi transfer to HGSS,6,2500+ steps,Very Common,None
+74,,Geodude,♂,C,Night Sky's Edge,Jirachi transfer to HGSS,5,0+ steps,Very Common,None
+95,,Onix,♀,C,Night Sky's Edge,Jirachi transfer to HGSS,5,0+ steps,Very Common,None
+25,,Pikachu,♂,A,Yellow Forest,Event,15,10000+ steps,Very Rare,Shuca Berry
+25,,Pikachu,♀,A,Yellow Forest,Event,14,9500+ steps,Very Rare,Lum Berry
+25,,Pikachu,♀,B,Yellow Forest,Event,12,5000+ steps,Very Rare,Sitrus Berry
+25,,Pikachu,♂,B,Yellow Forest,Event,13,2000+ steps,Rare,Leppa Berry
+25,,Pikachu,♂,C,Yellow Forest,Event,10,0+ steps,Very Common,TinyMushroom
+25,,Pikachu,♀,C,Yellow Forest,Event,10,0+ steps,Very Common,Oran Berry
+302,,Sableye,♀,A,Rally,Event,15,1000+ steps,Rare,None
+441,,Chatot,♂,A,Rally,Event,15,1000+ steps,Rare,None
+25,,Pikachu,♀,B,Rally,Event,10,500+ steps,Common,None
+453,,Croagunk,♂,B,Rally,Event,10,500+ steps,Common,None
+417,,Pachirisu,♂,C,Rally,Event,5,0+ steps,Very Common,None
+427,,Buneary,♀,C,Rally,Event,5,0+ steps,Very Common,None
+133,,Eevee,♂,A,Sightseeing,Event,10,7000+ steps,Very Rare,None
+255,,Torchic,♂,A,Sightseeing,Event,10,10000+ steps,Very Rare,None
+61,,Poliwhirl,♀,B,Sightseeing,Event,15,2000+ steps,Rare,None
+279,,Pelipper,♂,B,Sightseeing,Event,15,3000+ steps,Rare,None
+25,,Pikachu,♀,C,Sightseeing,Event,8,0+ steps,Very Common,None
+52,,Meowth,♂,C,Sightseeing,Event,10,0+ steps,Very Common,None
+374,,Beldum,-,A,Winner's Path,Event,5,8000+ steps,Rare,Shuca Berry
+446,,Munchlax,♂,A,Winner's Path,Event,5,8000+ steps,Very Rare,Leftovers
+116,,Horsea,♂,B,Winner's Path,Event,5,3000+ steps,Common,Dragon Scale
+355,,Duskull,♂,B,Winner's Path,Event,5,3000+ steps,Common,Reaper Cloth
+129,,Magikarp,♂,C,Winner's Path,Event,5,0+ steps,Very Common,Wacan Berry
+436,,Bronzor,-,C,Winner's Path,Event,5,0+ steps,Very Common,Occa Berry
+239,,Elekid,♂,A,Amity Meadow,Event,5,5000+ steps,Rare,Tamato Berry
+240,,Magby,♂,A,Amity Meadow,Event,5,5000+ steps,Rare,Kelpsy Berry
+238,,Smoochum,♀,B,Amity Meadow,Event,5,2000+ steps,Common,Hondew Berry
+440,,Happiny,♀,B,Amity Meadow,Event,5,2000+ steps,Common,Pomeg Berry
+173,,Cleffa,♀,C,Amity Meadow,Event,5,0+ steps,Very Common,Qualot Berry
+174,,Igglybuff,♂,C,Amity Meadow,Event,5,0+ steps,Very Common,Grepa Berry

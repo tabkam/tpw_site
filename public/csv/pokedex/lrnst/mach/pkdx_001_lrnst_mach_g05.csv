@@ -1,0 +1,27 @@
+﻿Sprite, TM , Move , Type , Cat. , Pwr. , Acc. , PP 
+,TM06,Toxic,Poison,Status,—,90%,10
+,TM09,Venoshock,Poison,Special,65,100%,10
+,TM10,Hidden Power,Normal,Special,—,100%,15
+,TM11,Sunny Day,Fire,Status,—,—%,5
+,TM16,Light Screen,Psychic,Status,—,—%,30
+,TM17,Protect,Normal,Status,—,—%,10
+,TM20,Safeguard,Normal,Status,—,—%,25
+,TM21,Frustration,Normal,Physical,—,100%,20
+,TM22,SolarBeam,Grass,Special,120,100%,10
+,TM27,Return,Normal,Physical,—,100%,20
+,TM32,Double Team,Normal,Status,—,—%,15
+,TM36,Sludge Bomb,Poison,Special,90,100%,10
+,TM42,Facade,Normal,Physical,70,100%,20
+,TM44,Rest,Psychic,Status,—,—%,10
+,TM45,Attract,Normal,Status,—,100%,15
+,TM48,Round,Normal,Special,60,100%,15
+,TM49,Echoed Voice,Normal,Special,40,100%,15
+,TM53,Energy Ball,Grass,Special,80,100%,10
+,TM70,Flash,Normal,Status,—,100%,20
+,TM75,Swords Dance,Normal,Status,—,—%,30
+,TM86,Grass Knot,Grass,Special,—,100%,20
+,TM87,Swagger,Normal,Status,—,90%,15
+,TM90,Substitute,Normal,Status,—,—%,10
+,TM94,Rock Smash,Fighting,Physical,40,100%,15
+,HM01,Cut,Normal,Physical,50,95%,30
+,HM04,Strength,Normal,Physical,80,100%,15

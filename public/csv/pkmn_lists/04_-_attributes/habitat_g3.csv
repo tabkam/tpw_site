@@ -1,0 +1,387 @@
+﻿Ndex,Menu Sprite,Pokémon,Type 1,Type 2,Habitat
+#019,19,Rattata,Normal,,Grassland
+#020,20,Raticate,Normal,,Grassland
+#161,161,Sentret,Normal,,Grassland
+#162,162,Furret,Normal,,Grassland
+#263,263,Zigzagoon,Normal,,Grassland
+#264,264,Linoone,Normal,,Grassland
+#261,261,Poochyena,Dark,,Grassland
+#262,262,Mightyena,Dark,,Grassland
+#029,29,Nidoran♀,Poison,,Grassland
+#030,30,Nidorina,Poison,,Grassland
+#031,31,Nidoqueen,Poison,Ground,Grassland
+#032,32,Nidoran♂,Poison,,Grassland
+#033,33,Nidorino,Poison,,Grassland
+#034,34,Nidoking,Poison,Ground,Grassland
+#084,84,Doduo,Normal,Flying,Grassland
+#085,85,Dodrio,Normal,Flying,Grassland
+#276,276,Taillow,Normal,Flying,Grassland
+#277,277,Swellow,Normal,Flying,Grassland
+#114,114,Tangela,Grass,,Grassland
+#315,315,Roselia,Grass,Poison,Grassland
+#191,191,Sunkern,Grass,,Grassland
+#192,192,Sunflora,Grass,,Grassland
+#187,187,Hoppip,Grass,Flying,Grassland
+#188,188,Skiploom,Grass,Flying,Grassland
+#189,189,Jumpluff,Grass,Flying,Grassland
+#043,43,Oddish,Grass,Poison,Grassland
+#044,44,Gloom,Grass,Poison,Grassland
+#045,45,Vileplume,Grass,Poison,Grassland
+#182,182,Bellossom,Grass,,Grassland
+#023,23,Ekans,Poison,,Grassland
+#024,24,Arbok,Poison,,Grassland
+#174,174,Igglybuff,Normal,,Grassland
+#039,39,Jigglypuff,Normal,,Grassland
+#040,40,Wigglytuff,Normal,,Grassland
+#179,179,Mareep,Electric,,Grassland
+#180,180,Flaaffy,Electric,,Grassland
+#181,181,Ampharos,Electric,,Grassland
+#083,83,Farfetch'd,Normal,Flying,Grassland
+#108,108,Lickitung,Normal,,Grassland
+#123,123,Scyther,Bug,Flying,Grassland
+#212,212,Scizor,Bug,Steel,Grassland
+#096,96,Drowzee,Psychic,,Grassland
+#097,97,Hypno,Psychic,,Grassland
+#316,316,Gulpin,Poison,,Grassland
+#317,317,Swalot,Poison,,Grassland
+#115,115,Kangaskhan,Normal,,Grassland
+#203,203,Girafarig,Normal,Psychic,Grassland
+#128,128,Tauros,Normal,,Grassland
+#241,241,Miltank,Normal,,Grassland
+#037,37,Vulpix,Fire,,Grassland
+#038,38,Ninetales,Fire,,Grassland
+#077,77,Ponyta,Fire,,Grassland
+#078,78,Rapidash,Fire,,Grassland
+#239,239,Elekid,Electric,,Grassland
+#125,125,Electabuzz,Electric,,Grassland
+#309,309,Electrike,Electric,,Grassland
+#310,310,Manectric,Electric,,Grassland
+#335,335,Zangoose,Normal,,Grassland
+#336,336,Seviper,Poison,,Grassland
+#311,311,Plusle,Electric,,Grassland
+#312,312,Minun,Electric,,Grassland
+#058,58,Growlithe,Fire,,Grassland
+#059,59,Arcanine,Fire,,Grassland
+#351,351,Castform,Normal,,Grassland
+#358,358,Chimecho,Psychic,,Grassland
+#001,1,Bulbasaur,Grass,Poison,Grassland
+#002,2,Ivysaur,Grass,Poison,Grassland
+#003,3,Venusaur,Grass,Poison,Grassland
+#152,152,Chikorita,Grass,,Grassland
+#153,153,Bayleef,Grass,,Grassland
+#154,154,Meganium,Grass,,Grassland
+#155,155,Cyndaquil,Fire,,Grassland
+#156,156,Quilava,Fire,,Grassland
+#157,157,Typhlosion,Fire,,Grassland
+#255,255,Torchic,Fire,,Grassland
+#256,256,Combusken,Fire,Fighting,Grassland
+#257,257,Blaziken,Fire,Fighting,Grassland
+#243,243,Raikou,Electric,,Grassland
+#244,244,Entei,Fire,,Grassland
+#245,245,Suicune,Water,,Grassland
+#010,10,Caterpie,Bug,,Forest
+#011,11,Metapod,Bug,,Forest
+#012,12,Butterfree,Bug,Flying,Forest
+#013,13,Weedle,Bug,Poison,Forest
+#014,14,Kakuna,Bug,Poison,Forest
+#015,15,Beedrill,Bug,Poison,Forest
+#265,265,Wurmple,Bug,,Forest
+#266,266,Silcoon,Bug,,Forest
+#267,267,Beautifly,Bug,Flying,Forest
+#268,268,Cascoon,Bug,,Forest
+#269,269,Dustox,Bug,Poison,Forest
+#016,16,Pidgey,Normal,Flying,Forest
+#017,17,Pidgeotto,Normal,Flying,Forest
+#018,18,Pidgeot,Normal,Flying,Forest
+#163,163,Hoothoot,Normal,Flying,Forest
+#164,164,Noctowl,Normal,Flying,Forest
+#177,177,Natu,Psychic,Flying,Forest
+#178,178,Xatu,Psychic,Flying,Forest
+#172,172,Pichu,Electric,,Forest
+#025,25,Pikachu,Electric,,Forest
+#026,26,Raichu,Electric,,Forest
+#069,69,Bellsprout,Grass,Poison,Forest
+#070,70,Weepinbell,Grass,Poison,Forest
+#071,71,Victreebel,Grass,Poison,Forest
+#046,46,Paras,Bug,Grass,Forest
+#047,47,Parasect,Bug,Grass,Forest
+#285,285,Shroomish,Grass,,Forest
+#286,286,Breloom,Grass,Fighting,Forest
+#273,273,Seedot,Grass,,Forest
+#274,274,Nuzleaf,Grass,Dark,Forest
+#275,275,Shiftry,Grass,Dark,Forest
+#048,48,Venonat,Bug,Poison,Forest
+#049,49,Venomoth,Bug,Poison,Forest
+#193,193,Yanma,Bug,Flying,Forest
+#165,165,Ledyba,Bug,Flying,Forest
+#166,166,Ledian,Bug,Flying,Forest
+#167,167,Spinarak,Bug,Poison,Forest
+#168,168,Ariados,Bug,Poison,Forest
+#290,290,Nincada,Bug,Ground,Forest
+#291,291,Ninjask,Bug,Flying,Forest
+#292,292,Shedinja,Bug,Ghost,Forest
+#313,313,Volbeat,Bug,,Forest
+#314,314,Illumise,Bug,,Forest
+#204,204,Pineco,Bug,,Forest
+#205,205,Forretress,Bug,Steel,Forest
+#287,287,Slakoth,Normal,,Forest
+#288,288,Vigoroth,Normal,,Forest
+#289,289,Slaking,Normal,,Forest
+#300,300,Skitty,Normal,,Forest
+#301,301,Delcatty,Normal,,Forest
+#198,198,Murkrow,Dark,Flying,Forest
+#215,215,Sneasel,Dark,Ice,Forest
+#102,102,Exeggcute,Grass,Psychic,Forest
+#103,103,Exeggutor,Grass,Psychic,Forest
+#185,185,Sudowoodo,Rock,,Forest
+#190,190,Aipom,Normal,,Forest
+#234,234,Stantler,Normal,,Forest
+#352,352,Kecleon,Normal,,Forest
+#127,127,Pinsir,Bug,,Forest
+#214,214,Heracross,Bug,Fighting,Forest
+#333,333,Swablu,Normal,Flying,Forest
+#334,334,Altaria,Dragon,Flying,Forest
+#357,357,Tropius,Grass,Flying,Forest
+#355,355,Duskull,Ghost,,Forest
+#356,356,Dusclops,Ghost,,Forest
+#175,175,Togepi,Normal,,Forest
+#176,176,Togetic,Normal,Flying,Forest
+#252,252,Treecko,Grass,,Forest
+#253,253,Grovyle,Grass,,Forest
+#254,254,Sceptile,Grass,,Forest
+#251,251,Celebi,Psychic,Grass,Forest
+#118,118,Goldeen,Water,,Water's Edge
+#119,119,Seaking,Water,,Water's Edge
+#129,129,Magikarp,Water,,Water's Edge
+#130,130,Gyarados,Water,Flying,Water's Edge
+#098,98,Krabby,Water,,Water's Edge
+#099,99,Kingler,Water,,Water's Edge
+#341,341,Corphish,Water,,Water's Edge
+#342,342,Crawdaunt,Water,Dark,Water's Edge
+#339,339,Barboach,Water,Ground,Water's Edge
+#340,340,Whiscash,Water,Ground,Water's Edge
+#270,270,Lotad,Water,Grass,Water's Edge
+#271,271,Lombre,Water,Grass,Water's Edge
+#272,272,Ludicolo,Water,Grass,Water's Edge
+#283,283,Surskit,Bug,Water,Water's Edge
+#284,284,Masquerain,Bug,Flying,Water's Edge
+#054,54,Psyduck,Water,,Water's Edge
+#055,55,Golduck,Water,,Water's Edge
+#194,194,Wooper,Water,Ground,Water's Edge
+#195,195,Quagsire,Water,Ground,Water's Edge
+#060,60,Poliwag,Water,,Water's Edge
+#061,61,Poliwhirl,Water,,Water's Edge
+#062,62,Poliwrath,Water,Fighting,Water's Edge
+#186,186,Politoed,Water,,Water's Edge
+#298,298,Azurill,Normal,,Water's Edge
+#183,183,Marill,Water,,Water's Edge
+#184,184,Azumarill,Water,,Water's Edge
+#079,79,Slowpoke,Water,Psychic,Water's Edge
+#080,80,Slowbro,Water,Psychic,Water's Edge
+#199,199,Slowking,Water,Psychic,Water's Edge
+#349,349,Feebas,Water,,Water's Edge
+#350,350,Milotic,Water,,Water's Edge
+#347,347,Anorith,Rock,Bug,Water's Edge
+#348,348,Armaldo,Rock,Bug,Water's Edge
+#147,147,Dratini,Dragon,,Water's Edge
+#148,148,Dragonair,Dragon,,Water's Edge
+#149,149,Dragonite,Dragon,Flying,Water's Edge
+#007,7,Squirtle,Water,,Water's Edge
+#008,8,Wartortle,Water,,Water's Edge
+#009,9,Blastoise,Water,,Water's Edge
+#158,158,Totodile,Water,,Water's Edge
+#159,159,Croconaw,Water,,Water's Edge
+#160,160,Feraligatr,Water,,Water's Edge
+#258,258,Mudkip,Water,,Water's Edge
+#259,259,Marshtomp,Water,Ground,Water's Edge
+#260,260,Swampert,Water,Ground,Water's Edge
+#380,380,Latias,Dragon,Psychic,Water's Edge
+#381,381,Latios,Dragon,Psychic,Water's Edge
+#072,72,Tentacool,Water,Poison,Sea
+#073,73,Tentacruel,Water,Poison,Sea
+#278,278,Wingull,Water,Flying,Sea
+#279,279,Pelipper,Water,Flying,Sea
+#120,120,Staryu,Water,,Sea
+#121,121,Starmie,Water,Psychic,Sea
+#170,170,Chinchou,Water,Electric,Sea
+#171,171,Lanturn,Water,Electric,Sea
+#223,223,Remoraid,Water,,Sea
+#224,224,Octillery,Water,,Sea
+#090,90,Shellder,Water,,Sea
+#091,91,Cloyster,Water,Ice,Sea
+#366,366,Clamperl,Water,,Sea
+#367,367,Huntail,Water,,Sea
+#368,368,Gorebyss,Water,,Sea
+#211,211,Qwilfish,Water,Poison,Sea
+#222,222,Corsola,Water,Rock,Sea
+#226,226,Mantine,Water,Flying,Sea
+#370,370,Luvdisc,Water,,Sea
+#086,86,Seel,Water,,Sea
+#087,87,Dewgong,Water,Ice,Sea
+#363,363,Spheal,Ice,Water,Sea
+#364,364,Sealeo,Ice,Water,Sea
+#365,365,Walrein,Ice,Water,Sea
+#318,318,Carvanha,Water,Dark,Sea
+#319,319,Sharpedo,Water,Dark,Sea
+#320,320,Wailmer,Water,,Sea
+#321,321,Wailord,Water,,Sea
+#116,116,Horsea,Water,,Sea
+#117,117,Seadra,Water,,Sea
+#230,230,Kingdra,Water,Dragon,Sea
+#369,369,Relicanth,Water,Rock,Sea
+#131,131,Lapras,Water,Ice,Sea
+#138,138,Omanyte,Rock,Water,Sea
+#139,139,Omastar,Rock,Water,Sea
+#140,140,Kabuto,Rock,Water,Sea
+#141,141,Kabutops,Rock,Water,Sea
+#345,345,Lileep,Rock,Grass,Sea
+#346,346,Cradily,Rock,Grass,Sea
+#382,382,Kyogre,Water,,Sea
+#041,41,Zubat,Poison,Flying,Cave
+#042,42,Golbat,Poison,Flying,Cave
+#169,169,Crobat,Poison,Flying,Cave
+#050,50,Diglett,Ground,,Cave
+#051,51,Dugtrio,Ground,,Cave
+#095,95,Onix,Rock,Ground,Cave
+#208,208,Steelix,Steel,Ground,Cave
+#220,220,Swinub,Ice,Ground,Cave
+#221,221,Piloswine,Ice,Ground,Cave
+#361,361,Snorunt,Ice,,Cave
+#362,362,Glalie,Ice,,Cave
+#293,293,Whismur,Normal,,Cave
+#294,294,Loudred,Normal,,Cave
+#295,295,Exploud,Normal,,Cave
+#200,200,Misdreavus,Ghost,,Cave
+#206,206,Dunsparce,Normal,,Cave
+#299,299,Nosepass,Rock,,Cave
+#302,302,Sableye,Dark,Ghost,Cave
+#303,303,Mawile,Steel,,Cave
+#092,92,Gastly,Ghost,Poison,Cave
+#093,93,Haunter,Ghost,Poison,Cave
+#094,94,Gengar,Ghost,Poison,Cave
+#360,360,Wynaut,Psychic,,Cave
+#202,202,Wobbuffet,Psychic,,Cave
+#337,337,Lunatone,Rock,Psychic,Cave
+#338,338,Solrock,Rock,Psychic,Cave
+#377,377,Regirock,Rock,,Cave
+#378,378,Regice,Ice,,Cave
+#379,379,Registeel,Steel,,Cave
+#074,74,Geodude,Rock,Ground,Mountain
+#075,75,Graveler,Rock,Ground,Mountain
+#076,76,Golem,Rock,Ground,Mountain
+#056,56,Mankey,Fighting,,Mountain
+#057,57,Primeape,Fighting,,Mountain
+#325,325,Spoink,Psychic,,Mountain
+#326,326,Grumpig,Psychic,,Mountain
+#066,66,Machop,Fighting,,Mountain
+#067,67,Machoke,Fighting,,Mountain
+#068,68,Machamp,Fighting,,Mountain
+#173,173,Cleffa,Normal,,Mountain
+#035,35,Clefairy,Normal,,Mountain
+#036,36,Clefable,Normal,,Mountain
+#104,104,Cubone,Ground,,Mountain
+#105,105,Marowak,Ground,,Mountain
+#218,218,Slugma,Fire,,Mountain
+#219,219,Magcargo,Fire,Rock,Mountain
+#322,322,Numel,Fire,Ground,Mountain
+#323,323,Camerupt,Fire,Ground,Mountain
+#296,296,Makuhita,Fighting,,Mountain
+#297,297,Hariyama,Fighting,,Mountain
+#307,307,Meditite,Fighting,Psychic,Mountain
+#308,308,Medicham,Fighting,Psychic,Mountain
+#213,213,Shuckle,Bug,Rock,Mountain
+#216,216,Teddiursa,Normal,,Mountain
+#217,217,Ursaring,Normal,,Mountain
+#225,225,Delibird,Ice,Flying,Mountain
+#207,207,Gligar,Ground,Flying,Mountain
+#327,327,Spinda,Normal,,Mountain
+#240,240,Magby,Fire,,Mountain
+#126,126,Magmar,Fire,,Mountain
+#324,324,Torkoal,Fire,,Mountain
+#304,304,Aron,Steel,Rock,Mountain
+#305,305,Lairon,Steel,Rock,Mountain
+#306,306,Aggron,Steel,Rock,Mountain
+#246,246,Larvitar,Rock,Ground,Mountain
+#247,247,Pupitar,Rock,Ground,Mountain
+#248,248,Tyranitar,Rock,Dark,Mountain
+#143,143,Snorlax,Normal,,Mountain
+#359,359,Absol,Dark,,Mountain
+#142,142,Aerodactyl,Rock,Flying,Mountain
+#004,4,Charmander,Fire,,Mountain
+#005,5,Charmeleon,Fire,,Mountain
+#006,6,Charizard,Fire,Flying,Mountain
+#385,385,Jirachi,Steel,Psychic,Mountain
+#021,21,Spearow,Normal,Flying,Rough Terrain
+#022,22,Fearow,Normal,Flying,Rough Terrain
+#027,27,Sandshrew,Ground,,Rough Terrain
+#028,28,Sandslash,Ground,,Rough Terrain
+#111,111,Rhyhorn,Ground,Rock,Rough Terrain
+#112,112,Rhydon,Ground,Rock,Rough Terrain
+#081,81,Magnemite,Electric,Steel,Rough Terrain
+#082,82,Magneton,Electric,Steel,Rough Terrain
+#228,228,Houndour,Dark,Fire,Rough Terrain
+#229,229,Houndoom,Dark,Fire,Rough Terrain
+#231,231,Phanpy,Ground,,Rough Terrain
+#232,232,Donphan,Ground,,Rough Terrain
+#331,331,Cacnea,Grass,,Rough Terrain
+#332,332,Cacturne,Grass,Dark,Rough Terrain
+#328,328,Trapinch,Ground,,Rough Terrain
+#329,329,Vibrava,Ground,Dragon,Rough Terrain
+#330,330,Flygon,Ground,Dragon,Rough Terrain
+#227,227,Skarmory,Steel,Flying,Rough Terrain
+#343,343,Baltoy,Ground,Psychic,Rough Terrain
+#344,344,Claydol,Ground,Psychic,Rough Terrain
+#371,371,Bagon,Dragon,,Rough Terrain
+#372,372,Shelgon,Dragon,,Rough Terrain
+#373,373,Salamence,Dragon,Flying,Rough Terrain
+#374,374,Beldum,Steel,Psychic,Rough Terrain
+#375,375,Metang,Steel,Psychic,Rough Terrain
+#376,376,Metagross,Steel,Psychic,Rough Terrain
+#383,383,Groudon,Ground,,Rough Terrain
+#052,52,Meowth,Normal,,Urban Area
+#053,53,Persian,Normal,,Urban Area
+#209,209,Snubbull,Normal,,Urban Area
+#210,210,Granbull,Normal,,Urban Area
+#088,88,Grimer,Poison,,Urban Area
+#089,89,Muk,Poison,,Urban Area
+#109,109,Koffing,Poison,,Urban Area
+#110,110,Weezing,Poison,,Urban Area
+#353,353,Shuppet,Ghost,,Urban Area
+#354,354,Banette,Ghost,,Urban Area
+#063,63,Abra,Psychic,,Urban Area
+#064,64,Kadabra,Psychic,,Urban Area
+#065,65,Alakazam,Psychic,,Urban Area
+#280,280,Ralts,Psychic,,Urban Area
+#281,281,Kirlia,Psychic,,Urban Area
+#282,282,Gardevoir,Psychic,,Urban Area
+#238,238,Smoochum,Ice,Psychic,Urban Area
+#124,124,Jynx,Ice,Psychic,Urban Area
+#122,122,Mr. Mime,Psychic,,Urban Area
+#235,235,Smeargle,Normal,,Urban Area
+#236,236,Tyrogue,Fighting,,Urban Area
+#106,106,Hitmonlee,Fighting,,Urban Area
+#107,107,Hitmonchan,Fighting,,Urban Area
+#237,237,Hitmontop,Fighting,,Urban Area
+#113,113,Chansey,Normal,,Urban Area
+#242,242,Blissey,Normal,,Urban Area
+#100,100,Voltorb,Electric,,Urban Area
+#101,101,Electrode,Electric,,Urban Area
+#137,137,Porygon,Normal,,Urban Area
+#233,233,Porygon2,Normal,,Urban Area
+#132,132,Ditto,Normal,,Urban Area
+#133,133,Eevee,Normal,,Urban Area
+#134,134,Vaporeon,Water,,Urban Area
+#135,135,Jolteon,Electric,,Urban Area
+#136,136,Flareon,Fire,,Urban Area
+#196,196,Espeon,Psychic,,Urban Area
+#197,197,Umbreon,Dark,,Urban Area
+#201,201,Unown,Psychic,,Rare Location
+#144,144,Articuno,Ice,Flying,Rare Location
+#145,145,Zapdos,Electric,Flying,Rare Location
+#146,146,Moltres,Fire,Flying,Rare Location
+#249,249,Lugia,Psychic,Flying,Rare Location
+#250,250,Ho-Oh,Fire,Flying,Rare Location
+#384,384,Rayquaza,Dragon,Flying,Rare Location
+#386,386,Deoxys,Psychic,,Rare Location
+#150,150,Mewtwo,Psychic,,Rare Location
+#151,151,Mew,Psychic,,Rare Location

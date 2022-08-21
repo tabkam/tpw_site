@@ -1,0 +1,82 @@
+/* CSS Document */
+
+.dynaGrid {
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'descr anim';
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: anim;
+    grid-area: descr;
+}
+
+.dynaGrid > div {
+    background-color: deepskyblue;
+    font-size: 25px;
+}
+
+.gridPadding {
+    	padding-left: 5%;
+    	padding-right: 5%;
+	}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 40px;
+}
+
+#anim {
+    grid-area: anim;
+    justify-self: center;
+    align-self: center;
+}
+
+#descr {
+    grid-area: descr;
+    justify-self: center;
+    align-self: center;
+}
+
+/*@media (max-width: 760px) {
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; padding: 20px; }
+    .dynaGrid > div { padding: 0px }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #descr { font-size: 15px; padding: 20px; }
+}*/
+
+@media (max-width: 1200px) {
+    .dynaGrid {
+        grid-template-areas:
+        'title'
+        'anim'
+        'descr';
+        grid-template-columns: 1fr;
+    }
+    /* #descr { font-size: 18px; } */
+}
+
+@media (max-width: 992px) {
+
+    #title { font-size: 25px; }
+    #descr { font-size: 16px;
+             padding: 20px; }
+}
+
+@media (max-width: 768px) {
+    #descr { font-size: 14px;
+             padding: 30px; }
+}
+
+@media (max-width: 576px) {
+    #title { font-size: 20px; }
+    #descr { font-size: 15px; padding: 10px; }
+}

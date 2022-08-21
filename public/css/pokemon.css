@@ -1,0 +1,93 @@
+/* CSS Document */
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+}
+
+.pokeStyle {
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+}
+
+#heroHeading {
+    position: absolute;
+    color: white;
+    text-shadow: 2px 1px 0 black;
+    padding-top: 29%;
+    padding-left: 1%;
+}
+
+img {
+	max-width: 10%;
+  	height: auto;
+}
+
+@media only screen and (max-width: 1200px) {
+	img {
+		max-width: 15%;
+	  	height: auto;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	img {
+		max-width: 20%;
+	  	height: auto;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	img {
+		max-width: 25%;
+	  	height: auto;
+	}
+}
+
+@media only screen and (max-width: 576px) {
+	img {
+		max-width: 30%;
+	  	height: auto;
+	}
+}
+
+p a {
+    color: blue;
+    font-size: 15px;
+}
+
+.pkdxAlign {
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+}
+
+@media only screen and (max-width: 1200px) {
+    #heroHeading {
+        font-size: 36px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #heroHeading {
+        font-size: 30px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #heroHeading {
+        font-size: 24px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #heroHeading {
+        font-size: 18px;
+        padding-top: 28%;
+	}
+}
+
+.table {
+	background-color: lightskyblue;
+}

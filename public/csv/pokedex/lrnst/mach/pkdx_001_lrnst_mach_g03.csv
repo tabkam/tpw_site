@@ -1,0 +1,20 @@
+﻿Sprite, TM , Move , Type , Pwr. , Acc. , PP , Contest , Appeal , Jam 
+,TM06,Toxic,Poison,—,85%,10,Smart,3 ♥♥♥,0
+,TM09,Bullet Seed,Grass,10,100%,30,Cool,2 ♥♥,1 ♥
+,TM10,Hidden Power,Normal,—,100%,15,Smart,3 ♥♥♥,0
+,TM11,Sunny Day,Fire,—,—%,5,Beauty,1 ♥,0
+,TM17,Protect,Normal,—,—%,10,Cute,1 ♥,0
+,TM19,Giga Drain,Grass,60,100%,5,Smart,2 ♥♥,1 ♥
+,TM21,Frustration,Normal,—,100%,20,Cute,1 ♥,0
+,TM22,SolarBeam,Grass,120,100%,10,Cool,4 ♥♥♥♥,0
+,TM27,Return,Normal,—,100%,20,Cute,1 ♥,0
+,TM32,Double Team,Normal,—,—%,15,Cool,2 ♥♥,0
+,TM36,Sludge Bomb,Poison,90,100%,10,Tough,2 ♥♥,1 ♥
+,TM42,Facade,Normal,70,100%,20,Cute,2 ♥♥,0
+,TM43,Secret Power,Normal,70,100%,20,Smart,1 ♥,0
+,TM44,Rest,Psychic,—,—%,10,Cute,2 ♥♥,0
+,TM45,Attract,Normal,—,100%,15,Cute,2 ♥♥,0
+,HM01,Cut,Normal,50,95%,30,Cool,2 ♥♥,1 ♥
+,HM04,Strength,Normal,80,100%,15,Tough,2 ♥♥,1 ♥
+,HM05,Flash,Normal,—,70%,20,Beauty,3 ♥♥♥,0
+,HM06,Rock Smash,Fighting,20,100%,15,Tough,1 ♥,0

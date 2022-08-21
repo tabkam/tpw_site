@@ -1,0 +1,13 @@
+﻿Sprite, TM , Move , Type , Cat. , Pwr. , Acc. , PP 
+,TM01,Headbutt,Normal,Physical,70,100%,15
+,TM05,Rest,Psychic,Status,—,—%,10
+,TM06,Light Screen,Psychic,Status,—,—%,30
+,TM07,Protect,Normal,Status,—,—%,10
+,TM08,Substitute,Normal,Status,—,—%,10
+,TM09,Reflect,Psychic,Status,—,—%,20
+,TM12,Facade,Normal,Physical,70,100%,20
+,TM27,Toxic,Poison,Status,—,90%,10
+,TM39,Outrage,Dragon,Physical,120,100%,10
+,TM45,Solar Beam,Grass,Special,200,100%,10
+,TM52,Sludge Bomb,Poison,Special,90,100%,10
+,TM53,Mega Drain,Grass,Special,75,100%,10

@@ -1,0 +1,15 @@
+﻿ Parent , Move , Type , Cat. , Pwr. , Acc. , PP 
+,Amnesia,Psychic,Status,—,—%,20
+,Charm,Normal,Status,—,100%,20
+,Curse,Ghost,Status,—,—%,10
+,Endure,Normal,Status,—,—%,10
+,Giga Drain,Grass,Special,75,100%,10
+,GrassWhistle,Grass,Status,—,55%,15
+,Ingrain,Grass,Status,—,—%,20
+,Leaf Storm,Grass,Special,140,90%,5
+,Magical Leaf,Grass,Special,60,—%,20
+,Nature Power,Normal,Status,—,—%,20
+,Petal Dance,Grass,Special,120,100%,10
+,Power Whip,Grass,Physical,120,85%,10
+,Skull Bash,Normal,Physical,100,100%,15
+,Sludge*,Poison,Special,65,100%,20

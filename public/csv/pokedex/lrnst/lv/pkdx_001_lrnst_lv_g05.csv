@@ -1,0 +1,15 @@
+﻿Level, Move , Type , Cat. , Pwr. , Acc. , PP
+1,Tackle,Normal,Physical,50,100%,35
+3,Growl,Normal,Status,—,100%,40
+7,Leech Seed,Grass,Status,—,90%,10
+9,Vine Whip,Grass,Physical,35,100%,15
+13,PoisonPowder,Poison,Status,—,75%,35
+13,Sleep Powder,Grass,Status,—,75%,15
+15,Take Down,Normal,Physical,90,85%,20
+19,Razor Leaf,Grass,Physical,55,95%,25
+21,Sweet Scent,Normal,Status,—,100%,20
+25,Growth,Normal,Status,—,—%,40
+27,Double-Edge,Normal,Physical,120,100%,15
+31,Worry Seed,Grass,Status,—,100%,10
+33,Synthesis,Grass,Status,—,—%,5
+37,Seed Bomb,Grass,Physical,80,100%,15

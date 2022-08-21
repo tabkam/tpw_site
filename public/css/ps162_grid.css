@@ -1,0 +1,132 @@
+/* CSS Document */
+
+.psGrid {
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'cimg  cimg'
+        'descr descr'
+        'nav1  nav2'
+        'nav3  nav4'
+        'nav5  nav5';
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: cimg;
+    grid-area: descr;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+    grid-area: nav5;
+}
+
+
+.psGrid > div {
+    /* background-color: lightskyblue; */
+    padding: 5px;
+}
+
+.psGrid > div > div {
+    font-size: 15px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+#cimg, #descr {
+    justify-self: center;
+    align-self: center;
+    font-size: 15px;
+}
+
+
+#cimg, #descr, #nav1, #nav2, #nav3, #nav4, #nav5 {
+    margin: auto;
+}
+
+#cimg {
+    grid-area: cimg;
+}
+
+#descr {
+    grid-area: descr;
+}
+
+div > #descr {
+    font-size: 20px;
+}
+
+#nav1 {
+    grid-area: nav1;
+}
+
+#nav2 {
+    grid-area: nav2;
+}
+
+#nav3 {
+    grid-area: nav3;
+}
+
+#nav4 {
+    grid-area: nav4;
+}
+
+#nav5 {
+    grid-area: nav5;
+}
+
+.textAlign {
+    text-align: right;
+}
+
+
+@media (min-width: 768px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title title title title'
+            'cimg cimg descr descr descr'
+            'nav1 nav2 nav3 nav4 nav5';
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    }
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; }
+}
+
+@media (min-width: 991px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            '. title title title title title .'
+            '. cimg cimg descr descr descr .'
+            '. nav1 nav2 nav3 nav4 nav5 .';
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+    }
+    #title { font-size: 40px; }
+    #descr { font-size: 30px; }
+}
+@media (max-width: 576px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title'
+            'cimg cimg'
+            'btn1 btn2'
+            'btn3 btn3'
+            'descr descr'
+            'nav1 nav2'
+            'nav3 nav4'
+            'nav5 nav5';
+        grid-template-columns: 1fr 1fr;
+    }
+        #title { font-size: 20px; }
+        #descr > p { font-size: 17.5px; }
+}

@@ -1,0 +1,33 @@
+﻿Sprite, TM , Move , Type , Cat. , Pwr. , Acc. , PP 
+,TM10,Magical Leaf,Grass,Special,60,—%,20
+,TM11,Solar Beam,Grass,Special,120,100%,10
+,TM17,Light Screen,Psychic,Status,—,—%,30
+,TM19,Safeguard,Normal,Status,—,—%,25
+,TM21,Rest,Psychic,Status,—,—%,10
+,TM24,Snore,Normal,Special,50,100%,15
+,TM25,Protect,Normal,Status,—,—%,10
+,TM28,Giga Drain,Grass,Special,75,100%,10
+,TM29,Charm,Fairy,Status,—,100%,20
+,TM31,Attract,Normal,Status,—,100%,15
+,TM34,Sunny Day,Fire,Status,—,—%,5
+,TM39,Facade,Normal,Physical,70,100%,20
+,TM41,Helping Hand,Normal,Status,—,—%,20
+,TM46,Weather Ball,Normal,Special,50,100%,10
+,TM50,Bullet Seed,Grass,Physical,25,100%,30
+,TM74,Venoshock,Poison,Special,65,100%,10
+,TM76,Round,Normal,Special,60,100%,15
+,TM88,Grassy Terrain,Grass,Status,—,—%,10
+,TM94,False Swipe,Normal,Physical,40,100%,40
+,TR00,Swords Dance,Normal,Status,—,—%,20
+,TR01,Body Slam,Normal,Physical,85,100%,15
+,TR17,Amnesia,Psychic,Status,—,—%,20
+,TR20,Substitute,Normal,Status,—,—%,10
+,TR22,Sludge Bomb,Poison,Special,90,100%,10
+,TR26,Endure,Normal,Status,—,—%,10
+,TR27,Sleep Talk,Normal,Status,—,—%,10
+,TR59,Seed Bomb,Grass,Physical,80,100%,15
+,TR65,Energy Ball,Grass,Special,90,100%,10
+,TR71,Leaf Storm,Grass,Special,130,90%,5
+,TR72,Power Whip,Grass,Physical,120,85%,10
+,TR77,Grass Knot,Grass,Special,—,100%,20
+,TR85,Work Up,Normal,Status,—,—%,30

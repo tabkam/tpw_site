@@ -1,0 +1,16 @@
+﻿ Parent , Move , Type , Cat. , Pwr. , Acc. , PP ,Contest,Appeal,Jamming
+,Amnesia,Psychic,Status,—,—%,20,Cute,1 ♥,0  
+,Charm,Fairy,Status,—,100%,20,Cute,2 ♥♥,1 ♥
+,Curse,Ghost,Status,—,—%,10,Tough,3 ♥♥♥,0  
+,Endure,Normal,Status,—,—%,10,Tough,3 ♥♥♥,0  
+,Giga Drain,Grass,Special,75,100%,10,Clever,1 ♥,4 ♥♥♥♥
+,Grass Whistle,Grass,Status,—,55%,15,Clever,2 ♥♥,0  
+,Grassy Terrain,Grass,Status,—,—%,10,Beautiful,3 ♥♥♥,0  
+,Ingrain,Grass,Status,—,—%,20,Clever,1 ♥,0  
+,Leaf Storm,Grass,Special,130,90%,5,Beautiful,6 ♥♥♥♥♥♥,0  
+,Magical Leaf,Grass,Special,60,—%,20,Beautiful,2 ♥♥,0  
+,Nature Power,Normal,Status,—,—%,20,Beautiful,1 ♥,0  
+,Petal Dance,Grass,Special,120,100%,10,Beautiful,6 ♥♥♥♥♥♥,0  
+,Power Whip,Grass,Physical,120,85%,10,Tough,1 ♥,0  
+,Skull Bash,Normal,Physical,130,100%,10,Tough,3 ♥♥♥,0  
+,Sludge*,Poison,Special,65,100%,20,Tough,2 ♥♥,3 ♥♥♥

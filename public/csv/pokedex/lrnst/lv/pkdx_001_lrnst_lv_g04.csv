@@ -1,0 +1,15 @@
+﻿Level, Move , Type , Cat. , Pwr. , Acc. , PP,Super Contest,Appeal
+1,Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥
+3,Growl,Normal,Status,—,100%,40,Cute,2 ♥♥
+7,Leech Seed,Grass,Status,—,90%,10,Smart,0  
+9,Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥
+13,PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥
+13,Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥
+15,Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥
+19,Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥
+21,Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥
+25,Growth,Normal,Status,—,—%,40,Beauty,0  
+27,Double-Edge,Normal,Physical,120,100%,15,Tough,0  
+31,Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥
+33,Synthesis,Grass,Status,—,—%,5,Smart,0  
+37,Seed Bomb,Grass,Physical,80,100%,15,Smart,3 ♥♥♥

@@ -1,0 +1,277 @@
+/* CSS Document */
+
+.psGrid {
+    display: grid;
+    grid-template-areas:
+        'title title title title   title'
+        'gimg  gimg  descr btngrid btngrid'
+        'gimg  gimg  descr btngrid btngrid'
+        'gimg  gimg  descr btngrid btngrid'
+        'gimg  gimg  descr btngrid btngrid'
+        'gimg  gimg  descr btngrid btngrid'
+        'nav1  nav2  nav3  nav4    nav5';
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: gimg;
+    grid-area: descr;
+    grid-area: btngrid;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+    grid-area: nav5;
+}
+
+.psGridBus {
+    display: grid;
+    grid-template-areas:
+        'title title title title   title'
+        'gimg  gimg  gimg  btngrid btngrid'
+        'gimg  gimg  gimg  btngrid btngrid'
+        'descr descr descr btngrid btngrid'
+        'descr descr descr btngrid btngrid'
+        'descr descr descr btngrid btngrid'
+        'nav1  nav2  nav3  nav4    nav5';
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: title;
+    grid-area: gimg;
+    grid-area: descr;
+    grid-area: btngrid;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+    grid-area: nav5;
+}
+
+.psGrid > div {
+    /* background-color: lightskyblue; */
+    /* padding: 20px; */
+    font-size: 22px;
+}
+
+.psGridBus > div {
+    /* background-color: lightskyblue; */
+    /* padding: 20px; */
+    font-size: 22px;
+}
+
+.gijoeBtns {
+	display: grid;
+    grid-template-areas:
+        'hdr1 hdr1 hdr1 hdr1 hdr1 hdr1'
+        ' .   th1  th1  th2  th2   .  '
+        'hdr2 hdr2 hdr2 hdr2 hdr2 hdr2'
+        'tsr1 tsr1 tsr2 tsr2 tsr3 tsr3'
+        'tsr4 tsr4 tsr5 tsr5 tsr6 tsr6'
+        ' .   tsr7 tsr7 tsr8 tsr8  .  '
+        'hdr3 hdr3 hdr3 hdr3 hdr3 hdr3'
+        ' .   bus1 bus1 bus2 bus2  .  ';
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    padding: 10px;
+    grid-area: hdr1;
+    grid-area: th1;
+    grid-area: th2;
+    grid-area: hdr2;
+    grid-area: tsr1;
+    grid-area: tsr2;
+    grid-area: tsr3;
+    grid-area: tsr4;
+    grid-area: tsr5;
+    grid-area: tsr6;
+    grid-area: tsr7;
+    grid-area: tsr8;
+    grid-area: hdr3;
+    grid-area: bus1;
+    grid-area: bus2;
+}
+
+#title {
+    margin-top: 60px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#hdr1, #hdr2, #hdr3 {
+    text-align: center;
+    font-size: 40px;
+}
+
+#gimg, #btngrid, #descr, #th1, #th2, #tsr1, #tsr2, #tsr3, #tsr4, #tsr5, #tsr6, #tsr7, #tsr8, #bus1, #bus2 {
+    justify-self: center;
+    align-self: center;
+}
+
+
+#gimg, #btngrid, #descr, #nav1, #nav2, #nav3, #nav4, #nav5 {
+    margin: auto;
+}
+
+#title {
+    grid-area: title;
+}
+
+#gimg {
+    grid-area: gimg;
+}
+
+#descr {
+    grid-area: descr;
+}
+
+#btngrid {
+    grid-area: btngrid;
+}
+
+#nav1 {
+    grid-area: nav1;
+}
+
+#nav2 {
+    grid-area: nav2;
+}
+
+#nav3 {
+    grid-area: nav3;
+}
+
+#nav4 {
+    grid-area: nav4;
+}
+
+#nav5 {
+    grid-area: nav5;
+}
+
+#hdr1 {
+    grid-area: hdr1;
+}
+
+#hdr2 {
+    grid-area: hdr2;
+}
+
+#hdr3 {
+    grid-area: hdr3;
+}
+
+#th1 {
+    grid-area: th1;
+}
+
+#th2 {
+    grid-area: th2;
+}
+
+#tsr1 {
+    grid-area: tsr1;
+}
+
+#tsr2 {
+    grid-area: tsr2;
+}
+
+#tsr3 {
+    grid-area: tsr3;
+}
+
+#tsr4 {
+    grid-area: tsr4;
+}
+
+#tsr5 {
+    grid-area: tsr5;
+}
+
+#tsr6 {
+    grid-area: tsr6;
+}
+
+#tsr7 {
+    grid-area: tsr7;
+}
+
+#tsr8 {
+    grid-area: tsr8;
+}
+
+#bus1 {
+    grid-area: bus1;
+}
+
+#bus2 {
+    grid-area: bus2;
+}
+
+.textAlign {
+    text-align: right;
+}
+
+@media (max-width: 992px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title title title title title'
+            'gimg  gimg  descr descr btngrid'
+            'gimg  gimg  descr descr btngrid'
+            'gimg  gimg  descr descr btngrid'
+            'nav1  nav2  nav3  nav4  nav5';
+        /* grid-auto-columns: 1fr 1fr 1fr 1fr 1fr; */
+    }
+    
+    .psGridBus {
+        display: grid;
+        grid-template-areas:
+            'title title title title title'
+            'gimg  gimg  gimg  gimg  btngrid'
+            'gimg  gimg  gimg  gimg  btngrid'
+            'descr descr descr descr btngrid'
+            'nav1  nav2  nav3  nav4  nav5';
+        /* grid-auto-columns: 1fr 1fr 1fr 1fr 1fr; */
+    }
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; }
+    #hdr1, #hdr2, #hdr3 { font-size: 15px; }
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 20px; }
+    #descr { font-size: 15px; }
+}
+
+@media (max-width: 576px) {
+    .psGrid {
+        display: grid;
+        grid-template-areas:
+            'title   title'
+            'gimg    gimg'
+            'btngrid btngrid'
+            'descr   descr'
+            'nav1    nav2'
+            'nav3    nav4'
+            'nav5    nav5';
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .psGridBus {
+        display: grid;
+        grid-template-areas:
+            'title   title'
+            'gimg    gimg'
+            'btngrid btngrid'
+            'descr   descr'
+            'nav1    nav2'
+            'nav3    nav4'
+            'nav5    nav5';
+        grid-template-columns: 1fr 1fr;
+    }
+        #title { font-size: 20px; }
+        #descr > p { font-size: 17.5px; }
+}

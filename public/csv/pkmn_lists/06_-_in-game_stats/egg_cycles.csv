@@ -1,0 +1,899 @@
+﻿###,Menu Sprite,Pokémon,Egg Group 1,Egg Group 2,Cycles,Gen II,Gen III,Gen IV,Gen V-VI,Gen VII-VIII
+1,,Bulbasaur,Monster,Grass,20,5120,5376,5355,5140,5120
+2,,Ivysaur,Monster,Grass,20,5120,5376,5355,5140,5120
+3,,Venusaur,Monster,Grass,20,5120,5376,5355,5140,5120
+4,,Charmander,Monster,Dragon,20,5120,5376,5355,5140,5120
+5,,Charmeleon,Monster,Dragon,20,5120,5376,5355,5140,5120
+6,,Charizard,Monster,Dragon,20,5120,5376,5355,5140,5120
+7,,Squirtle,Monster,Water 1,20,5120,5376,5355,5140,5120
+8,,Wartortle,Monster,Water 1,20,5120,5376,5355,5140,5120
+9,,Blastoise,Monster,Water 1,20,5120,5376,5355,5140,5120
+10,,Caterpie,Bug,—,15,3840,4096,4080,3855,3840
+11,,Metapod,Bug,—,15,3840,4096,4080,3855,3840
+12,,Butterfree,Bug,—,15,3840,4096,4080,3855,3840
+13,,Weedle,Bug,—,15,3840,4096,4080,3855,3840
+14,,Kakuna,Bug,—,15,3840,4096,4080,3855,3840
+15,,Beedrill,Bug,—,15,3840,4096,4080,3855,3840
+16,,Pidgey,Flying,—,15,3840,4096,4080,3855,3840
+17,,Pidgeotto,Flying,—,15,3840,4096,4080,3855,3840
+18,,Pidgeot,Flying,—,15,3840,4096,4080,3855,3840
+19,,Rattata,Field,—,15,3840,4096,4080,3855,3840
+20,,Raticate,Field,—,15,3840,4096,4080,3855,3840
+21,,Spearow,Flying,—,15,3840,4096,4080,3855,3840
+22,,Fearow,Flying,—,15,3840,4096,4080,3855,3840
+23,,Ekans,Field,Dragon,20,5120,5376,5355,5140,5120
+24,,Arbok,Field,Dragon,20,5120,5376,5355,5140,5120
+172,,Pichu,No Eggs Discovered,—,10,2560,2816,2805,2570,2560
+25,,Pikachu,Field,Fairy,10,2560,2816,2805,2570,2560
+26,,Raichu,Field,Fairy,10,2560,2816,2805,2570,2560
+27,,Sandshrew,Field,—,20,5120,5376,5355,5140,5120
+28,,Sandslash,Field,—,20,5120,5376,5355,5140,5120
+29,,Nidoran♀,Monster,Field,20,5120,5376,5355,5140,5120
+30,,Nidorina,No Eggs Discovered,—,20,5120,5376,5355,5140,5120
+31,,Nidoqueen,No Eggs Discovered,—,20,5120,5376,5355,5140,5120
+32,,Nidoran♂,Monster,Field,20,5120,5376,5355,5140,5120
+33,,Nidorino,Monster,Field,20,5120,5376,5355,5140,5120
+34,,Nidoking,Monster,Field,20,5120,5376,5355,5140,5120
+173,,Cleffa,No Eggs Discovered,—,10,2560,2816,2805,2570,2560
+35,,Clefairy,Fairy,—,10,2560,2816,2805,2570,2560
+36,,Clefable,Fairy,—,10,2560,2816,2805,2570,2560
+37,,Vulpix,Field,—,20,5120,5376,5355,5140,5120
+38,,Ninetales,Field,—,20,5120,5376,5355,5140,5120
+174,,Igglybuff,No Eggs Discovered,—,10,2560,2816,2805,2570,2560
+39,,Jigglypuff,Fairy,—,10,2560,2816,2805,2570,2560
+40,,Wigglytuff,Fairy,—,10,2560,2816,2805,2570,2560
+41,,Zubat,Flying,—,15,3840,4096,4080,3855,3840
+42,,Golbat,Flying,—,15,3840,4096,4080,3855,3840
+169,,Crobat,Flying,—,15,3840,4096,4080,3855,3840
+43,,Oddish,Grass,—,20,5120,5376,5355,5140,5120
+44,,Gloom,Grass,—,20,5120,5376,5355,5140,5120
+45,,Vileplume,Grass,—,20,5120,5376,5355,5140,5120
+182,,Bellossom,Grass,—,20,5120,5376,5355,5140,5120
+46,,Paras,Bug,Grass,20,5120,5376,5355,5140,5120
+47,,Parasect,Bug,Grass,20,5120,5376,5355,5140,5120
+48,,Venonat,Bug,—,20,5120,5376,5355,5140,5120
+49,,Venomoth,Bug,—,20,5120,5376,5355,5140,5120
+50,,Diglett,Field,—,20,5120,5376,5355,5140,5120
+51,,Dugtrio,Field,—,20,5120,5376,5355,5140,5120
+52,,Meowth,Field,—,20,5120,5376,5355,5140,5120
+53,,Persian,Field,—,20,5120,5376,5355,5140,5120
+863,,Perrserker,Field,—,20,—,—,—,—,5120
+54,,Psyduck,Water 1,Field,20,5120,5376,5355,5140,5120
+55,,Golduck,Water 1,Field,20,5120,5376,5355,5140,5120
+56,,Mankey,Field,—,20,5120,5376,5355,5140,5120
+57,,Primeape,Field,—,20,5120,5376,5355,5140,5120
+58,,Growlithe,Field,—,20,5120,5376,5355,5140,5120
+59,,Arcanine,Field,—,20,5120,5376,5355,5140,5120
+60,,Poliwag,Water 1,—,20,5120,5376,5355,5140,5120
+61,,Poliwhirl,Water 1,—,20,5120,5376,5355,5140,5120
+62,,Poliwrath,Water 1,—,20,5120,5376,5355,5140,5120
+186,,Politoed,Water 1,—,20,5120,5376,5355,5140,5120
+63,,Abra,Human-Like,—,20,5120,5376,5355,5140,5120
+64,,Kadabra,Human-Like,—,20,5120,5376,5355,5140,5120
+65,,Alakazam,Human-Like,—,20,5120,5376,5355,5140,5120
+66,,Machop,Human-Like,—,20,5120,5376,5355,5140,5120
+67,,Machoke,Human-Like,—,20,5120,5376,5355,5140,5120
+68,,Machamp,Human-Like,—,20,5120,5376,5355,5140,5120
+69,,Bellsprout,Grass,—,20,5120,5376,5355,5140,5120
+70,,Weepinbell,Grass,—,20,5120,5376,5355,5140,5120
+71,,Victreebel,Grass,—,20,5120,5376,5355,5140,5120
+72,,Tentacool,Water 3,—,20,5120,5376,5355,5140,5120
+73,,Tentacruel,Water 3,—,20,5120,5376,5355,5140,5120
+74,,Geodude,Mineral,—,15,3840,4096,4080,3855,3840
+75,,Graveler,Mineral,—,15,3840,4096,4080,3855,3840
+76,,Golem,Mineral,—,15,3840,4096,4080,3855,3840
+77,,Ponyta,Field,—,20,5120,5376,5355,5140,5120
+78,,Rapidash,Field,—,20,5120,5376,5355,5140,5120
+79,,Slowpoke,Monster,Water 1,20,5120,5376,5355,5140,5120
+80,,Slowbro,Monster,Water 1,20,5120,5376,5355,5140,5120
+199,,Slowking,Monster,Water 1,20,5120,5376,5355,5140,5120
+81,,Magnemite,Mineral,—,20,5120,5376,5355,5140,5120
+82,,Magneton,Mineral,—,20,5120,5376,5355,5140,5120
+462,,Magnezone,Mineral,—,20,—,—,5355,5140,5120
+83,,Farfetch'd,Flying,Field,20,5120,5376,5355,5140,5120
+865,,Sirfetch'd,Flying,Field,20,—,—,—,—,5120
+84,,Doduo,Flying,—,20,5120,5376,5355,5140,5120
+85,,Dodrio,Flying,—,20,5120,5376,5355,5140,5120
+86,,Seel,Water 1,Field,20,5120,5376,5355,5140,5120
+87,,Dewgong,Water 1,Field,20,5120,5376,5355,5140,5120
+88,,Grimer,Amorphous,—,20,5120,5376,5355,5140,5120
+89,,Muk,Amorphous,—,20,5120,5376,5355,5140,5120
+90,,Shellder,Water 3,—,20,5120,5376,5355,5140,5120
+91,,Cloyster,Water 3,—,20,5120,5376,5355,5140,5120
+92,,Gastly,Amorphous,—,20,5120,5376,5355,5140,5120
+93,,Haunter,Amorphous,—,20,5120,5376,5355,5140,5120
+94,,Gengar,Amorphous,—,20,5120,5376,5355,5140,5120
+95,,Onix,Mineral,—,25,6400,6656,6630,6425,6400
+208,,Steelix,Mineral,—,25,6400,6656,6630,6425,6400
+96,,Drowzee,Human-Like,—,20,5120,5376,5355,5140,5120
+97,,Hypno,Human-Like,—,20,5120,5376,5355,5140,5120
+98,,Krabby,Water 3,—,20,5120,5376,5355,5140,5120
+99,,Kingler,Water 3,—,20,5120,5376,5355,5140,5120
+100,,Voltorb,Mineral,—,20,5120,5376,5355,5140,5120
+101,,Electrode,Mineral,—,20,5120,5376,5355,5140,5120
+102,,Exeggcute,Grass,—,20,5120,5376,5355,5140,5120
+103,,Exeggutor,Grass,—,20,5120,5376,5355,5140,5120
+104,,Cubone,Monster,—,20,5120,5376,5355,5140,5120
+105,,Marowak,Monster,—,20,5120,5376,5355,5140,5120
+236,,Tyrogue,No Eggs Discovered,—,25,6400,6656,6630,6425,6400
+106,,Hitmonlee,Human-Like,—,25,6400,6656,6630,6425,6400
+107,,Hitmonchan,Human-Like,—,25,6400,6656,6630,6425,6400
+237,,Hitmontop,Human-Like,—,25,6400,6656,6630,6425,6400
+108,,Lickitung,Monster,—,20,5120,5376,5355,5140,5120
+463,,Lickilicky,Monster,—,20,—,—,5355,5140,5120
+109,,Koffing,Amorphous,—,20,5120,5376,5355,5140,5120
+110,,Weezing,Amorphous,—,20,5120,5376,5355,5140,5120
+111,,Rhyhorn,Monster,Field,20,5120,5376,5355,5140,5120
+112,,Rhydon,Monster,Field,20,5120,5376,5355,5140,5120
+464,,Rhyperior,Monster,Field,20,—,—,5355,5140,5120
+440,,Happiny,No Eggs Discovered,—,40,—,—,10455,10280,10240
+113,,Chansey,Fairy,—,40,10240,10496,10455,10280,10240
+242,,Blissey,Fairy,—,40,10240,10496,10455,10280,10240
+114,,Tangela,Grass,—,20,5120,5376,5355,5140,5120
+465,,Tangrowth,Grass,—,20,—,—,5355,5140,5120
+115,,Kangaskhan,Monster,—,20,5120,5376,5355,5140,5120
+116,,Horsea,Water 1,Dragon,20,5120,5376,5355,5140,5120
+117,,Seadra,Water 1,Dragon,20,5120,5376,5355,5140,5120
+230,,Kingdra,Water 1,Dragon,20,5120,5376,5355,5140,5120
+118,,Goldeen,Water 2,—,20,5120,5376,5355,5140,5120
+119,,Seaking,Water 2,—,20,5120,5376,5355,5140,5120
+120,,Staryu,Water 3,—,20,5120,5376,5355,5140,5120
+121,,Starmie,Water 3,—,20,5120,5376,5355,5140,5120
+439,,Mime Jr.,No Eggs Discovered,—,25,—,—,6630,6425,6400
+122,,Mr. Mime,Human-Like,—,25,6400,6656,6630,6425,6400
+866,,Mr. Rime,Human-Like,—,25,—,—,—,—,6400
+123,,Scyther,Bug,—,25,6400,6656,6630,6425,6400
+212,,Scizor,Bug,—,25,6400,6656,6630,6425,6400
+238,,Smoochum,No Eggs Discovered,—,25,6400,6656,6630,6425,6400
+124,,Jynx,Human-Like,—,25,6400,6656,6630,6425,6400
+239,,Elekid,No Eggs Discovered,—,25,6400,6656,6630,6425,6400
+125,,Electabuzz,Human-Like,—,25,6400,6656,6630,6425,6400
+466,,Electivire,Human-Like,—,25,—,—,6630,6425,6400
+240,,Magby,No Eggs Discovered,—,25,6400,6656,6630,6425,6400
+126,,Magmar,Human-Like,—,25,6400,6656,6630,6425,6400
+467,,Magmortar,Human-Like,—,25,—,—,6630,6425,6400
+127,,Pinsir,Bug,—,25,6400,6656,6630,6425,6400
+128,,Tauros,Field,—,20,5120,5376,5355,5140,5120
+129,,Magikarp,Water 2,Dragon,5,1280,1536,1530,1285,1280
+130,,Gyarados,Water 2,Dragon,5,1280,1536,1530,1285,1280
+131,,Lapras,Monster,Water 1,40,10240,10496,10455,10280,10240
+132,,Ditto,Ditto,—,20,5120,5376,5355,5140,5120
+133,,Eevee,Field,—,35,8960,9216,9180,8995,8960
+134,,Vaporeon,Field,—,35,8960,9216,9180,8995,8960
+135,,Jolteon,Field,—,35,8960,9216,9180,8995,8960
+136,,Flareon,Field,—,35,8960,9216,9180,8995,8960
+196,,Espeon,Field,—,35,8960,9216,9180,8995,8960
+197,,Umbreon,Field,—,35,8960,9216,9180,8995,8960
+470,,Leafeon,Field,—,35,—,—,9180,8995,8960
+471,,Glaceon,Field,—,35,—,—,9180,8995,8960
+700,,Sylveon,Field,—,35,—,—,—,8995,8960
+137,,Porygon,Mineral,—,20,5120,5376,5355,5140,5120
+233,,Porygon2,Mineral,—,20,5120,5376,5355,5140,5120
+474,,Porygon-Z,Mineral,—,20,—,—,5355,5140,5120
+138,,Omanyte,Water 1,Water 3,30,7680,7936,7905,7710,7680
+139,,Omastar,Water 1,Water 3,30,7680,7936,7905,7710,7680
+140,,Kabuto,Water 1,Water 3,30,7680,7936,7905,7710,7680
+141,,Kabutops,Water 1,Water 3,30,7680,7936,7905,7710,7680
+142,,Aerodactyl,Flying,—,35,8960,9216,9180,8995,8960
+446,,Munchlax,No Eggs Discovered,—,40,—,—,10455,10280,10240
+143,,Snorlax,Monster,—,40,10240,10496,10455,10280,10240
+144,,Articuno,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+145,,Zapdos,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+146,,Moltres,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+147,,Dratini,Water 1,Dragon,40,10240,10496,10455,10280,10240
+148,,Dragonair,Water 1,Dragon,40,10240,10496,10455,10280,10240
+149,,Dragonite,Water 1,Dragon,40,10240,10496,10455,10280,10240
+150,,Mewtwo,No Eggs Discovered,—,120,30720,30976,30855,30840,30720
+151,,Mew,No Eggs Discovered,—,120,30720,30976,30855,30840,30720
+152,,Chikorita,Monster,Grass,20,5120,5376,5355,5140,5120
+153,,Bayleef,Monster,Grass,20,5120,5376,5355,5140,5120
+154,,Meganium,Monster,Grass,20,5120,5376,5355,5140,5120
+155,,Cyndaquil,Field,—,20,5120,5376,5355,5140,5120
+156,,Quilava,Field,—,20,5120,5376,5355,5140,5120
+157,,Typhlosion,Field,—,20,5120,5376,5355,5140,5120
+158,,Totodile,Monster,Water 1,20,5120,5376,5355,5140,5120
+159,,Croconaw,Monster,Water 1,20,5120,5376,5355,5140,5120
+160,,Feraligatr,Monster,Water 1,20,5120,5376,5355,5140,5120
+161,,Sentret,Field,—,15,3840,4096,4080,3855,3840
+162,,Furret,Field,—,15,3840,4096,4080,3855,3840
+163,,Hoothoot,Flying,—,15,3840,4096,4080,3855,3840
+164,,Noctowl,Flying,—,15,3840,4096,4080,3855,3840
+165,,Ledyba,Bug,—,15,3840,4096,4080,3855,3840
+166,,Ledian,Bug,—,15,3840,4096,4080,3855,3840
+167,,Spinarak,Bug,—,15,3840,4096,4080,3855,3840
+168,,Ariados,Bug,—,15,3840,4096,4080,3855,3840
+170,,Chinchou,Water 2,—,20,5120,5376,5355,5140,5120
+171,,Lanturn,Water 2,—,20,5120,5376,5355,5140,5120
+175,,Togepi,No Eggs Discovered,—,10,2560,2816,2805,2570,2560
+176,,Togetic,Flying,Fairy,10,2560,2816,2805,2570,2560
+468,,Togekiss,Flying,Fairy,10,—,—,2805,2570,2560
+177,,Natu,Flying,—,20,5120,5376,5355,5140,5120
+178,,Xatu,Flying,—,20,5120,5376,5355,5140,5120
+179,,Mareep,Monster,Field,20,5120,5376,5355,5140,5120
+180,,Flaaffy,Monster,Field,20,5120,5376,5355,5140,5120
+181,,Ampharos,Monster,Field,20,5120,5376,5355,5140,5120
+298,,Azurill,No Eggs Discovered,—,10,—,2816,2805,2570,2560
+183,,Marill,Water 1,Fairy,10,2560,2816,2805,2570,2560
+184,,Azumarill,Water 1,Fairy,10,2560,2816,2805,2570,2560
+438,,Bonsly,No Eggs Discovered,—,20,—,—,5355,5140,5120
+185,,Sudowoodo,Mineral,—,20,5120,5376,5355,5140,5120
+187,,Hoppip,Fairy,Grass,20,5120,5376,5355,5140,5120
+188,,Skiploom,Fairy,Grass,20,5120,5376,5355,5140,5120
+189,,Jumpluff,Fairy,Grass,20,5120,5376,5355,5140,5120
+190,,Aipom,Field,—,20,5120,5376,5355,5140,5120
+424,,Ambipom,Field,—,20,—,—,5355,5140,5120
+191,,Sunkern,Grass,—,20,5120,5376,5355,5140,5120
+192,,Sunflora,Grass,—,20,5120,5376,5355,5140,5120
+193,,Yanma,Bug,—,20,5120,5376,5355,5140,5120
+469,,Yanmega,Bug,—,20,—,—,5355,5140,5120
+194,,Wooper,Water 1,Field,20,5120,5376,5355,5140,5120
+195,,Quagsire,Water 1,Field,20,5120,5376,5355,5140,5120
+198,,Murkrow,Flying,—,20,5120,5376,5355,5140,5120
+430,,Honchkrow,Flying,—,20,—,—,5355,5140,5120
+200,,Misdreavus,Amorphous,—,25,6400,6656,6630,6425,6400
+429,,Mismagius,Amorphous,—,25,—,—,6630,6425,6400
+201,,Unown,No Eggs Discovered,—,40,10240,10496,10455,10280,10240
+360,,Wynaut,No Eggs Discovered,—,20,—,5376,5355,5140,5120
+202,,Wobbuffet,Amorphous,—,20,5120,5376,5355,5140,5120
+203,,Girafarig,Field,—,20,5120,5376,5355,5140,5120
+204,,Pineco,Bug,—,20,5120,5376,5355,5140,5120
+205,,Forretress,Bug,—,20,5120,5376,5355,5140,5120
+206,,Dunsparce,Field,—,20,5120,5376,5355,5140,5120
+207,,Gligar,Bug,—,20,5120,5376,5355,5140,5120
+472,,Gliscor,Bug,—,20,—,—,5355,5140,5120
+209,,Snubbull,Field,Fairy,20,5120,5376,5355,5140,5120
+210,,Granbull,Field,Fairy,20,5120,5376,5355,5140,5120
+211,,Qwilfish,Water 2,—,20,5120,5376,5355,5140,5120
+213,,Shuckle,Bug,—,20,5120,5376,5355,5140,5120
+214,,Heracross,Bug,—,25,6400,6656,6630,6425,6400
+215,,Sneasel,Field,—,20,5120,5376,5355,5140,5120
+461,,Weavile,Field,—,20,—,—,5355,5140,5120
+216,,Teddiursa,Field,—,20,5120,5376,5355,5140,5120
+217,,Ursaring,Field,—,20,5120,5376,5355,5140,5120
+218,,Slugma,Amorphous,—,20,5120,5376,5355,5140,5120
+219,,Magcargo,Amorphous,—,20,5120,5376,5355,5140,5120
+220,,Swinub,Field,—,20,5120,5376,5355,5140,5120
+221,,Piloswine,Field,—,20,5120,5376,5355,5140,5120
+473,,Mamoswine,Field,—,20,—,—,5355,5140,5120
+222,,Corsola,Water 1,Water 3,20,5120,5376,5355,5140,5120
+864,,Cursola,Water 1,Water 3,20,—,—,—,—,5120
+223,,Remoraid,Water 1,Water 2,20,5120,5376,5355,5140,5120
+224,,Octillery,Water 1,Water 2,20,5120,5376,5355,5140,5120
+225,,Delibird,Water 1,Field,20,5120,5376,5355,5140,5120
+458,,Mantyke,No Eggs Discovered,—,25,—,—,6630,6425,6400
+226,,Mantine,Water 1,—,25,6400,6656,6630,6425,6400
+227,,Skarmory,Flying,—,25,6400,6656,6630,6425,6400
+228,,Houndour,Field,—,20,5120,5376,5355,5140,5120
+229,,Houndoom,Field,—,20,5120,5376,5355,5140,5120
+231,,Phanpy,Field,—,20,5120,5376,5355,5140,5120
+232,,Donphan,Field,—,20,5120,5376,5355,5140,5120
+234,,Stantler,Field,—,20,5120,5376,5355,5140,5120
+235,,Smeargle,Field,—,20,5120,5376,5355,5140,5120
+241,,Miltank,Field,—,20,5120,5376,5355,5140,5120
+243,,Raikou,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+244,,Entei,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+245,,Suicune,No Eggs Discovered,—,80,20480,20736,20655,20560,20480
+246,,Larvitar,Monster,—,40,10240,10496,10455,10280,10240
+247,,Pupitar,Monster,—,40,10240,10496,10455,10280,10240
+248,,Tyranitar,Monster,—,40,10240,10496,10455,10280,10240
+249,,Lugia,No Eggs Discovered,—,120,30720,30976,30855,30840,30720
+250,,Ho-Oh,No Eggs Discovered,—,120,30720,30976,30855,30840,30720
+251,,Celebi,No Eggs Discovered,—,120,30720,30976,30855,30840,30720
+252,,Treecko,Monster,Dragon,20,—,5376,5355,5140,5120
+253,,Grovyle,Monster,Dragon,20,—,5376,5355,5140,5120
+254,,Sceptile,Monster,Dragon,20,—,5376,5355,5140,5120
+255,,Torchic,Field,—,20,—,5376,5355,5140,5120
+256,,Combusken,Field,—,20,—,5376,5355,5140,5120
+257,,Blaziken,Field,—,20,—,5376,5355,5140,5120
+258,,Mudkip,Monster,Water 1,20,—,5376,5355,5140,5120
+259,,Marshtomp,Monster,Water 1,20,—,5376,5355,5140,5120
+260,,Swampert,Monster,Water 1,20,—,5376,5355,5140,5120
+261,,Poochyena,Field,—,15,—,4096,4080,3855,3840
+262,,Mightyena,Field,—,15,—,4096,4080,3855,3840
+263,,Zigzagoon,Field,—,15,—,4096,4080,3855,3840
+862,,Obstagoon,Field,—,15,—,—,—,—,3840
+264,,Linoone,Field,—,15,—,4096,4080,3855,3840
+265,,Wurmple,Bug,—,15,—,4096,4080,3855,3840
+266,,Silcoon,Bug,—,15,—,4096,4080,3855,3840
+267,,Beautifly,Bug,—,15,—,4096,4080,3855,3840
+268,,Cascoon,Bug,—,15,—,4096,4080,3855,3840
+269,,Dustox,Bug,—,15,—,4096,4080,3855,3840
+270,,Lotad,Water 1,Grass,15,—,4096,4080,3855,3840
+271,,Lombre,Water 1,Grass,15,—,4096,4080,3855,3840
+272,,Ludicolo,Water 1,Grass,15,—,4096,4080,3855,3840
+273,,Seedot,Field,Grass,15,—,4096,4080,3855,3840
+274,,Nuzleaf,Field,Grass,15,—,4096,4080,3855,3840
+275,,Shiftry,Field,Grass,15,—,4096,4080,3855,3840
+276,,Taillow,Flying,—,15,—,4096,4080,3855,3840
+277,,Swellow,Flying,—,15,—,4096,4080,3855,3840
+278,,Wingull,Water 1,Flying,20,—,5376,5355,5140,5120
+279,,Pelipper,Water 1,Flying,20,—,5376,5355,5140,5120
+280,,Ralts,Human-Like*,Amorphous,20,—,5376,5355,5140,5120
+281,,Kirlia,Human-Like*,Amorphous,20,—,5376,5355,5140,5120
+282,,Gardevoir,Human-Like*,Amorphous,20,—,5376,5355,5140,5120
+475,,Gallade,Human-Like*,Amorphous,20,—,—,5355,5140,5120
+283,,Surskit,Water 1,Bug,15,—,4096,4080,3855,3840
+284,,Masquerain,Water 1,Bug,15,—,4096,4080,3855,3840
+285,,Shroomish,Fairy,Grass,15,—,4096,4080,3855,3840
+286,,Breloom,Fairy,Grass,15,—,4096,4080,3855,3840
+287,,Slakoth,Field,—,15,—,4096,4080,3855,3840
+288,,Vigoroth,Field,—,15,—,4096,4080,3855,3840
+289,,Slaking,Field,—,15,—,4096,4080,3855,3840
+290,,Nincada,Bug,—,15,—,4096,4080,3855,3840
+291,,Ninjask,Bug,—,15,—,4096,4080,3855,3840
+292,,Shedinja,Mineral,—,15,—,4096,4080,3855,3840
+293,,Whismur,Monster,Field,20,—,5376,5355,5140,5120
+294,,Loudred,Monster,Field,20,—,5376,5355,5140,5120
+295,,Exploud,Monster,Field,20,—,5376,5355,5140,5120
+296,,Makuhita,Human-Like,—,20,—,5376,5355,5140,5120
+297,,Hariyama,Human-Like,—,20,—,5376,5355,5140,5120
+299,,Nosepass,Mineral,—,20,—,5376,5355,5140,5120
+476,,Probopass,Mineral,—,20,—,—,5355,5140,5120
+300,,Skitty,Field,Fairy,15,—,4096,4080,3855,3840
+301,,Delcatty,Field,Fairy,15,—,4096,4080,3855,3840
+302,,Sableye,Human-Like,—,25,—,6656,6630,6425,6400
+303,,Mawile,Field,Fairy,20,—,5376,5355,5140,5120
+304,,Aron,Monster,—,35,—,9216,9180,8995,8960
+305,,Lairon,Monster,—,35,—,9216,9180,8995,8960
+306,,Aggron,Monster,—,35,—,9216,9180,8995,8960
+307,,Meditite,Human-Like,—,20,—,5376,5355,5140,5120
+308,,Medicham,Human-Like,—,20,—,5376,5355,5140,5120
+309,,Electrike,Field,—,20,—,5376,5355,5140,5120
+310,,Manectric,Field,—,20,—,5376,5355,5140,5120
+311,,Plusle,Fairy,—,20,—,5376,5355,5140,5120
+312,,Minun,Fairy,—,20,—,5376,5355,5140,5120
+313,,Volbeat,Bug,Human-Like,15,—,4096,4080,3855,3840
+314,,Illumise,Bug,Human-Like,15,—,4096,4080,3855,3840
+406,,Budew,No Eggs Discovered,—,20,—,—,5355,5140,5120
+315,,Roselia,Fairy,Grass,20,—,5376,5355,5140,5120
+407,,Roserade,Fairy,Grass,20,—,—,5355,5140,5120
+316,,Gulpin,Amorphous,—,20,—,5376,5355,5140,5120
+317,,Swalot,Amorphous,—,20,—,5376,5355,5140,5120
+318,,Carvanha,Water 2,—,20,—,5376,5355,5140,5120
+319,,Sharpedo,Water 2,—,20,—,5376,5355,5140,5120
+320,,Wailmer,Field,Water 2,40,—,10496,10455,10280,10240
+321,,Wailord,Field,Water 2,40,—,10496,10455,10280,10240
+322,,Numel,Field,—,20,—,5376,5355,5140,5120
+323,,Camerupt,Field,—,20,—,5376,5355,5140,5120
+324,,Torkoal,Field,—,20,—,5376,5355,5140,5120
+325,,Spoink,Field,—,20,—,5376,5355,5140,5120
+326,,Grumpig,Field,—,20,—,5376,5355,5140,5120
+327,,Spinda,Field,Human-Like,15,—,4096,4080,3855,3840
+328,,Trapinch,Bug,Dragon*,20,—,5376,5355,5140,5120
+329,,Vibrava,Bug,Dragon*,20,—,5376,5355,5140,5120
+330,,Flygon,Bug,Dragon*,20,—,5376,5355,5140,5120
+331,,Cacnea,Grass,Human-Like,20,—,5376,5355,5140,5120
+332,,Cacturne,Grass,Human-Like,20,—,5376,5355,5140,5120
+333,,Swablu,Flying,Dragon,20,—,5376,5355,5140,5120
+334,,Altaria,Flying,Dragon,20,—,5376,5355,5140,5120
+335,,Zangoose,Field,—,20,—,5376,5355,5140,5120
+336,,Seviper,Field,Dragon,20,—,5376,5355,5140,5120
+337,,Lunatone,Mineral,—,25,—,6656,6630,6425,6400
+338,,Solrock,Mineral,—,25,—,6656,6630,6425,6400
+339,,Barboach,Water 2,—,20,—,5376,5355,5140,5120
+340,,Whiscash,Water 2,—,20,—,5376,5355,5140,5120
+341,,Corphish,Water 1,Water 3,15,—,4096,4080,3855,3840
+342,,Crawdaunt,Water 1,Water 3,15,—,4096,4080,3855,3840
+343,,Baltoy,Mineral,—,20,—,5376,5355,5140,5120
+344,,Claydol,Mineral,—,20,—,5376,5355,5140,5120
+345,,Lileep,Water 3,—,30,—,7936,7905,7710,7680
+346,,Cradily,Water 3,—,30,—,7936,7905,7710,7680
+347,,Anorith,Water 3,—,30,—,7936,7905,7710,7680
+348,,Armaldo,Water 3,—,30,—,7936,7905,7710,7680
+349,,Feebas,Water 1,Dragon,20,—,5376,5355,5140,5120
+350,,Milotic,Water 1,Dragon,20,—,5376,5355,5140,5120
+351,,Castform,Fairy,Amorphous,25,—,6656,6630,6425,6400
+352,,Kecleon,Field,—,20,—,5376,5355,5140,5120
+353,,Shuppet,Amorphous,—,25,—,6656,6630,6425,6400
+354,,Banette,Amorphous,—,25,—,6656,6630,6425,6400
+355,,Duskull,Amorphous,—,25,—,6656,6630,6425,6400
+356,,Dusclops,Amorphous,—,25,—,6656,6630,6425,6400
+477,,Dusknoir,Amorphous,—,25,—,—,6630,6425,6400
+357,,Tropius,Monster,Grass,25,—,6656,6630,6425,6400
+433,,Chingling,No Eggs Discovered,—,25,—,—,6630,6425,6400
+358,,Chimecho,Amorphous,—,25,—,6656,6630,6425,6400
+359,,Absol,Field,—,25,—,6656,6630,6425,6400
+361,,Snorunt,Fairy,Mineral,20,—,5376,5355,5140,5120
+362,,Glalie,Fairy,Mineral,20,—,5376,5355,5140,5120
+478,,Froslass,Fairy,Mineral,20,—,—,5355,5140,5120
+363,,Spheal,Water 1,Field,20,—,5376,5355,5140,5120
+364,,Sealeo,Water 1,Field,20,—,5376,5355,5140,5120
+365,,Walrein,Water 1,Field,20,—,5376,5355,5140,5120
+366,,Clamperl,Water 1,—,20,—,5376,5355,5140,5120
+367,,Huntail,Water 1,—,20,—,5376,5355,5140,5120
+368,,Gorebyss,Water 1,—,20,—,5376,5355,5140,5120
+369,,Relicanth,Water 1,Water 2,40,—,10496,10455,10280,10240
+370,,Luvdisc,Water 2,—,20,—,5376,5355,5140,5120
+371,,Bagon,Dragon,—,40,—,10496,10455,10280,10240
+372,,Shelgon,Dragon,—,40,—,10496,10455,10280,10240
+373,,Salamence,Dragon,—,40,—,10496,10455,10280,10240
+374,,Beldum,Mineral,—,40,—,10496,10455,10280,10240
+375,,Metang,Mineral,—,40,—,10496,10455,10280,10240
+376,,Metagross,Mineral,—,40,—,10496,10455,10280,10240
+377,,Regirock,No Eggs Discovered,—,80,—,20736,20655,20560,20480
+378,,Regice,No Eggs Discovered,—,80,—,20736,20655,20560,20480
+379,,Registeel,No Eggs Discovered,—,80,—,20736,20655,20560,20480
+380,,Latias,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+381,,Latios,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+382,,Kyogre,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+383,,Groudon,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+384,,Rayquaza,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+385,,Jirachi,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+386,,Deoxys,No Eggs Discovered,—,120,—,30976,30855,30840,30720
+387,,Turtwig,Monster,Grass,20,—,—,5355,5140,5120
+388,,Grotle,Monster,Grass,20,—,—,5355,5140,5120
+389,,Torterra,Monster,Grass,20,—,—,5355,5140,5120
+390,,Chimchar,Field,Human-Like,20,—,—,5355,5140,5120
+391,,Monferno,Field,Human-Like,20,—,—,5355,5140,5120
+392,,Infernape,Field,Human-Like,20,—,—,5355,5140,5120
+393,,Piplup,Water 1,Field,20,—,—,5355,5140,5120
+394,,Prinplup,Water 1,Field,20,—,—,5355,5140,5120
+395,,Empoleon,Water 1,Field,20,—,—,5355,5140,5120
+396,,Starly,Flying,—,15,—,—,4080,3855,3840
+397,,Staravia,Flying,—,15,—,—,4080,3855,3840
+398,,Staraptor,Flying,—,15,—,—,4080,3855,3840
+399,,Bidoof,Water 1,Field,15,—,—,4080,3855,3840
+400,,Bibarel,Water 1,Field,15,—,—,4080,3855,3840
+401,,Kricketot,Bug,—,15,—,—,4080,3855,3840
+402,,Kricketune,Bug,—,15,—,—,4080,3855,3840
+403,,Shinx,Field,—,20,—,—,5355,5140,5120
+404,,Luxio,Field,—,20,—,—,5355,5140,5120
+405,,Luxray,Field,—,20,—,—,5355,5140,5120
+408,,Cranidos,Monster,—,30,—,—,7905,7710,7680
+409,,Rampardos,Monster,—,30,—,—,7905,7710,7680
+410,,Shieldon,Monster,—,30,—,—,7905,7710,7680
+411,,Bastiodon,Monster,—,30,—,—,7905,7710,7680
+412,,Burmy,Bug,—,15,—,—,4080,3855,3840
+413,,Wormadam,Bug,—,15,—,—,4080,3855,3840
+414,,Mothim,Bug,—,15,—,—,4080,3855,3840
+415,,Combee,Bug,—,15,—,—,4080,3855,3840
+416,,Vespiquen,Bug,—,15,—,—,4080,3855,3840
+417,,Pachirisu,Field,Fairy,10,—,—,2805,2570,2560
+418,,Buizel,Water 1,Field,20,—,—,5355,5140,5120
+419,,Floatzel,Water 1,Field,20,—,—,5355,5140,5120
+420,,Cherubi,Fairy,Grass,20,—,—,5355,5140,5120
+421,,Cherrim,Fairy,Grass,20,—,—,5355,5140,5120
+422,,Shellos,Water 1,Amorphous,20,—,—,5355,5140,5120
+423,,Gastrodon,Water 1,Amorphous,20,—,—,5355,5140,5120
+425,,Drifloon,Amorphous,—,30,—,—,7905,7710,7680
+426,,Drifblim,Amorphous,—,30,—,—,7905,7710,7680
+427,,Buneary,Field,Human-Like,20,—,—,5355,5140,5120
+428,,Lopunny,Field,Human-Like,20,—,—,5355,5140,5120
+431,,Glameow,Field,—,20,—,—,5355,5140,5120
+432,,Purugly,Field,—,20,—,—,5355,5140,5120
+434,,Stunky,Field,—,20,—,—,5355,5140,5120
+435,,Skuntank,Field,—,20,—,—,5355,5140,5120
+436,,Bronzor,Mineral,—,20,—,—,5355,5140,5120
+437,,Bronzong,Mineral,—,20,—,—,5355,5140,5120
+441,,Chatot,Flying,—,20,—,—,5355,5140,5120
+442,,Spiritomb,Amorphous,—,30,—,—,7905,7710,7680
+443,,Gible,Monster,Dragon,40,—,—,10455,10280,10240
+444,,Gabite,Monster,Dragon,40,—,—,10455,10280,10240
+445,,Garchomp,Monster,Dragon,40,—,—,10455,10280,10240
+447,,Riolu,No Eggs Discovered,—,25,—,—,6630,6425,6400
+448,,Lucario,Field,Human-Like,25,—,—,6630,6425,6400
+449,,Hippopotas,Field,—,30,—,—,7905,7710,7680
+450,,Hippowdon,Field,—,30,—,—,7905,7710,7680
+451,,Skorupi,Bug,Water 3,20,—,—,5355,5140,5120
+452,,Drapion,Bug,Water 3,20,—,—,5355,5140,5120
+453,,Croagunk,Human-Like,—,10,—,—,2805,2570,2560
+454,,Toxicroak,Human-Like,—,20,—,—,5355,5140,5120
+455,,Carnivine,Grass,—,25,—,—,6630,6425,6400
+456,,Finneon,Water 2,—,20,—,—,5355,5140,5120
+457,,Lumineon,Water 2,—,20,—,—,5355,5140,5120
+459,,Snover,Monster,Grass,20,—,—,5355,5140,5120
+460,,Abomasnow,Monster,Grass,20,—,—,5355,5140,5120
+479,,Rotom,Amorphous,—,20,—,—,5355,5140,5120
+480,,Uxie,No Eggs Discovered,—,80,—,—,20655,20560,20480
+481,,Mesprit,No Eggs Discovered,—,80,—,—,20655,20560,20480
+482,,Azelf,No Eggs Discovered,—,80,—,—,20655,20560,20480
+483,,Dialga,No Eggs Discovered,—,120,—,—,30855,30840,30720
+484,,Palkia,No Eggs Discovered,—,120,—,—,30855,30840,30720
+485,,Heatran,No Eggs Discovered,—,10,—,—,2805,2570,2560
+486,,Regigigas,No Eggs Discovered,—,120,—,—,30855,30840,30720
+487,,Giratina,No Eggs Discovered,—,120,—,—,30855,30840,30720
+488,,Cresselia,No Eggs Discovered,—,120,—,—,30855,30840,30720
+489,,Phione,Water 1,Fairy,40,—,—,10455,10280,10240
+490,,Manaphy,Water 1,Fairy,10,—,—,2805,2570,2560
+491,,Darkrai,No Eggs Discovered,—,120,—,—,30855,30840,30720
+492,,Shaymin,No Eggs Discovered,—,120,—,—,30855,30840,30720
+493,,Arceus,No Eggs Discovered,—,120,—,—,30855,30840,30720
+494,,Victini,No Eggs Discovered,—,120,—,—,—,30840,30720
+495,,Snivy,Field,Grass,20,—,—,—,5140,5120
+496,,Servine,Field,Grass,20,—,—,—,5140,5120
+497,,Serperior,Field,Grass,20,—,—,—,5140,5120
+498,,Tepig,Field,—,20,—,—,—,5140,5120
+499,,Pignite,Field,—,20,—,—,—,5140,5120
+500,,Emboar,Field,—,20,—,—,—,5140,5120
+501,,Oshawott,Field,—,20,—,—,—,5140,5120
+502,,Dewott,Field,—,20,—,—,—,5140,5120
+503,,Samurott,Field,—,20,—,—,—,5140,5120
+504,,Patrat,Field,—,15,—,—,—,3855,3840
+505,,Watchog,Field,—,20,—,—,—,5140,5120
+506,,Lillipup,Field,—,15,—,—,—,3855,3840
+507,,Herdier,Field,—,15,—,—,—,3855,3840
+508,,Stoutland,Field,—,15,—,—,—,3855,3840
+509,,Purrloin,Field,—,20,—,—,—,5140,5120
+510,,Liepard,Field,—,20,—,—,—,5140,5120
+511,,Pansage,Field,—,20,—,—,—,5140,5120
+512,,Simisage,Field,—,20,—,—,—,5140,5120
+513,,Pansear,Field,—,20,—,—,—,5140,5120
+514,,Simisear,Field,—,20,—,—,—,5140,5120
+515,,Panpour,Field,—,20,—,—,—,5140,5120
+516,,Simipour,Field,—,20,—,—,—,5140,5120
+517,,Munna,Field,—,10,—,—,—,2570,2560
+518,,Musharna,Field,—,10,—,—,—,2570,2560
+519,,Pidove,Flying,—,15,—,—,—,3855,3840
+520,,Tranquill,Flying,—,15,—,—,—,3855,3840
+521,,Unfezant,Flying,—,15,—,—,—,3855,3840
+522,,Blitzle,Field,—,20,—,—,—,5140,5120
+523,,Zebstrika,Field,—,20,—,—,—,5140,5120
+524,,Roggenrola,Mineral,—,15,—,—,—,3855,3840
+525,,Boldore,Mineral,—,15,—,—,—,3855,3840
+526,,Gigalith,Mineral,—,15,—,—,—,3855,3840
+527,,Woobat,Field,Flying,15,—,—,—,3855,3840
+528,,Swoobat,Field,Flying,15,—,—,—,3855,3840
+529,,Drilbur,Field,—,20,—,—,—,5140,5120
+530,,Excadrill,Field,—,20,—,—,—,5140,5120
+531,,Audino,Fairy,—,20,—,—,—,5140,5120
+532,,Timburr,Human-Like,—,20,—,—,—,5140,5120
+533,,Gurdurr,Human-Like,—,20,—,—,—,5140,5120
+534,,Conkeldurr,Human-Like,—,20,—,—,—,5140,5120
+535,,Tympole,Water 1,—,20,—,—,—,5140,5120
+536,,Palpitoad,Water 1,—,20,—,—,—,5140,5120
+537,,Seismitoad,Water 1,—,20,—,—,—,5140,5120
+538,,Throh,Human-Like,—,20,—,—,—,5140,5120
+539,,Sawk,Human-Like,—,20,—,—,—,5140,5120
+540,,Sewaddle,Bug,—,15,—,—,—,3855,3840
+541,,Swadloon,Bug,—,15,—,—,—,3855,3840
+542,,Leavanny,Bug,—,15,—,—,—,3855,3840
+543,,Venipede,Bug,—,15,—,—,—,3855,3840
+544,,Whirlipede,Bug,—,15,—,—,—,3855,3840
+545,,Scolipede,Bug,—,20,—,—,—,5140,5120
+546,,Cottonee,Grass,Fairy,20,—,—,—,5140,5120
+547,,Whimsicott,Grass,Fairy,20,—,—,—,5140,5120
+548,,Petilil,Grass,—,20,—,—,—,5140,5120
+549,,Lilligant,Grass,—,20,—,—,—,5140,5120
+550,,Basculin,Water 2,—,40,—,—,—,10280,10240
+551,,Sandile,Field,—,20,—,—,—,5140,5120
+552,,Krokorok,Field,—,20,—,—,—,5140,5120
+553,,Krookodile,Field,—,20,—,—,—,5140,5120
+554,,Darumaka,Field,—,20,—,—,—,5140,5120
+555,,Darmanitan,Field,—,20,—,—,—,5140,5120
+556,,Maractus,Grass,—,20,—,—,—,5140,5120
+557,,Dwebble,Bug,Mineral,20,—,—,—,5140,5120
+558,,Crustle,Bug,Mineral,20,—,—,—,5140,5120
+559,,Scraggy,Field,Dragon,15,—,—,—,3855,3840
+560,,Scrafty,Field,Dragon,15,—,—,—,3855,3840
+561,,Sigilyph,Flying,—,20,—,—,—,5140,5120
+562,,Yamask,Mineral,Amorphous,25,—,—,—,6425,6400
+563,,Cofagrigus,Mineral,Amorphous,25,—,—,—,6425,6400
+867,,Runerigus,Mineral,Amorphous,25,—,—,—,—,6400
+564,,Tirtouga,Water 1,Water 3,30,—,—,—,7710,7680
+565,,Carracosta,Water 1,Water 3,30,—,—,—,7710,7680
+566,,Archen,Flying,Water 3,30,—,—,—,7710,7680
+567,,Archeops,Flying,Water 3,30,—,—,—,7710,7680
+568,,Trubbish,Mineral,—,20,—,—,—,5140,5120
+569,,Garbodor,Mineral,—,20,—,—,—,5140,5120
+570,,Zorua,Field,—,25,—,—,—,6425,6400
+571,,Zoroark,Field,—,20,—,—,—,5140,5120
+572,,Minccino,Field,—,15,—,—,—,3855,3840
+573,,Cinccino,Field,—,15,—,—,—,3855,3840
+574,,Gothita,Human-Like,—,20,—,—,—,5140,5120
+575,,Gothorita,Human-Like,—,20,—,—,—,5140,5120
+576,,Gothitelle,Human-Like,—,20,—,—,—,5140,5120
+577,,Solosis,Amorphous,—,20,—,—,—,5140,5120
+578,,Duosion,Amorphous,—,20,—,—,—,5140,5120
+579,,Reuniclus,Amorphous,—,20,—,—,—,5140,5120
+580,,Ducklett,Water 1,Flying,20,—,—,—,5140,5120
+581,,Swanna,Water 1,Flying,20,—,—,—,5140,5120
+582,,Vanillite,Mineral,—,20,—,—,—,5140,5120
+583,,Vanillish,Mineral,—,20,—,—,—,5140,5120
+584,,Vanilluxe,Mineral,—,20,—,—,—,5140,5120
+585,,Deerling,Field,—,20,—,—,—,5140,5120
+586,,Sawsbuck,Field,—,20,—,—,—,5140,5120
+587,,Emolga,Field,—,20,—,—,—,5140,5120
+588,,Karrablast,Bug,—,15,—,—,—,3855,3840
+589,,Escavalier,Bug,—,15,—,—,—,3855,3840
+590,,Foongus,Grass,—,20,—,—,—,5140,5120
+591,,Amoonguss,Grass,—,20,—,—,—,5140,5120
+592,,Frillish,Amorphous,—,20,—,—,—,5140,5120
+593,,Jellicent,Amorphous,—,20,—,—,—,5140,5120
+594,,Alomomola,Water 1,Water 2,40,—,—,—,10280,10240
+595,,Joltik,Bug,—,20,—,—,—,5140,5120
+596,,Galvantula,Bug,—,20,—,—,—,5140,5120
+597,,Ferroseed,Grass,Mineral,20,—,—,—,5140,5120
+598,,Ferrothorn,Grass,Mineral,20,—,—,—,5140,5120
+599,,Klink,Mineral,—,20,—,—,—,5140,5120
+600,,Klang,Mineral,—,20,—,—,—,5140,5120
+601,,Klinklang,Mineral,—,20,—,—,—,5140,5120
+602,,Tynamo,Amorphous,—,20,—,—,—,5140,5120
+603,,Eelektrik,Amorphous,—,20,—,—,—,5140,5120
+604,,Eelektross,Amorphous,—,20,—,—,—,5140,5120
+605,,Elgyem,Human-Like,—,20,—,—,—,5140,5120
+606,,Beheeyem,Human-Like,—,20,—,—,—,5140,5120
+607,,Litwick,Amorphous,—,20,—,—,—,5140,5120
+608,,Lampent,Amorphous,—,20,—,—,—,5140,5120
+609,,Chandelure,Amorphous,—,20,—,—,—,5140,5120
+610,,Axew,Monster,Dragon,40,—,—,—,10280,10240
+611,,Fraxure,Monster,Dragon,40,—,—,—,10280,10240
+612,,Haxorus,Monster,Dragon,40,—,—,—,10280,10240
+613,,Cubchoo,Field,—,20,—,—,—,5140,5120
+614,,Beartic,Field,—,20,—,—,—,5140,5120
+615,,Cryogonal,Mineral,—,25,—,—,—,6425,6400
+616,,Shelmet,Bug,—,15,—,—,—,3855,3840
+617,,Accelgor,Bug,—,15,—,—,—,3855,3840
+618,,Stunfisk,Water 1,Amorphous,20,—,—,—,5140,5120
+619,,Mienfoo,Field,Human-Like,25,—,—,—,6425,6400
+620,,Mienshao,Field,Human-Like,25,—,—,—,6425,6400
+621,,Druddigon,Dragon,Monster,30,—,—,—,7710,7680
+622,,Golett,Mineral,—,25,—,—,—,6425,6400
+623,,Golurk,Mineral,—,25,—,—,—,6425,6400
+624,,Pawniard,Human-Like,—,20,—,—,—,5140,5120
+625,,Bisharp,Human-Like,—,20,—,—,—,5140,5120
+626,,Bouffalant,Field,—,20,—,—,—,5140,5120
+627,,Rufflet,Flying,—,20,—,—,—,5140,5120
+628,,Braviary,Flying,—,20,—,—,—,5140,5120
+629,,Vullaby,Flying,—,20,—,—,—,5140,5120
+630,,Mandibuzz,Flying,—,20,—,—,—,5140,5120
+631,,Heatmor,Field,—,20,—,—,—,5140,5120
+632,,Durant,Bug,—,20,—,—,—,5140,5120
+633,,Deino,Dragon,—,40,—,—,—,10280,10240
+634,,Zweilous,Dragon,—,40,—,—,—,10280,10240
+635,,Hydreigon,Dragon,—,40,—,—,—,10280,10240
+636,,Larvesta,Bug,—,40,—,—,—,10280,10240
+637,,Volcarona,Bug,—,40,—,—,—,10280,10240
+638,,Cobalion,No Eggs Discovered,—,80,—,—,—,20560,20480
+639,,Terrakion,No Eggs Discovered,—,80,—,—,—,20560,20480
+640,,Virizion,No Eggs Discovered,—,80,—,—,—,20560,20480
+641,,Tornadus,No Eggs Discovered,—,120,—,—,—,30840,30720
+642,,Thundurus,No Eggs Discovered,—,120,—,—,—,30840,30720
+643,,Reshiram,No Eggs Discovered,—,120,—,—,—,30840,30720
+644,,Zekrom,No Eggs Discovered,—,120,—,—,—,30840,30720
+645,,Landorus,No Eggs Discovered,—,120,—,—,—,30840,30720
+646,,Kyurem,No Eggs Discovered,—,120,—,—,—,30840,30720
+647,,Keldeo,No Eggs Discovered,—,80,—,—,—,20560,20480
+648,,Meloetta,No Eggs Discovered,—,120,—,—,—,30840,30720
+649,,Genesect,No Eggs Discovered,—,120,—,—,—,30840,30720
+650,,Chespin,Field,—,20,—,—,—,5140,5120
+651,,Quilladin,Field,—,20,—,—,—,5140,5120
+652,,Chesnaught,Field,—,20,—,—,—,5140,5120
+653,,Fennekin,Field,—,20,—,—,—,5140,5120
+654,,Braixen,Field,—,20,—,—,—,5140,5120
+655,,Delphox,Field,—,20,—,—,—,5140,5120
+656,,Froakie,Water 1,—,20,—,—,—,5140,5120
+657,,Frogadier,Water 1,—,20,—,—,—,5140,5120
+658,,Greninja,Water 1,—,20,—,—,—,5140,5120
+659,,Bunnelby,Field,—,15,—,—,—,3855,3840
+660,,Diggersby,Field,—,15,—,—,—,3855,3840
+661,,Fletchling,Flying,—,15,—,—,—,3855,3840
+662,,Fletchinder,Flying,—,15,—,—,—,3855,3840
+663,,Talonflame,Flying,—,15,—,—,—,3855,3840
+664,,Scatterbug,Bug,—,15,—,—,—,3855,3840
+665,,Spewpa,Bug,—,15,—,—,—,3855,3840
+666,,Vivillon,Bug,—,15,—,—,—,3855,3840
+667,,Litleo,Field,—,20,—,—,—,5140,5120
+668,,Pyroar,Field,—,20,—,—,—,5140,5120
+669,,Flabébé,Fairy,—,20,—,—,—,5140,5120
+670,,Floette,Fairy,—,20,—,—,—,5140,5120
+671,,Florges,Fairy,—,20,—,—,—,5140,5120
+672,,Skiddo,Field,—,20,—,—,—,5140,5120
+673,,Gogoat,Field,—,20,—,—,—,5140,5120
+674,,Pancham,Field,Human-Like,25,—,—,—,6425,6400
+675,,Pangoro,Field,Human-Like,25,—,—,—,6425,6400
+676,,Furfrou,Field,—,20,—,—,—,5140,5120
+677,,Espurr,Field,—,20,—,—,—,5140,5120
+678,,Meowstic,Field,—,20,—,—,—,5140,5120
+679,,Honedge,Mineral,—,20,—,—,—,5140,5120
+680,,Doublade,Mineral,—,20,—,—,—,5140,5120
+681,,Aegislash,Mineral,—,20,—,—,—,5140,5120
+682,,Spritzee,Fairy,—,20,—,—,—,5140,5120
+683,,Aromatisse,Fairy,—,20,—,—,—,5140,5120
+684,,Swirlix,Fairy,—,20,—,—,—,5140,5120
+685,,Slurpuff,Fairy,—,20,—,—,—,5140,5120
+686,,Inkay,Water 1,Water 2,20,—,—,—,5140,5120
+687,,Malamar,Water 1,Water 2,20,—,—,—,5140,5120
+688,,Binacle,Water 3,—,20,—,—,—,5140,5120
+689,,Barbaracle,Water 3,—,20,—,—,—,5140,5120
+690,,Skrelp,Water 1,Dragon,20,—,—,—,5140,5120
+691,,Dragalge,Water 1,Dragon,20,—,—,—,5140,5120
+692,,Clauncher,Water 1,Water 3,15,—,—,—,3855,3840
+693,,Clawitzer,Water 1,Water 3,15,—,—,—,3855,3840
+694,,Helioptile,Monster,Dragon,20,—,—,—,5140,5120
+695,,Heliolisk,Monster,Dragon,20,—,—,—,5140,5120
+696,,Tyrunt,Monster,Dragon,30,—,—,—,7710,7680
+697,,Tyrantrum,Monster,Dragon,30,—,—,—,7710,7680
+698,,Amaura,Monster,—,30,—,—,—,7710,7680
+699,,Aurorus,Monster,—,30,—,—,—,7710,7680
+701,,Hawlucha,Flying*,Human-Like,20,—,—,—,5140,5120
+702,,Dedenne,Field,Fairy,20,—,—,—,5140,5120
+703,,Carbink,Fairy,Mineral,25,—,—,—,6425,6400
+704,,Goomy,Dragon,—,40,—,—,—,10280,10240
+705,,Sliggoo,Dragon,—,40,—,—,—,10280,10240
+706,,Goodra,Dragon,—,40,—,—,—,10280,10240
+707,,Klefki,Mineral,—,20,—,—,—,5140,5120
+708,,Phantump,Grass,Amorphous,20,—,—,—,5140,5120
+709,,Trevenant,Grass,Amorphous,20,—,—,—,5140,5120
+710,,Pumpkaboo,Amorphous,—,20,—,—,—,5140,5120
+711,,Gourgeist,Amorphous,—,20,—,—,—,5140,5120
+712,,Bergmite,Monster,Mineral*,20,—,—,—,5140,5120
+713,,Avalugg,Monster,Mineral*,20,—,—,—,5140,5120
+714,,Noibat,Flying,Dragon*,20,—,—,—,5140,5120
+715,,Noivern,Flying,Dragon*,20,—,—,—,5140,5120
+716,,Xerneas,No Eggs Discovered,—,120,—,—,—,30840,30720
+717,,Yveltal,No Eggs Discovered,—,120,—,—,—,30840,30720
+718,,Zygarde,No Eggs Discovered,—,120,—,—,—,30840,30720
+719,,Diancie,No Eggs Discovered,—,25,—,—,—,6425,6400
+720,,Hoopa,No Eggs Discovered,—,120,—,—,—,30840,30720
+721,,Volcanion,No Eggs Discovered,—,120,—,—,—,30840,30720
+722,,Rowlet,Flying,—,15,—,—,—,—,3840
+723,,Dartrix,Flying,—,15,—,—,—,—,3840
+724,,Decidueye,Flying,—,15,—,—,—,—,3840
+725,,Litten,Field,—,15,—,—,—,—,3840
+726,,Torracat,Field,—,15,—,—,—,—,3840
+727,,Incineroar,Field,—,15,—,—,—,—,3840
+728,,Popplio,Water 1,Field,15,—,—,—,—,3840
+729,,Brionne,Water 1,Field,15,—,—,—,—,3840
+730,,Primarina,Water 1,Field,15,—,—,—,—,3840
+731,,Pikipek,Flying,—,15,—,—,—,—,3840
+732,,Trumbeak,Flying,—,15,—,—,—,—,3840
+733,,Toucannon,Flying,—,15,—,—,—,—,3840
+734,,Yungoos,Field,—,15,—,—,—,—,3840
+735,,Gumshoos,Field,—,15,—,—,—,—,3840
+736,,Grubbin,Bug,—,15,—,—,—,—,3840
+737,,Charjabug,Bug,—,15,—,—,—,—,3840
+738,,Vikavolt,Bug,—,15,—,—,—,—,3840
+739,,Crabrawler,Water 3,—,20,—,—,—,—,5120
+740,,Crabominable,Water 3,—,20,—,—,—,—,5120
+741,,Oricorio,Flying,—,20,—,—,—,—,5120
+742,,Cutiefly,Bug,Fairy,20,—,—,—,—,5120
+743,,Ribombee,Bug,Fairy,20,—,—,—,—,5120
+744,,Rockruff,Field,—,15,—,—,—,—,3840
+745,,Lycanroc,Field,—,15,—,—,—,—,3840
+746,,Wishiwashi,Water 2,—,15,—,—,—,—,3840
+747,,Mareanie,Water 1,—,20,—,—,—,—,5120
+748,,Toxapex,Water 1,—,20,—,—,—,—,5120
+749,,Mudbray,Field,—,20,—,—,—,—,5120
+750,,Mudsdale,Field,—,20,—,—,—,—,5120
+751,,Dewpider,Water 1,Bug,15,—,—,—,—,3840
+752,,Araquanid,Water 1,Bug,15,—,—,—,—,3840
+753,,Fomantis,Grass,—,20,—,—,—,—,5120
+754,,Lurantis,Grass,—,20,—,—,—,—,5120
+755,,Morelull,Grass,—,20,—,—,—,—,5120
+756,,Shiinotic,Grass,—,20,—,—,—,—,5120
+757,,Salandit,Monster,Dragon,20,—,—,—,—,5120
+758,,Salazzle,Monster,Dragon,20,—,—,—,—,5120
+759,,Stufful,Field,—,15,—,—,—,—,3840
+760,,Bewear,Field,—,15,—,—,—,—,3840
+761,,Bounsweet,Grass,—,20,—,—,—,—,5120
+762,,Steenee,Grass,—,20,—,—,—,—,5120
+763,,Tsareena,Grass,—,20,—,—,—,—,5120
+764,,Comfey,Grass,—,20,—,—,—,—,5120
+765,,Oranguru,Field,—,20,—,—,—,—,5120
+766,,Passimian,Field,—,20,—,—,—,—,5120
+767,,Wimpod,Bug,Water 3,20,—,—,—,—,5120
+768,,Golisopod,Bug,Water 3,20,—,—,—,—,5120
+769,,Sandygast,Amorphous,—,15,—,—,—,—,3840
+770,,Palossand,Amorphous,—,15,—,—,—,—,3840
+771,,Pyukumuku,Water 1,—,15,—,—,—,—,3840
+772,,Type: Null,No Eggs Discovered,—,120,—,—,—,—,30720
+773,,Silvally,No Eggs Discovered,—,120,—,—,—,—,30720
+774,,Minior,Mineral,—,25,—,—,—,—,6400
+775,,Komala,Field,—,20,—,—,—,—,5120
+776,,Turtonator,Monster,Dragon,20,—,—,—,—,5120
+777,,Togedemaru,Field,Fairy,10,—,—,—,—,2560
+778,,Mimikyu,Amorphous,—,20,—,—,—,—,5120
+779,,Bruxish,Water 2,—,15,—,—,—,—,3840
+780,,Drampa,Monster,Dragon,20,—,—,—,—,5120
+781,,Dhelmise,Mineral,—,25,—,—,—,—,6400
+782,,Jangmo-o,Dragon,—,40,—,—,—,—,10240
+783,,Hakamo-o,Dragon,—,40,—,—,—,—,10240
+784,,Kommo-o,Dragon,—,40,—,—,—,—,10240
+785,,Tapu Koko,No Eggs Discovered,—,15,—,—,—,—,3840
+786,,Tapu Lele,No Eggs Discovered,—,15,—,—,—,—,3840
+787,,Tapu Bulu,No Eggs Discovered,—,15,—,—,—,—,3840
+788,,Tapu Fini,No Eggs Discovered,—,15,—,—,—,—,3840
+789,,Cosmog,No Eggs Discovered,—,120,—,—,—,—,30720
+790,,Cosmoem,No Eggs Discovered,—,120,—,—,—,—,30720
+791,,Solgaleo,No Eggs Discovered,—,120,—,—,—,—,30720
+792,,Lunala,No Eggs Discovered,—,120,—,—,—,—,30720
+793,,Nihilego,No Eggs Discovered,—,120,—,—,—,—,30720
+794,,Buzzwole,No Eggs Discovered,—,120,—,—,—,—,30720
+795,,Pheromosa,No Eggs Discovered,—,120,—,—,—,—,30720
+796,,Xurkitree,No Eggs Discovered,—,120,—,—,—,—,30720
+797,,Celesteela,No Eggs Discovered,—,120,—,—,—,—,30720
+798,,Kartana,No Eggs Discovered,—,120,—,—,—,—,30720
+799,,Guzzlord,No Eggs Discovered,—,120,—,—,—,—,30720
+800,,Necrozma,No Eggs Discovered,—,120,—,—,—,—,30720
+801,,Magearna,No Eggs Discovered,—,120,—,—,—,—,30720
+802,,Marshadow,No Eggs Discovered,—,120,—,—,—,—,30720
+803,,Poipole,No Eggs Discovered,—,120,—,—,—,—,30720
+804,,Naganadel,No Eggs Discovered,—,120,—,—,—,—,30720
+805,,Stakataka,No Eggs Discovered,—,120,—,—,—,—,30720
+806,,Blacephalon,No Eggs Discovered,—,120,—,—,—,—,30720
+807,,Zeraora,No Eggs Discovered,—,120,—,—,—,—,30720
+808,,Meltan,No Eggs Discovered,—,120,—,—,—,—,30720
+809,,Melmetal,No Eggs Discovered,—,120,—,—,—,—,30720
+810,,Grookey,Field,Grass,20,—,—,—,—,5120
+811,,Thwackey,Field,Grass,20,—,—,—,—,5120
+812,,Rillaboom,Field,Grass,20,—,—,—,—,5120
+813,,Scorbunny,Field,Human-Like,20,—,—,—,—,5120
+814,,Raboot,Field,Human-Like,20,—,—,—,—,5120
+815,,Cinderace,Field,Human-Like,20,—,—,—,—,5120
+816,,Sobble,Water 1,Field,20,—,—,—,—,5120
+817,,Drizzile,Water 1,Field,20,—,—,—,—,5120
+818,,Inteleon,Water 1,Field,20,—,—,—,—,5120
+819,,Skwovet,Field,—,20,—,—,—,—,5120
+820,,Greedent,Field,—,20,—,—,—,—,5120
+821,,Rookidee,Flying,—,15,—,—,—,—,3840
+822,,Corvisquire,Flying,—,15,—,—,—,—,3840
+823,,Corviknight,Flying,—,15,—,—,—,—,3840
+824,,Blipbug,Bug,—,15,—,—,—,—,3840
+825,,Dottler,Bug,—,15,—,—,—,—,3840
+826,,Orbeetle,Bug,—,15,—,—,—,—,3840
+827,,Nickit,Field,—,15,—,—,—,—,3840
+828,,Thievul,Field,—,15,—,—,—,—,3840
+829,,Gossifleur,Grass,—,20,—,—,—,—,5120
+830,,Eldegoss,Grass,—,20,—,—,—,—,5120
+831,,Wooloo,Field,—,15,—,—,—,—,3840
+832,,Dubwool,Field,—,15,—,—,—,—,3840
+833,,Chewtle,Monster,Water 1,20,—,—,—,—,5120
+834,,Drednaw,Monster,Water 1,20,—,—,—,—,5120
+835,,Yamper,Field,—,20,—,—,—,—,5120
+836,,Boltund,Field,—,20,—,—,—,—,5120
+837,,Rolycoly,Mineral,—,15,—,—,—,—,3840
+838,,Carkol,Mineral,—,15,—,—,—,—,3840
+839,,Coalossal,Mineral,—,15,—,—,—,—,3840
+840,,Applin,Grass,Dragon,20,—,—,—,—,5120
+841,,Flapple,Grass,Dragon,20,—,—,—,—,5120
+842,,Appletun,Grass,Dragon,20,—,—,—,—,5120
+843,,Silicobra,Field,Dragon,20,—,—,—,—,5120
+844,,Sandaconda,Field,Dragon,20,—,—,—,—,5120
+845,,Cramorant,Water 1,Flying,20,—,—,—,—,5120
+846,,Arrokuda,Water 2,—,20,—,—,—,—,5120
+847,,Barraskewda,Water 2,—,20,—,—,—,—,5120
+848,,Toxel,No Eggs Discovered,—,25,—,—,—,—,6400
+849,,Toxtricity,Human-Like,—,25,—,—,—,—,6400
+850,,Sizzlipede,Bug,—,20,—,—,—,—,5120
+851,,Centiskorch,Bug,—,20,—,—,—,—,5120
+852,,Clobbopus,Water 1,Human-Like,25,—,—,—,—,6400
+853,,Grapploct,Water 1,Human-Like,25,—,—,—,—,6400
+854,,Sinistea,Mineral,Amorphous,20,—,—,—,—,5120
+855,,Polteageist,Mineral,Amorphous,20,—,—,—,—,5120
+856,,Hatenna,Fairy,—,20,—,—,—,—,5120
+857,,Hattrem,Fairy,—,20,—,—,—,—,5120
+858,,Hatterene,Fairy,—,20,—,—,—,—,5120
+859,,Impidimp,Fairy,Human-Like,20,—,—,—,—,5120
+860,,Morgrem,Fairy,Human-Like,20,—,—,—,—,5120
+861,,Grimmsnarl,Fairy,Human-Like,20,—,—,—,—,5120
+868,,Milcery,Fairy,Amorphous,20,—,—,—,—,5120
+869,,Alcremie,Fairy,Amorphous,20,—,—,—,—,5120
+870,,Falinks,Fairy,Mineral,25,—,—,—,—,6400
+871,,Pincurchin,Water 1,Amorphous,20,—,—,—,—,5120
+872,,Snom,Bug,—,20,—,—,—,—,5120
+873,,Frosmoth,Bug,—,20,—,—,—,—,5120
+874,,Stonjourner,Mineral,—,25,—,—,—,—,6400
+875,,Eiscue,Water 1,Field,25,—,—,—,—,6400
+876,,Indeedee,Fairy,—,40,—,—,—,—,10240
+877,,Morpeko,Field,Fairy,10,—,—,—,—,2560
+878,,Cufant,Field,Mineral,25,—,—,—,—,6400
+879,,Copperajah,Field,Mineral,25,—,—,—,—,6400
+880,,Dracozolt,No Eggs Discovered,—,35,—,—,—,—,8960
+881,,Arctozolt,No Eggs Discovered,—,35,—,—,—,—,8960
+882,,Dracovish,No Eggs Discovered,—,35,—,—,—,—,8960
+883,,Arctovish,No Eggs Discovered,—,35,—,—,—,—,8960
+884,,Duraludon,Mineral,Dragon,30,—,—,—,—,7680
+885,,Dreepy,Amorphous,Dragon,40,—,—,—,—,10240
+886,,Drakloak,Amorphous,Dragon,40,—,—,—,—,10240
+887,,Dragapult,Amorphous,Dragon,40,—,—,—,—,10240
+888,,Zacian,No Eggs Discovered,—,120,—,—,—,—,30720
+889,,Zamazenta,No Eggs Discovered,—,120,—,—,—,—,30720
+890,,Eternatus,No Eggs Discovered,—,120,—,—,—,—,30720
+891,,Kubfu,No Eggs Discovered,—,120,—,—,—,—,30720
+892,,Urshifu,No Eggs Discovered,—,120,—,—,—,—,30720
+893,,Zarude,No Eggs Discovered,—,120,—,—,—,—,30720
+894,,Regieleki,No Eggs Discovered,—,120,—,—,—,—,30720
+895,,Regidrago,No Eggs Discovered,—,120,—,—,—,—,30720
+896,,Glastrier,No Eggs Discovered,—,120,—,—,—,—,30720
+897,,Spectrier,No Eggs Discovered,—,120,—,—,—,—,30720
+898,,Calyrex,No Eggs Discovered,—,120,—,—,—,—,30720

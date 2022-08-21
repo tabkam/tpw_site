@@ -1,0 +1,115 @@
+/* CSS Document */
+
+.aiGrid {
+    display: grid;
+    grid-template-areas:
+        'title title title title'
+        'pimg  pimg  descr descr'
+        'pimg  pimg  descr descr'
+        'nav1  nav2  nav3  nav4';
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-gap: 10px;
+    background-color: deepskyblue;
+    grid-area: title;
+    grid-area: pimg;
+    grid-area: descr;
+    grid-area: nav1;
+    grid-area: nav2;
+    grid-area: nav3;
+    grid-area: nav4;
+}
+
+
+.aiGrid > div {
+    /* background-color: lightskyblue; */
+    padding: 20px;
+    font-size: 30px;
+}
+
+#title {
+    margin-top: 60px;
+    grid-area: title;
+    text-align: center;
+    font-size: 45px;
+}
+
+
+#pimg, #descr {
+    justify-self: center;
+    align-self: center;
+}
+
+
+#pimg, #descr, #nav1, #nav2, #nav3, #nav4 {
+    margin: auto;
+}
+
+#title {
+    grid-area: title;
+}
+
+#pimg {
+    grid-area: pimg;
+}
+
+#pimg > img {
+    width: 500px;
+}
+
+#descr {
+    grid-area: descr;
+}
+
+div > #descr {
+    font-size: 22.5px;
+}
+
+#nav1 {
+    grid-area: nav1;
+}
+
+#nav2 {
+    grid-area: nav2;
+}
+
+#nav3 {
+    grid-area: nav3;
+}
+
+#nav4 {
+    grid-area: nav4;
+}
+
+.textAlign {
+    text-align: right;
+}
+
+@media (max-width: 1200px) {
+	    #title { font-size: 45px; }
+	    #descr { font-size: 30px; }
+}
+
+@media (max-width: 992px) {
+	    #title { font-size: 30px; }
+	    #descr { font-size: 25px; }
+}
+
+@media (max-width: 768px) {
+    #title { font-size: 25px; }
+    #descr { font-size: 20px; }
+}
+
+@media (max-width: 576px) {
+    .aiGrid {
+        display: grid;
+        grid-template-areas:
+            'title title'
+            'pimg pimg'
+            'descr descr'
+            'nav1 nav2'
+            'nav3 nav4';
+        grid-template-columns: 1fr 1fr;
+    }
+        #title { font-size: 20px; }
+        #descr > p { font-size: 17.5px; }    
+}

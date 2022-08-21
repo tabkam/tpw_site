@@ -1,0 +1,24 @@
+﻿Sprite, TM , Move , Type , Pwr. , Acc. , PP 
+,TM02,Headbutt,Normal,70,100%,15
+,TM03,Curse,???,—,—%,10
+,TM06,Toxic,Poison,—,85%,10
+,TM10,Hidden Power,Normal,—,100%,15
+,TM11,Sunny Day,Fire,—,—%,5
+,TM12,Sweet Scent,Normal,—,100%,20
+,TM13,Snore,Normal,40,100%,15
+,TM17,Protect,Normal,—,—%,10
+,TM19,Giga Drain,Grass,60,100%,5
+,TM20,Endure,Normal,—,—%,10
+,TM21,Frustration,Normal,—,100%,20
+,TM22,SolarBeam,Grass,120,100%,10
+,TM27,Return,Normal,—,100%,20
+,TM31,Mud-Slap,Ground,20,100%,10
+,TM32,Double Team,Normal,—,—%,15
+,TM34,Swagger,Normal,—,90%,15
+,TM35,Sleep Talk,Normal,—,—%,10
+,TM40,Defense Curl,Normal,—,—%,40
+,TM44,Rest,Psychic,—,—%,10
+,TM45,Attract,Normal,—,100%,15
+,TM49,Fury Cutter,Bug,10,95%,20
+,HM01,Cut,Normal,50,95%,30
+,HM05,Flash,Normal,—,70%,20

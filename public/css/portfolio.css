@@ -1,0 +1,39 @@
+/* CSS Document */
+h1 {font-weight: bold;}
+
+h2, h3 {text-align: center;}
+
+p {text-align: center;}
+
+.portPar {
+    text-align: center;
+    padding: 5px 50px 25px 50px;
+}
+
+@media only screen and (max-width: 1200px) {
+    #heroHeading {
+        font-size: 36px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #heroHeading {
+        font-size: 30px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #heroHeading {
+        font-size: 24px;
+        padding-top: 28%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #heroHeading {
+        font-size: 18px;
+        padding-top: 28%;
+    }
+}

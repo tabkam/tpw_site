@@ -1,0 +1,32 @@
+﻿Sprite, TM , Move , Type , Cat. , Pwr. , Acc. , PP , Contest , Appeal , Jamming 
+,TM06,Toxic,Poison,Status,—,90%,10,Clever,3 ♥♥♥,0
+,TM09,Venoshock,Poison,Special,65,100%,10,Beautiful,2 ♥♥,0
+,TM10,Hidden Power,Normal,Special,60,100%,15,Clever,3 ♥♥♥,0
+,TM11,Sunny Day,Fire,Status,—,—%,5,Beautiful,1 ♥,0
+,TM16,Light Screen,Psychic,Status,—,—%,30,Beautiful,2 ♥♥,0
+,TM17,Protect,Normal,Status,—,—%,10,Cute,2 ♥♥,0
+,TM20,Safeguard,Normal,Status,—,—%,25,Beautiful,2 ♥♥,0
+,TM21,Frustration,Normal,Physical,—,100%,20,Cute,2 ♥♥,3 ♥♥♥
+,TM22,Solar Beam,Grass,Special,120,100%,10,Cool,3 ♥♥♥,0
+,TM27,Return,Normal,Physical,—,100%,20,Cute,4 ♥♥♥♥,0
+,TM32,Double Team,Normal,Status,—,—%,15,Cool,1 ♥,0
+,TM36,Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥,1 ♥
+,TM42,Facade,Normal,Physical,70,100%,20,Cute,2 ♥♥,0
+,TM44,Rest,Psychic,Status,—,—%,10,Cute,1 ♥,0
+,TM45,Attract,Normal,Status,—,100%,15,Cute,2 ♥♥,0
+,TM48,Round,Normal,Special,60,100%,15,Beautiful,2 ♥♥,0
+,TM49,Echoed Voice,Normal,Special,40,100%,15,Beautiful,3 ♥♥♥,0
+,TM53,Energy Ball,Grass,Special,90,100%,10,Beautiful,4 ♥♥♥♥,0
+,TM70,Flash,Normal,Status,—,100%,20,Beautiful,3 ♥♥♥,0
+,TM75,Swords Dance,Normal,Status,—,—%,20,Beautiful,1 ♥,0
+,TM86,Grass Knot,Grass,Special,—,100%,20,Cute,1 ♥,0
+,TM87,Swagger,Normal,Status,—,90%,15,Cute,3 ♥♥♥,0
+,TM88,Sleep Talk,Normal,Status,—,—%,10,Cute,1 ♥,0
+,TM90,Substitute,Normal,Status,—,—%,10,Cute,2 ♥♥,0
+,TM94,Rock Smash (XY),Fighting,Physical,40,100%,15,Tough,4 ♥♥♥♥,0
+,TM94,Secret Power (ORAS),Normal,Physical,70,100%,20,Clever,1 ♥,0
+,TM96,Nature Power,Normal,Status,—,—%,20,Beautiful,1 ♥,0
+,TM100,Confide,Normal,Status,—,—%,20,Cute,3 ♥♥♥,0
+,HM01,Cut,Normal,Physical,50,95%,30,Cool,4 ♥♥♥♥,0
+,HM04,Strength,Normal,Physical,80,100%,15,Tough,4 ♥♥♥♥,0
+,HM06,Rock Smash (ORAS),Fighting,Physical,40,100%,15,Tough,4 ♥♥♥♥,0
